@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
+
 # StarMoji
 StarMoji is an original, from-scratch emoji font in a glossy, 
 three-dimensional style. It's built for people who like that polished, 
