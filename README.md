@@ -1,4 +1,12 @@
+## Status
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
+
+🚧 **StarMoji is in active early development.** Glyph coverage is currently partial, 
+the visual style is still being refined, and both the source file structure and 
+the build pipeline may change without notice. It's not yet ready for production use.
+
+Watch or star the repo to follow progress — feel free to open an issue if you'd 
+like to contribute or suggest which emoji to prioritize next.
 
 # StarMoji
 StarMoji is an original, from-scratch emoji font in a glossy, 
