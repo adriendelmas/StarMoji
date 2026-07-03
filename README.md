@@ -28,4323 +28,4323 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 <details><summary><b>Smileys & Emotion</b> — 1/171 (1%)</summary>
 
 <table><tr>
-<td><span title="grinning face">&nbsp;</span></td>
-<td><span title="grinning face with big eyes">&nbsp;</span></td>
-<td><span title="grinning face with smiling eyes">&nbsp;</span></td>
-<td><span title="beaming face with smiling eyes">&nbsp;</span></td>
-<td><span title="grinning squinting face">&nbsp;</span></td>
-<td><span title="grinning face with sweat">&nbsp;</span></td>
-<td><span title="rolling on the floor laughing">&nbsp;</span></td>
-<td><span title="face with tears of joy">&nbsp;</span></td>
-<td><span title="slightly smiling face">&nbsp;</span></td>
-<td><span title="upside-down face">&nbsp;</span></td>
-<td><span title="melting face">&nbsp;</span></td>
-<td><span title="winking face">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning face with big eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning face with smiling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beaming face with smiling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning squinting face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning face with sweat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rolling on the floor laughing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with tears of joy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="slightly smiling face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="upside-down face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="melting face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="winking face"></td>
 </tr><tr>
-<td><span title="smiling face with smiling eyes">&nbsp;</span></td>
-<td><span title="smiling face with halo">&nbsp;</span></td>
-<td><span title="smiling face with hearts">&nbsp;</span></td>
-<td><span title="smiling face with heart-eyes">&nbsp;</span></td>
-<td><span title="star-struck">&nbsp;</span></td>
-<td><span title="face blowing a kiss">&nbsp;</span></td>
-<td><span title="kissing face">&nbsp;</span></td>
-<td><span title="smiling face">&nbsp;</span></td>
-<td><span title="kissing face with closed eyes">&nbsp;</span></td>
-<td><span title="kissing face with smiling eyes">&nbsp;</span></td>
-<td><span title="smiling face with tear">&nbsp;</span></td>
-<td><span title="face savoring food">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with smiling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with halo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with hearts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with heart-eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="star-struck"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face blowing a kiss"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kissing face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kissing face with closed eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kissing face with smiling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with tear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face savoring food"></td>
 </tr><tr>
-<td><span title="face with tongue">&nbsp;</span></td>
-<td><span title="winking face with tongue">&nbsp;</span></td>
-<td><span title="zany face">&nbsp;</span></td>
-<td><span title="squinting face with tongue">&nbsp;</span></td>
-<td><span title="money-mouth face">&nbsp;</span></td>
-<td><span title="smiling face with open hands">&nbsp;</span></td>
-<td><span title="face with hand over mouth">&nbsp;</span></td>
-<td><span title="face with open eyes and hand over mouth">&nbsp;</span></td>
-<td><span title="face with peeking eye">&nbsp;</span></td>
-<td><span title="shushing face">&nbsp;</span></td>
-<td><span title="thinking face">&nbsp;</span></td>
-<td><span title="saluting face">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with tongue"></td>
+<td><img src="assets/placeholder.svg" width="28" title="winking face with tongue"></td>
+<td><img src="assets/placeholder.svg" width="28" title="zany face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="squinting face with tongue"></td>
+<td><img src="assets/placeholder.svg" width="28" title="money-mouth face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with open hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with hand over mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with open eyes and hand over mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with peeking eye"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shushing face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thinking face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="saluting face"></td>
 </tr><tr>
-<td><span title="zipper-mouth face">&nbsp;</span></td>
-<td><span title="face with raised eyebrow">&nbsp;</span></td>
-<td><span title="neutral face">&nbsp;</span></td>
-<td><span title="expressionless face">&nbsp;</span></td>
-<td><span title="face without mouth">&nbsp;</span></td>
-<td><span title="dotted line face">&nbsp;</span></td>
-<td><span title="face in clouds">&nbsp;</span></td>
-<td><span title="smirking face">&nbsp;</span></td>
-<td><span title="unamused face">&nbsp;</span></td>
-<td><span title="face with rolling eyes">&nbsp;</span></td>
-<td><span title="grimacing face">&nbsp;</span></td>
-<td><span title="face exhaling">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="zipper-mouth face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with raised eyebrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="neutral face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="expressionless face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face without mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dotted line face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face in clouds"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smirking face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="unamused face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with rolling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grimacing face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face exhaling"></td>
 </tr><tr>
-<td><span title="lying face">&nbsp;</span></td>
-<td><span title="shaking face">&nbsp;</span></td>
-<td><span title="head shaking horizontally">&nbsp;</span></td>
-<td><span title="head shaking vertically">&nbsp;</span></td>
-<td><span title="relieved face">&nbsp;</span></td>
-<td><span title="pensive face">&nbsp;</span></td>
-<td><span title="sleepy face">&nbsp;</span></td>
-<td><span title="drooling face">&nbsp;</span></td>
-<td><span title="sleeping face">&nbsp;</span></td>
-<td><span title="face with bags under eyes">&nbsp;</span></td>
-<td><span title="face with medical mask">&nbsp;</span></td>
-<td><span title="face with thermometer">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="lying face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shaking face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="head shaking horizontally"></td>
+<td><img src="assets/placeholder.svg" width="28" title="head shaking vertically"></td>
+<td><img src="assets/placeholder.svg" width="28" title="relieved face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pensive face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sleepy face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="drooling face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sleeping face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with bags under eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with medical mask"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with thermometer"></td>
 </tr><tr>
-<td><span title="face with head-bandage">&nbsp;</span></td>
-<td><span title="nauseated face">&nbsp;</span></td>
-<td><span title="face vomiting">&nbsp;</span></td>
-<td><span title="sneezing face">&nbsp;</span></td>
-<td><span title="hot face">&nbsp;</span></td>
-<td><span title="cold face">&nbsp;</span></td>
-<td><span title="woozy face">&nbsp;</span></td>
-<td><span title="face with crossed-out eyes">&nbsp;</span></td>
-<td><span title="face with spiral eyes">&nbsp;</span></td>
-<td><span title="exploding head">&nbsp;</span></td>
-<td><span title="cowboy hat face">&nbsp;</span></td>
-<td><span title="partying face">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with head-bandage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nauseated face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face vomiting"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sneezing face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hot face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cold face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woozy face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with crossed-out eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with spiral eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="exploding head"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cowboy hat face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="partying face"></td>
 </tr><tr>
-<td><span title="disguised face">&nbsp;</span></td>
-<td><span title="smiling face with sunglasses">&nbsp;</span></td>
-<td><span title="nerd face">&nbsp;</span></td>
-<td><span title="face with monocle">&nbsp;</span></td>
-<td><span title="confused face">&nbsp;</span></td>
-<td><span title="face with diagonal mouth">&nbsp;</span></td>
-<td><span title="worried face">&nbsp;</span></td>
-<td><span title="slightly frowning face">&nbsp;</span></td>
-<td><span title="frowning face">&nbsp;</span></td>
-<td><span title="face with open mouth">&nbsp;</span></td>
-<td><span title="hushed face">&nbsp;</span></td>
-<td><span title="astonished face">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="disguised face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with sunglasses"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nerd face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with monocle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="confused face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with diagonal mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="worried face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="slightly frowning face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="frowning face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with open mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hushed face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astonished face"></td>
 </tr><tr>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-concerned/1F633.svg" width="28" title="flushed face"></td>
-<td><span title="distorted face">&nbsp;</span></td>
-<td><span title="pleading face">&nbsp;</span></td>
-<td><span title="face holding back tears">&nbsp;</span></td>
-<td><span title="frowning face with open mouth">&nbsp;</span></td>
-<td><span title="anguished face">&nbsp;</span></td>
-<td><span title="fearful face">&nbsp;</span></td>
-<td><span title="anxious face with sweat">&nbsp;</span></td>
-<td><span title="sad but relieved face">&nbsp;</span></td>
-<td><span title="crying face">&nbsp;</span></td>
-<td><span title="loudly crying face">&nbsp;</span></td>
-<td><span title="face screaming in fear">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="distorted face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pleading face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face holding back tears"></td>
+<td><img src="assets/placeholder.svg" width="28" title="frowning face with open mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="anguished face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fearful face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="anxious face with sweat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sad but relieved face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crying face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="loudly crying face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face screaming in fear"></td>
 </tr><tr>
-<td><span title="confounded face">&nbsp;</span></td>
-<td><span title="persevering face">&nbsp;</span></td>
-<td><span title="disappointed face">&nbsp;</span></td>
-<td><span title="downcast face with sweat">&nbsp;</span></td>
-<td><span title="weary face">&nbsp;</span></td>
-<td><span title="tired face">&nbsp;</span></td>
-<td><span title="yawning face">&nbsp;</span></td>
-<td><span title="face with steam from nose">&nbsp;</span></td>
-<td><span title="enraged face">&nbsp;</span></td>
-<td><span title="angry face">&nbsp;</span></td>
-<td><span title="face with symbols on mouth">&nbsp;</span></td>
-<td><span title="smiling face with horns">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="confounded face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="persevering face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="disappointed face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="downcast face with sweat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="weary face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tired face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yawning face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with steam from nose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="enraged face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="angry face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="face with symbols on mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling face with horns"></td>
 </tr><tr>
-<td><span title="angry face with horns">&nbsp;</span></td>
-<td><span title="skull">&nbsp;</span></td>
-<td><span title="skull and crossbones">&nbsp;</span></td>
-<td><span title="pile of poo">&nbsp;</span></td>
-<td><span title="clown face">&nbsp;</span></td>
-<td><span title="ogre">&nbsp;</span></td>
-<td><span title="goblin">&nbsp;</span></td>
-<td><span title="ghost">&nbsp;</span></td>
-<td><span title="alien">&nbsp;</span></td>
-<td><span title="alien monster">&nbsp;</span></td>
-<td><span title="robot">&nbsp;</span></td>
-<td><span title="grinning cat">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="angry face with horns"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skull"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skull and crossbones"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pile of poo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clown face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ogre"></td>
+<td><img src="assets/placeholder.svg" width="28" title="goblin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ghost"></td>
+<td><img src="assets/placeholder.svg" width="28" title="alien"></td>
+<td><img src="assets/placeholder.svg" width="28" title="alien monster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="robot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning cat"></td>
 </tr><tr>
-<td><span title="grinning cat with smiling eyes">&nbsp;</span></td>
-<td><span title="cat with tears of joy">&nbsp;</span></td>
-<td><span title="smiling cat with heart-eyes">&nbsp;</span></td>
-<td><span title="cat with wry smile">&nbsp;</span></td>
-<td><span title="kissing cat">&nbsp;</span></td>
-<td><span title="weary cat">&nbsp;</span></td>
-<td><span title="crying cat">&nbsp;</span></td>
-<td><span title="pouting cat">&nbsp;</span></td>
-<td><span title="see-no-evil monkey">&nbsp;</span></td>
-<td><span title="hear-no-evil monkey">&nbsp;</span></td>
-<td><span title="speak-no-evil monkey">&nbsp;</span></td>
-<td><span title="love letter">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="grinning cat with smiling eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cat with tears of joy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="smiling cat with heart-eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cat with wry smile"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kissing cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="weary cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crying cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pouting cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="see-no-evil monkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hear-no-evil monkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speak-no-evil monkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love letter"></td>
 </tr><tr>
-<td><span title="heart with arrow">&nbsp;</span></td>
-<td><span title="heart with ribbon">&nbsp;</span></td>
-<td><span title="sparkling heart">&nbsp;</span></td>
-<td><span title="growing heart">&nbsp;</span></td>
-<td><span title="beating heart">&nbsp;</span></td>
-<td><span title="revolving hearts">&nbsp;</span></td>
-<td><span title="two hearts">&nbsp;</span></td>
-<td><span title="heart decoration">&nbsp;</span></td>
-<td><span title="heart exclamation">&nbsp;</span></td>
-<td><span title="broken heart">&nbsp;</span></td>
-<td><span title="heart on fire">&nbsp;</span></td>
-<td><span title="mending heart">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart with arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart with ribbon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sparkling heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="growing heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beating heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="revolving hearts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="two hearts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart decoration"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart exclamation"></td>
+<td><img src="assets/placeholder.svg" width="28" title="broken heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart on fire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mending heart"></td>
 </tr><tr>
-<td><span title="red heart">&nbsp;</span></td>
-<td><span title="pink heart">&nbsp;</span></td>
-<td><span title="orange heart">&nbsp;</span></td>
-<td><span title="yellow heart">&nbsp;</span></td>
-<td><span title="green heart">&nbsp;</span></td>
-<td><span title="blue heart">&nbsp;</span></td>
-<td><span title="light blue heart">&nbsp;</span></td>
-<td><span title="purple heart">&nbsp;</span></td>
-<td><span title="brown heart">&nbsp;</span></td>
-<td><span title="black heart">&nbsp;</span></td>
-<td><span title="grey heart">&nbsp;</span></td>
-<td><span title="white heart">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="red heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pink heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orange heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yellow heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blue heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="light blue heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="purple heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brown heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="grey heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white heart"></td>
 </tr><tr>
-<td><span title="kiss mark">&nbsp;</span></td>
-<td><span title="hundred points">&nbsp;</span></td>
-<td><span title="anger symbol">&nbsp;</span></td>
-<td><span title="fight cloud">&nbsp;</span></td>
-<td><span title="collision">&nbsp;</span></td>
-<td><span title="dizzy">&nbsp;</span></td>
-<td><span title="sweat droplets">&nbsp;</span></td>
-<td><span title="dashing away">&nbsp;</span></td>
-<td><span title="hole">&nbsp;</span></td>
-<td><span title="speech balloon">&nbsp;</span></td>
-<td><span title="eye in speech bubble">&nbsp;</span></td>
-<td><span title="left speech bubble">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hundred points"></td>
+<td><img src="assets/placeholder.svg" width="28" title="anger symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fight cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="collision"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dizzy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sweat droplets"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dashing away"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hole"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speech balloon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eye in speech bubble"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left speech bubble"></td>
 </tr><tr>
-<td><span title="right anger bubble">&nbsp;</span></td>
-<td><span title="thought balloon">&nbsp;</span></td>
-<td><span title="ZZZ">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="right anger bubble"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thought balloon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ZZZ"></td>
 </tr></table>
 </details>
 
 <details><summary><b>People & Body</b> — 0/2418 (0%)</summary>
 
 <table><tr>
-<td><span title="waving hand">&nbsp;</span></td>
-<td><span title="waving hand: light skin tone">&nbsp;</span></td>
-<td><span title="waving hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="waving hand: medium skin tone">&nbsp;</span></td>
-<td><span title="waving hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="waving hand: dark skin tone">&nbsp;</span></td>
-<td><span title="raised back of hand">&nbsp;</span></td>
-<td><span title="raised back of hand: light skin tone">&nbsp;</span></td>
-<td><span title="raised back of hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="raised back of hand: medium skin tone">&nbsp;</span></td>
-<td><span title="raised back of hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="raised back of hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="hand with fingers splayed">&nbsp;</span></td>
-<td><span title="hand with fingers splayed: light skin tone">&nbsp;</span></td>
-<td><span title="hand with fingers splayed: medium-light skin tone">&nbsp;</span></td>
-<td><span title="hand with fingers splayed: medium skin tone">&nbsp;</span></td>
-<td><span title="hand with fingers splayed: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="hand with fingers splayed: dark skin tone">&nbsp;</span></td>
-<td><span title="raised hand">&nbsp;</span></td>
-<td><span title="raised hand: light skin tone">&nbsp;</span></td>
-<td><span title="raised hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="raised hand: medium skin tone">&nbsp;</span></td>
-<td><span title="raised hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="raised hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="vulcan salute">&nbsp;</span></td>
-<td><span title="vulcan salute: light skin tone">&nbsp;</span></td>
-<td><span title="vulcan salute: medium-light skin tone">&nbsp;</span></td>
-<td><span title="vulcan salute: medium skin tone">&nbsp;</span></td>
-<td><span title="vulcan salute: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="vulcan salute: dark skin tone">&nbsp;</span></td>
-<td><span title="rightwards hand">&nbsp;</span></td>
-<td><span title="rightwards hand: light skin tone">&nbsp;</span></td>
-<td><span title="rightwards hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="rightwards hand: medium skin tone">&nbsp;</span></td>
-<td><span title="rightwards hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="rightwards hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="leftwards hand">&nbsp;</span></td>
-<td><span title="leftwards hand: light skin tone">&nbsp;</span></td>
-<td><span title="leftwards hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="leftwards hand: medium skin tone">&nbsp;</span></td>
-<td><span title="leftwards hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="leftwards hand: dark skin tone">&nbsp;</span></td>
-<td><span title="palm down hand">&nbsp;</span></td>
-<td><span title="palm down hand: light skin tone">&nbsp;</span></td>
-<td><span title="palm down hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="palm down hand: medium skin tone">&nbsp;</span></td>
-<td><span title="palm down hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="palm down hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="palm up hand">&nbsp;</span></td>
-<td><span title="palm up hand: light skin tone">&nbsp;</span></td>
-<td><span title="palm up hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="palm up hand: medium skin tone">&nbsp;</span></td>
-<td><span title="palm up hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="palm up hand: dark skin tone">&nbsp;</span></td>
-<td><span title="leftwards pushing hand">&nbsp;</span></td>
-<td><span title="leftwards pushing hand: light skin tone">&nbsp;</span></td>
-<td><span title="leftwards pushing hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="leftwards pushing hand: medium skin tone">&nbsp;</span></td>
-<td><span title="leftwards pushing hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="leftwards pushing hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="rightwards pushing hand">&nbsp;</span></td>
-<td><span title="rightwards pushing hand: light skin tone">&nbsp;</span></td>
-<td><span title="rightwards pushing hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="rightwards pushing hand: medium skin tone">&nbsp;</span></td>
-<td><span title="rightwards pushing hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="rightwards pushing hand: dark skin tone">&nbsp;</span></td>
-<td><span title="OK hand">&nbsp;</span></td>
-<td><span title="OK hand: light skin tone">&nbsp;</span></td>
-<td><span title="OK hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="OK hand: medium skin tone">&nbsp;</span></td>
-<td><span title="OK hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="OK hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="pinched fingers">&nbsp;</span></td>
-<td><span title="pinched fingers: light skin tone">&nbsp;</span></td>
-<td><span title="pinched fingers: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pinched fingers: medium skin tone">&nbsp;</span></td>
-<td><span title="pinched fingers: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pinched fingers: dark skin tone">&nbsp;</span></td>
-<td><span title="pinching hand">&nbsp;</span></td>
-<td><span title="pinching hand: light skin tone">&nbsp;</span></td>
-<td><span title="pinching hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pinching hand: medium skin tone">&nbsp;</span></td>
-<td><span title="pinching hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pinching hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="victory hand">&nbsp;</span></td>
-<td><span title="victory hand: light skin tone">&nbsp;</span></td>
-<td><span title="victory hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="victory hand: medium skin tone">&nbsp;</span></td>
-<td><span title="victory hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="victory hand: dark skin tone">&nbsp;</span></td>
-<td><span title="crossed fingers">&nbsp;</span></td>
-<td><span title="crossed fingers: light skin tone">&nbsp;</span></td>
-<td><span title="crossed fingers: medium-light skin tone">&nbsp;</span></td>
-<td><span title="crossed fingers: medium skin tone">&nbsp;</span></td>
-<td><span title="crossed fingers: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="crossed fingers: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="hand with index finger and thumb crossed">&nbsp;</span></td>
-<td><span title="hand with index finger and thumb crossed: light skin tone">&nbsp;</span></td>
-<td><span title="hand with index finger and thumb crossed: medium-light skin tone">&nbsp;</span></td>
-<td><span title="hand with index finger and thumb crossed: medium skin tone">&nbsp;</span></td>
-<td><span title="hand with index finger and thumb crossed: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="hand with index finger and thumb crossed: dark skin tone">&nbsp;</span></td>
-<td><span title="love-you gesture">&nbsp;</span></td>
-<td><span title="love-you gesture: light skin tone">&nbsp;</span></td>
-<td><span title="love-you gesture: medium-light skin tone">&nbsp;</span></td>
-<td><span title="love-you gesture: medium skin tone">&nbsp;</span></td>
-<td><span title="love-you gesture: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="love-you gesture: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="sign of the horns">&nbsp;</span></td>
-<td><span title="sign of the horns: light skin tone">&nbsp;</span></td>
-<td><span title="sign of the horns: medium-light skin tone">&nbsp;</span></td>
-<td><span title="sign of the horns: medium skin tone">&nbsp;</span></td>
-<td><span title="sign of the horns: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="sign of the horns: dark skin tone">&nbsp;</span></td>
-<td><span title="call me hand">&nbsp;</span></td>
-<td><span title="call me hand: light skin tone">&nbsp;</span></td>
-<td><span title="call me hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="call me hand: medium skin tone">&nbsp;</span></td>
-<td><span title="call me hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="call me hand: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="backhand index pointing left">&nbsp;</span></td>
-<td><span title="backhand index pointing left: light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing left: medium-light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing left: medium skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing left: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing left: dark skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing right">&nbsp;</span></td>
-<td><span title="backhand index pointing right: light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing right: medium skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing right: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="backhand index pointing up">&nbsp;</span></td>
-<td><span title="backhand index pointing up: light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing up: medium-light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing up: medium skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing up: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing up: dark skin tone">&nbsp;</span></td>
-<td><span title="middle finger">&nbsp;</span></td>
-<td><span title="middle finger: light skin tone">&nbsp;</span></td>
-<td><span title="middle finger: medium-light skin tone">&nbsp;</span></td>
-<td><span title="middle finger: medium skin tone">&nbsp;</span></td>
-<td><span title="middle finger: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="middle finger: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="backhand index pointing down">&nbsp;</span></td>
-<td><span title="backhand index pointing down: light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing down: medium-light skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing down: medium skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing down: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="backhand index pointing down: dark skin tone">&nbsp;</span></td>
-<td><span title="index pointing up">&nbsp;</span></td>
-<td><span title="index pointing up: light skin tone">&nbsp;</span></td>
-<td><span title="index pointing up: medium-light skin tone">&nbsp;</span></td>
-<td><span title="index pointing up: medium skin tone">&nbsp;</span></td>
-<td><span title="index pointing up: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="index pointing up: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="index pointing at the viewer">&nbsp;</span></td>
-<td><span title="index pointing at the viewer: light skin tone">&nbsp;</span></td>
-<td><span title="index pointing at the viewer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="index pointing at the viewer: medium skin tone">&nbsp;</span></td>
-<td><span title="index pointing at the viewer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="index pointing at the viewer: dark skin tone">&nbsp;</span></td>
-<td><span title="thumbs up">&nbsp;</span></td>
-<td><span title="thumbs up: light skin tone">&nbsp;</span></td>
-<td><span title="thumbs up: medium-light skin tone">&nbsp;</span></td>
-<td><span title="thumbs up: medium skin tone">&nbsp;</span></td>
-<td><span title="thumbs up: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="thumbs up: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="thumbs down">&nbsp;</span></td>
-<td><span title="thumbs down: light skin tone">&nbsp;</span></td>
-<td><span title="thumbs down: medium-light skin tone">&nbsp;</span></td>
-<td><span title="thumbs down: medium skin tone">&nbsp;</span></td>
-<td><span title="thumbs down: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="thumbs down: dark skin tone">&nbsp;</span></td>
-<td><span title="raised fist">&nbsp;</span></td>
-<td><span title="raised fist: light skin tone">&nbsp;</span></td>
-<td><span title="raised fist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="raised fist: medium skin tone">&nbsp;</span></td>
-<td><span title="raised fist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="raised fist: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="oncoming fist">&nbsp;</span></td>
-<td><span title="oncoming fist: light skin tone">&nbsp;</span></td>
-<td><span title="oncoming fist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="oncoming fist: medium skin tone">&nbsp;</span></td>
-<td><span title="oncoming fist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="oncoming fist: dark skin tone">&nbsp;</span></td>
-<td><span title="left-facing fist">&nbsp;</span></td>
-<td><span title="left-facing fist: light skin tone">&nbsp;</span></td>
-<td><span title="left-facing fist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="left-facing fist: medium skin tone">&nbsp;</span></td>
-<td><span title="left-facing fist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="left-facing fist: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="right-facing fist">&nbsp;</span></td>
-<td><span title="right-facing fist: light skin tone">&nbsp;</span></td>
-<td><span title="right-facing fist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="right-facing fist: medium skin tone">&nbsp;</span></td>
-<td><span title="right-facing fist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="right-facing fist: dark skin tone">&nbsp;</span></td>
-<td><span title="clapping hands">&nbsp;</span></td>
-<td><span title="clapping hands: light skin tone">&nbsp;</span></td>
-<td><span title="clapping hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="clapping hands: medium skin tone">&nbsp;</span></td>
-<td><span title="clapping hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="clapping hands: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="raising hands">&nbsp;</span></td>
-<td><span title="raising hands: light skin tone">&nbsp;</span></td>
-<td><span title="raising hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="raising hands: medium skin tone">&nbsp;</span></td>
-<td><span title="raising hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="raising hands: dark skin tone">&nbsp;</span></td>
-<td><span title="heart hands">&nbsp;</span></td>
-<td><span title="heart hands: light skin tone">&nbsp;</span></td>
-<td><span title="heart hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="heart hands: medium skin tone">&nbsp;</span></td>
-<td><span title="heart hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="heart hands: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="open hands">&nbsp;</span></td>
-<td><span title="open hands: light skin tone">&nbsp;</span></td>
-<td><span title="open hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="open hands: medium skin tone">&nbsp;</span></td>
-<td><span title="open hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="open hands: dark skin tone">&nbsp;</span></td>
-<td><span title="palms up together">&nbsp;</span></td>
-<td><span title="palms up together: light skin tone">&nbsp;</span></td>
-<td><span title="palms up together: medium-light skin tone">&nbsp;</span></td>
-<td><span title="palms up together: medium skin tone">&nbsp;</span></td>
-<td><span title="palms up together: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="palms up together: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="handshake">&nbsp;</span></td>
-<td><span title="handshake: light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="handshake: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="handshake: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="handshake: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="handshake: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="handshake: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="handshake: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="handshake: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="handshake: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="folded hands">&nbsp;</span></td>
-<td><span title="folded hands: light skin tone">&nbsp;</span></td>
-<td><span title="folded hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="folded hands: medium skin tone">&nbsp;</span></td>
-<td><span title="folded hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="folded hands: dark skin tone">&nbsp;</span></td>
-<td><span title="writing hand">&nbsp;</span></td>
-<td><span title="writing hand: light skin tone">&nbsp;</span></td>
-<td><span title="writing hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="writing hand: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="writing hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="writing hand: dark skin tone">&nbsp;</span></td>
-<td><span title="nail polish">&nbsp;</span></td>
-<td><span title="nail polish: light skin tone">&nbsp;</span></td>
-<td><span title="nail polish: medium-light skin tone">&nbsp;</span></td>
-<td><span title="nail polish: medium skin tone">&nbsp;</span></td>
-<td><span title="nail polish: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="nail polish: dark skin tone">&nbsp;</span></td>
-<td><span title="selfie">&nbsp;</span></td>
-<td><span title="selfie: light skin tone">&nbsp;</span></td>
-<td><span title="selfie: medium-light skin tone">&nbsp;</span></td>
-<td><span title="selfie: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="selfie: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="selfie: dark skin tone">&nbsp;</span></td>
-<td><span title="flexed biceps">&nbsp;</span></td>
-<td><span title="flexed biceps: light skin tone">&nbsp;</span></td>
-<td><span title="flexed biceps: medium-light skin tone">&nbsp;</span></td>
-<td><span title="flexed biceps: medium skin tone">&nbsp;</span></td>
-<td><span title="flexed biceps: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="flexed biceps: dark skin tone">&nbsp;</span></td>
-<td><span title="mechanical arm">&nbsp;</span></td>
-<td><span title="mechanical leg">&nbsp;</span></td>
-<td><span title="leg">&nbsp;</span></td>
-<td><span title="leg: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="leg: medium-light skin tone">&nbsp;</span></td>
-<td><span title="leg: medium skin tone">&nbsp;</span></td>
-<td><span title="leg: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="leg: dark skin tone">&nbsp;</span></td>
-<td><span title="foot">&nbsp;</span></td>
-<td><span title="foot: light skin tone">&nbsp;</span></td>
-<td><span title="foot: medium-light skin tone">&nbsp;</span></td>
-<td><span title="foot: medium skin tone">&nbsp;</span></td>
-<td><span title="foot: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="foot: dark skin tone">&nbsp;</span></td>
-<td><span title="ear">&nbsp;</span></td>
-<td><span title="ear: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="ear: medium-light skin tone">&nbsp;</span></td>
-<td><span title="ear: medium skin tone">&nbsp;</span></td>
-<td><span title="ear: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="ear: dark skin tone">&nbsp;</span></td>
-<td><span title="ear with hearing aid">&nbsp;</span></td>
-<td><span title="ear with hearing aid: light skin tone">&nbsp;</span></td>
-<td><span title="ear with hearing aid: medium-light skin tone">&nbsp;</span></td>
-<td><span title="ear with hearing aid: medium skin tone">&nbsp;</span></td>
-<td><span title="ear with hearing aid: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="ear with hearing aid: dark skin tone">&nbsp;</span></td>
-<td><span title="nose">&nbsp;</span></td>
-<td><span title="nose: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="nose: medium-light skin tone">&nbsp;</span></td>
-<td><span title="nose: medium skin tone">&nbsp;</span></td>
-<td><span title="nose: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="nose: dark skin tone">&nbsp;</span></td>
-<td><span title="brain">&nbsp;</span></td>
-<td><span title="anatomical heart">&nbsp;</span></td>
-<td><span title="lungs">&nbsp;</span></td>
-<td><span title="tooth">&nbsp;</span></td>
-<td><span title="bone">&nbsp;</span></td>
-<td><span title="eyes">&nbsp;</span></td>
-<td><span title="eye">&nbsp;</span></td>
-<td><span title="tongue">&nbsp;</span></td>
-</tr><tr>
-<td><span title="mouth">&nbsp;</span></td>
-<td><span title="biting lip">&nbsp;</span></td>
-<td><span title="baby">&nbsp;</span></td>
-<td><span title="baby: light skin tone">&nbsp;</span></td>
-<td><span title="baby: medium-light skin tone">&nbsp;</span></td>
-<td><span title="baby: medium skin tone">&nbsp;</span></td>
-<td><span title="baby: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="baby: dark skin tone">&nbsp;</span></td>
-<td><span title="child">&nbsp;</span></td>
-<td><span title="child: light skin tone">&nbsp;</span></td>
-<td><span title="child: medium-light skin tone">&nbsp;</span></td>
-<td><span title="child: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="child: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="child: dark skin tone">&nbsp;</span></td>
-<td><span title="boy">&nbsp;</span></td>
-<td><span title="boy: light skin tone">&nbsp;</span></td>
-<td><span title="boy: medium-light skin tone">&nbsp;</span></td>
-<td><span title="boy: medium skin tone">&nbsp;</span></td>
-<td><span title="boy: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="boy: dark skin tone">&nbsp;</span></td>
-<td><span title="girl">&nbsp;</span></td>
-<td><span title="girl: light skin tone">&nbsp;</span></td>
-<td><span title="girl: medium-light skin tone">&nbsp;</span></td>
-<td><span title="girl: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="girl: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="girl: dark skin tone">&nbsp;</span></td>
-<td><span title="person">&nbsp;</span></td>
-<td><span title="person: light skin tone">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person: medium skin tone">&nbsp;</span></td>
-<td><span title="person: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person: dark skin tone">&nbsp;</span></td>
-<td><span title="person: blond hair">&nbsp;</span></td>
-<td><span title="person: light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="person: medium skin tone, blond hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person: medium-dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="person: dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man">&nbsp;</span></td>
-<td><span title="man: light skin tone">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man: medium skin tone">&nbsp;</span></td>
-<td><span title="man: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man: dark skin tone">&nbsp;</span></td>
-<td><span title="person: beard">&nbsp;</span></td>
-<td><span title="person: light skin tone, beard">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, beard">&nbsp;</span></td>
-<td><span title="person: medium skin tone, beard">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person: medium-dark skin tone, beard">&nbsp;</span></td>
-<td><span title="person: dark skin tone, beard">&nbsp;</span></td>
-<td><span title="man: beard">&nbsp;</span></td>
-<td><span title="man: light skin tone, beard">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, beard">&nbsp;</span></td>
-<td><span title="man: medium skin tone, beard">&nbsp;</span></td>
-<td><span title="man: medium-dark skin tone, beard">&nbsp;</span></td>
-<td><span title="man: dark skin tone, beard">&nbsp;</span></td>
-<td><span title="woman: beard">&nbsp;</span></td>
-<td><span title="woman: light skin tone, beard">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, beard">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, beard">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, beard">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, beard">&nbsp;</span></td>
-<td><span title="man: red hair">&nbsp;</span></td>
-<td><span title="man: light skin tone, red hair">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, red hair">&nbsp;</span></td>
-<td><span title="man: medium skin tone, red hair">&nbsp;</span></td>
-<td><span title="man: medium-dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="man: dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="man: curly hair">&nbsp;</span></td>
-<td><span title="man: light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="man: medium skin tone, curly hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man: medium-dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="man: dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="man: white hair">&nbsp;</span></td>
-<td><span title="man: light skin tone, white hair">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, white hair">&nbsp;</span></td>
-<td><span title="man: medium skin tone, white hair">&nbsp;</span></td>
-<td><span title="man: medium-dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="man: dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="man: bald">&nbsp;</span></td>
-<td><span title="man: light skin tone, bald">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, bald">&nbsp;</span></td>
-<td><span title="man: medium skin tone, bald">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man: medium-dark skin tone, bald">&nbsp;</span></td>
-<td><span title="man: dark skin tone, bald">&nbsp;</span></td>
-<td><span title="woman">&nbsp;</span></td>
-<td><span title="woman: light skin tone">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman: medium skin tone">&nbsp;</span></td>
-<td><span title="woman: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman: dark skin tone">&nbsp;</span></td>
-<td><span title="woman: red hair">&nbsp;</span></td>
-<td><span title="woman: light skin tone, red hair">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, red hair">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, red hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="person: red hair">&nbsp;</span></td>
-<td><span title="person: light skin tone, red hair">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, red hair">&nbsp;</span></td>
-<td><span title="person: medium skin tone, red hair">&nbsp;</span></td>
-<td><span title="person: medium-dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="person: dark skin tone, red hair">&nbsp;</span></td>
-<td><span title="woman: curly hair">&nbsp;</span></td>
-<td><span title="woman: light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, curly hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="person: curly hair">&nbsp;</span></td>
-<td><span title="person: light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, curly hair">&nbsp;</span></td>
-<td><span title="person: medium skin tone, curly hair">&nbsp;</span></td>
-<td><span title="person: medium-dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="person: dark skin tone, curly hair">&nbsp;</span></td>
-<td><span title="woman: white hair">&nbsp;</span></td>
-<td><span title="woman: light skin tone, white hair">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, white hair">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, white hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="person: white hair">&nbsp;</span></td>
-<td><span title="person: light skin tone, white hair">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, white hair">&nbsp;</span></td>
-<td><span title="person: medium skin tone, white hair">&nbsp;</span></td>
-<td><span title="person: medium-dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="person: dark skin tone, white hair">&nbsp;</span></td>
-<td><span title="woman: bald">&nbsp;</span></td>
-<td><span title="woman: light skin tone, bald">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, bald">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, bald">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, bald">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, bald">&nbsp;</span></td>
-<td><span title="person: bald">&nbsp;</span></td>
-<td><span title="person: light skin tone, bald">&nbsp;</span></td>
-<td><span title="person: medium-light skin tone, bald">&nbsp;</span></td>
-<td><span title="person: medium skin tone, bald">&nbsp;</span></td>
-<td><span title="person: medium-dark skin tone, bald">&nbsp;</span></td>
-<td><span title="person: dark skin tone, bald">&nbsp;</span></td>
-<td><span title="woman: blond hair">&nbsp;</span></td>
-<td><span title="woman: light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="woman: medium-light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="woman: medium skin tone, blond hair">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman: medium-dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="woman: dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man: blond hair">&nbsp;</span></td>
-<td><span title="man: light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man: medium-light skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man: medium skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man: medium-dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="man: dark skin tone, blond hair">&nbsp;</span></td>
-<td><span title="older person">&nbsp;</span></td>
-<td><span title="older person: light skin tone">&nbsp;</span></td>
-<td><span title="older person: medium-light skin tone">&nbsp;</span></td>
-<td><span title="older person: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="older person: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="older person: dark skin tone">&nbsp;</span></td>
-<td><span title="old man">&nbsp;</span></td>
-<td><span title="old man: light skin tone">&nbsp;</span></td>
-<td><span title="old man: medium-light skin tone">&nbsp;</span></td>
-<td><span title="old man: medium skin tone">&nbsp;</span></td>
-<td><span title="old man: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="old man: dark skin tone">&nbsp;</span></td>
-<td><span title="old woman">&nbsp;</span></td>
-<td><span title="old woman: light skin tone">&nbsp;</span></td>
-<td><span title="old woman: medium-light skin tone">&nbsp;</span></td>
-<td><span title="old woman: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="old woman: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="old woman: dark skin tone">&nbsp;</span></td>
-<td><span title="person frowning">&nbsp;</span></td>
-<td><span title="person frowning: light skin tone">&nbsp;</span></td>
-<td><span title="person frowning: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person frowning: medium skin tone">&nbsp;</span></td>
-<td><span title="person frowning: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person frowning: dark skin tone">&nbsp;</span></td>
-<td><span title="man frowning">&nbsp;</span></td>
-<td><span title="man frowning: light skin tone">&nbsp;</span></td>
-<td><span title="man frowning: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man frowning: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man frowning: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man frowning: dark skin tone">&nbsp;</span></td>
-<td><span title="woman frowning">&nbsp;</span></td>
-<td><span title="woman frowning: light skin tone">&nbsp;</span></td>
-<td><span title="woman frowning: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman frowning: medium skin tone">&nbsp;</span></td>
-<td><span title="woman frowning: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman frowning: dark skin tone">&nbsp;</span></td>
-<td><span title="person pouting">&nbsp;</span></td>
-<td><span title="person pouting: light skin tone">&nbsp;</span></td>
-<td><span title="person pouting: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person pouting: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person pouting: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person pouting: dark skin tone">&nbsp;</span></td>
-<td><span title="man pouting">&nbsp;</span></td>
-<td><span title="man pouting: light skin tone">&nbsp;</span></td>
-<td><span title="man pouting: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man pouting: medium skin tone">&nbsp;</span></td>
-<td><span title="man pouting: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man pouting: dark skin tone">&nbsp;</span></td>
-<td><span title="woman pouting">&nbsp;</span></td>
-<td><span title="woman pouting: light skin tone">&nbsp;</span></td>
-<td><span title="woman pouting: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman pouting: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman pouting: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman pouting: dark skin tone">&nbsp;</span></td>
-<td><span title="person gesturing NO">&nbsp;</span></td>
-<td><span title="person gesturing NO: light skin tone">&nbsp;</span></td>
-<td><span title="person gesturing NO: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person gesturing NO: medium skin tone">&nbsp;</span></td>
-<td><span title="person gesturing NO: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person gesturing NO: dark skin tone">&nbsp;</span></td>
-<td><span title="man gesturing NO">&nbsp;</span></td>
-<td><span title="man gesturing NO: light skin tone">&nbsp;</span></td>
-<td><span title="man gesturing NO: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man gesturing NO: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man gesturing NO: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man gesturing NO: dark skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing NO">&nbsp;</span></td>
-<td><span title="woman gesturing NO: light skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing NO: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing NO: medium skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing NO: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing NO: dark skin tone">&nbsp;</span></td>
-<td><span title="person gesturing OK">&nbsp;</span></td>
-<td><span title="person gesturing OK: light skin tone">&nbsp;</span></td>
-<td><span title="person gesturing OK: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person gesturing OK: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person gesturing OK: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person gesturing OK: dark skin tone">&nbsp;</span></td>
-<td><span title="man gesturing OK">&nbsp;</span></td>
-<td><span title="man gesturing OK: light skin tone">&nbsp;</span></td>
-<td><span title="man gesturing OK: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man gesturing OK: medium skin tone">&nbsp;</span></td>
-<td><span title="man gesturing OK: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man gesturing OK: dark skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing OK">&nbsp;</span></td>
-<td><span title="woman gesturing OK: light skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing OK: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing OK: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman gesturing OK: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman gesturing OK: dark skin tone">&nbsp;</span></td>
-<td><span title="person tipping hand">&nbsp;</span></td>
-<td><span title="person tipping hand: light skin tone">&nbsp;</span></td>
-<td><span title="person tipping hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person tipping hand: medium skin tone">&nbsp;</span></td>
-<td><span title="person tipping hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person tipping hand: dark skin tone">&nbsp;</span></td>
-<td><span title="man tipping hand">&nbsp;</span></td>
-<td><span title="man tipping hand: light skin tone">&nbsp;</span></td>
-<td><span title="man tipping hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man tipping hand: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man tipping hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man tipping hand: dark skin tone">&nbsp;</span></td>
-<td><span title="woman tipping hand">&nbsp;</span></td>
-<td><span title="woman tipping hand: light skin tone">&nbsp;</span></td>
-<td><span title="woman tipping hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman tipping hand: medium skin tone">&nbsp;</span></td>
-<td><span title="woman tipping hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman tipping hand: dark skin tone">&nbsp;</span></td>
-<td><span title="person raising hand">&nbsp;</span></td>
-<td><span title="person raising hand: light skin tone">&nbsp;</span></td>
-<td><span title="person raising hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person raising hand: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person raising hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person raising hand: dark skin tone">&nbsp;</span></td>
-<td><span title="man raising hand">&nbsp;</span></td>
-<td><span title="man raising hand: light skin tone">&nbsp;</span></td>
-<td><span title="man raising hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man raising hand: medium skin tone">&nbsp;</span></td>
-<td><span title="man raising hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man raising hand: dark skin tone">&nbsp;</span></td>
-<td><span title="woman raising hand">&nbsp;</span></td>
-<td><span title="woman raising hand: light skin tone">&nbsp;</span></td>
-<td><span title="woman raising hand: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman raising hand: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman raising hand: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman raising hand: dark skin tone">&nbsp;</span></td>
-<td><span title="deaf person">&nbsp;</span></td>
-<td><span title="deaf person: light skin tone">&nbsp;</span></td>
-<td><span title="deaf person: medium-light skin tone">&nbsp;</span></td>
-<td><span title="deaf person: medium skin tone">&nbsp;</span></td>
-<td><span title="deaf person: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="deaf person: dark skin tone">&nbsp;</span></td>
-<td><span title="deaf man">&nbsp;</span></td>
-<td><span title="deaf man: light skin tone">&nbsp;</span></td>
-<td><span title="deaf man: medium-light skin tone">&nbsp;</span></td>
-<td><span title="deaf man: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="deaf man: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="deaf man: dark skin tone">&nbsp;</span></td>
-<td><span title="deaf woman">&nbsp;</span></td>
-<td><span title="deaf woman: light skin tone">&nbsp;</span></td>
-<td><span title="deaf woman: medium-light skin tone">&nbsp;</span></td>
-<td><span title="deaf woman: medium skin tone">&nbsp;</span></td>
-<td><span title="deaf woman: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="deaf woman: dark skin tone">&nbsp;</span></td>
-<td><span title="person bowing">&nbsp;</span></td>
-<td><span title="person bowing: light skin tone">&nbsp;</span></td>
-<td><span title="person bowing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person bowing: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person bowing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person bowing: dark skin tone">&nbsp;</span></td>
-<td><span title="man bowing">&nbsp;</span></td>
-<td><span title="man bowing: light skin tone">&nbsp;</span></td>
-<td><span title="man bowing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man bowing: medium skin tone">&nbsp;</span></td>
-<td><span title="man bowing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man bowing: dark skin tone">&nbsp;</span></td>
-<td><span title="woman bowing">&nbsp;</span></td>
-<td><span title="woman bowing: light skin tone">&nbsp;</span></td>
-<td><span title="woman bowing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman bowing: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman bowing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman bowing: dark skin tone">&nbsp;</span></td>
-<td><span title="person facepalming">&nbsp;</span></td>
-<td><span title="person facepalming: light skin tone">&nbsp;</span></td>
-<td><span title="person facepalming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person facepalming: medium skin tone">&nbsp;</span></td>
-<td><span title="person facepalming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person facepalming: dark skin tone">&nbsp;</span></td>
-<td><span title="man facepalming">&nbsp;</span></td>
-<td><span title="man facepalming: light skin tone">&nbsp;</span></td>
-<td><span title="man facepalming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man facepalming: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man facepalming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man facepalming: dark skin tone">&nbsp;</span></td>
-<td><span title="woman facepalming">&nbsp;</span></td>
-<td><span title="woman facepalming: light skin tone">&nbsp;</span></td>
-<td><span title="woman facepalming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman facepalming: medium skin tone">&nbsp;</span></td>
-<td><span title="woman facepalming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman facepalming: dark skin tone">&nbsp;</span></td>
-<td><span title="person shrugging">&nbsp;</span></td>
-<td><span title="person shrugging: light skin tone">&nbsp;</span></td>
-<td><span title="person shrugging: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person shrugging: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person shrugging: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person shrugging: dark skin tone">&nbsp;</span></td>
-<td><span title="man shrugging">&nbsp;</span></td>
-<td><span title="man shrugging: light skin tone">&nbsp;</span></td>
-<td><span title="man shrugging: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man shrugging: medium skin tone">&nbsp;</span></td>
-<td><span title="man shrugging: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man shrugging: dark skin tone">&nbsp;</span></td>
-<td><span title="woman shrugging">&nbsp;</span></td>
-<td><span title="woman shrugging: light skin tone">&nbsp;</span></td>
-<td><span title="woman shrugging: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman shrugging: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman shrugging: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman shrugging: dark skin tone">&nbsp;</span></td>
-<td><span title="health worker">&nbsp;</span></td>
-<td><span title="health worker: light skin tone">&nbsp;</span></td>
-<td><span title="health worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="health worker: medium skin tone">&nbsp;</span></td>
-<td><span title="health worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="health worker: dark skin tone">&nbsp;</span></td>
-<td><span title="man health worker">&nbsp;</span></td>
-<td><span title="man health worker: light skin tone">&nbsp;</span></td>
-<td><span title="man health worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man health worker: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man health worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man health worker: dark skin tone">&nbsp;</span></td>
-<td><span title="woman health worker">&nbsp;</span></td>
-<td><span title="woman health worker: light skin tone">&nbsp;</span></td>
-<td><span title="woman health worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman health worker: medium skin tone">&nbsp;</span></td>
-<td><span title="woman health worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman health worker: dark skin tone">&nbsp;</span></td>
-<td><span title="student">&nbsp;</span></td>
-<td><span title="student: light skin tone">&nbsp;</span></td>
-<td><span title="student: medium-light skin tone">&nbsp;</span></td>
-<td><span title="student: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="student: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="student: dark skin tone">&nbsp;</span></td>
-<td><span title="man student">&nbsp;</span></td>
-<td><span title="man student: light skin tone">&nbsp;</span></td>
-<td><span title="man student: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man student: medium skin tone">&nbsp;</span></td>
-<td><span title="man student: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man student: dark skin tone">&nbsp;</span></td>
-<td><span title="woman student">&nbsp;</span></td>
-<td><span title="woman student: light skin tone">&nbsp;</span></td>
-<td><span title="woman student: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman student: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman student: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman student: dark skin tone">&nbsp;</span></td>
-<td><span title="teacher">&nbsp;</span></td>
-<td><span title="teacher: light skin tone">&nbsp;</span></td>
-<td><span title="teacher: medium-light skin tone">&nbsp;</span></td>
-<td><span title="teacher: medium skin tone">&nbsp;</span></td>
-<td><span title="teacher: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="teacher: dark skin tone">&nbsp;</span></td>
-<td><span title="man teacher">&nbsp;</span></td>
-<td><span title="man teacher: light skin tone">&nbsp;</span></td>
-<td><span title="man teacher: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man teacher: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man teacher: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man teacher: dark skin tone">&nbsp;</span></td>
-<td><span title="woman teacher">&nbsp;</span></td>
-<td><span title="woman teacher: light skin tone">&nbsp;</span></td>
-<td><span title="woman teacher: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman teacher: medium skin tone">&nbsp;</span></td>
-<td><span title="woman teacher: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman teacher: dark skin tone">&nbsp;</span></td>
-<td><span title="judge">&nbsp;</span></td>
-<td><span title="judge: light skin tone">&nbsp;</span></td>
-<td><span title="judge: medium-light skin tone">&nbsp;</span></td>
-<td><span title="judge: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="judge: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="judge: dark skin tone">&nbsp;</span></td>
-<td><span title="man judge">&nbsp;</span></td>
-<td><span title="man judge: light skin tone">&nbsp;</span></td>
-<td><span title="man judge: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man judge: medium skin tone">&nbsp;</span></td>
-<td><span title="man judge: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man judge: dark skin tone">&nbsp;</span></td>
-<td><span title="woman judge">&nbsp;</span></td>
-<td><span title="woman judge: light skin tone">&nbsp;</span></td>
-<td><span title="woman judge: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman judge: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman judge: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman judge: dark skin tone">&nbsp;</span></td>
-<td><span title="farmer">&nbsp;</span></td>
-<td><span title="farmer: light skin tone">&nbsp;</span></td>
-<td><span title="farmer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="farmer: medium skin tone">&nbsp;</span></td>
-<td><span title="farmer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="farmer: dark skin tone">&nbsp;</span></td>
-<td><span title="man farmer">&nbsp;</span></td>
-<td><span title="man farmer: light skin tone">&nbsp;</span></td>
-<td><span title="man farmer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man farmer: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man farmer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man farmer: dark skin tone">&nbsp;</span></td>
-<td><span title="woman farmer">&nbsp;</span></td>
-<td><span title="woman farmer: light skin tone">&nbsp;</span></td>
-<td><span title="woman farmer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman farmer: medium skin tone">&nbsp;</span></td>
-<td><span title="woman farmer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman farmer: dark skin tone">&nbsp;</span></td>
-<td><span title="cook">&nbsp;</span></td>
-<td><span title="cook: light skin tone">&nbsp;</span></td>
-<td><span title="cook: medium-light skin tone">&nbsp;</span></td>
-<td><span title="cook: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="cook: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="cook: dark skin tone">&nbsp;</span></td>
-<td><span title="man cook">&nbsp;</span></td>
-<td><span title="man cook: light skin tone">&nbsp;</span></td>
-<td><span title="man cook: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man cook: medium skin tone">&nbsp;</span></td>
-<td><span title="man cook: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man cook: dark skin tone">&nbsp;</span></td>
-<td><span title="woman cook">&nbsp;</span></td>
-<td><span title="woman cook: light skin tone">&nbsp;</span></td>
-<td><span title="woman cook: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman cook: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman cook: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman cook: dark skin tone">&nbsp;</span></td>
-<td><span title="mechanic">&nbsp;</span></td>
-<td><span title="mechanic: light skin tone">&nbsp;</span></td>
-<td><span title="mechanic: medium-light skin tone">&nbsp;</span></td>
-<td><span title="mechanic: medium skin tone">&nbsp;</span></td>
-<td><span title="mechanic: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="mechanic: dark skin tone">&nbsp;</span></td>
-<td><span title="man mechanic">&nbsp;</span></td>
-<td><span title="man mechanic: light skin tone">&nbsp;</span></td>
-<td><span title="man mechanic: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man mechanic: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man mechanic: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man mechanic: dark skin tone">&nbsp;</span></td>
-<td><span title="woman mechanic">&nbsp;</span></td>
-<td><span title="woman mechanic: light skin tone">&nbsp;</span></td>
-<td><span title="woman mechanic: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman mechanic: medium skin tone">&nbsp;</span></td>
-<td><span title="woman mechanic: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman mechanic: dark skin tone">&nbsp;</span></td>
-<td><span title="factory worker">&nbsp;</span></td>
-<td><span title="factory worker: light skin tone">&nbsp;</span></td>
-<td><span title="factory worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="factory worker: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="factory worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="factory worker: dark skin tone">&nbsp;</span></td>
-<td><span title="man factory worker">&nbsp;</span></td>
-<td><span title="man factory worker: light skin tone">&nbsp;</span></td>
-<td><span title="man factory worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man factory worker: medium skin tone">&nbsp;</span></td>
-<td><span title="man factory worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man factory worker: dark skin tone">&nbsp;</span></td>
-<td><span title="woman factory worker">&nbsp;</span></td>
-<td><span title="woman factory worker: light skin tone">&nbsp;</span></td>
-<td><span title="woman factory worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman factory worker: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman factory worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman factory worker: dark skin tone">&nbsp;</span></td>
-<td><span title="office worker">&nbsp;</span></td>
-<td><span title="office worker: light skin tone">&nbsp;</span></td>
-<td><span title="office worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="office worker: medium skin tone">&nbsp;</span></td>
-<td><span title="office worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="office worker: dark skin tone">&nbsp;</span></td>
-<td><span title="man office worker">&nbsp;</span></td>
-<td><span title="man office worker: light skin tone">&nbsp;</span></td>
-<td><span title="man office worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man office worker: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man office worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man office worker: dark skin tone">&nbsp;</span></td>
-<td><span title="woman office worker">&nbsp;</span></td>
-<td><span title="woman office worker: light skin tone">&nbsp;</span></td>
-<td><span title="woman office worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman office worker: medium skin tone">&nbsp;</span></td>
-<td><span title="woman office worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman office worker: dark skin tone">&nbsp;</span></td>
-<td><span title="scientist">&nbsp;</span></td>
-<td><span title="scientist: light skin tone">&nbsp;</span></td>
-<td><span title="scientist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="scientist: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="scientist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="scientist: dark skin tone">&nbsp;</span></td>
-<td><span title="man scientist">&nbsp;</span></td>
-<td><span title="man scientist: light skin tone">&nbsp;</span></td>
-<td><span title="man scientist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man scientist: medium skin tone">&nbsp;</span></td>
-<td><span title="man scientist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man scientist: dark skin tone">&nbsp;</span></td>
-<td><span title="woman scientist">&nbsp;</span></td>
-<td><span title="woman scientist: light skin tone">&nbsp;</span></td>
-<td><span title="woman scientist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman scientist: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman scientist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman scientist: dark skin tone">&nbsp;</span></td>
-<td><span title="technologist">&nbsp;</span></td>
-<td><span title="technologist: light skin tone">&nbsp;</span></td>
-<td><span title="technologist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="technologist: medium skin tone">&nbsp;</span></td>
-<td><span title="technologist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="technologist: dark skin tone">&nbsp;</span></td>
-<td><span title="man technologist">&nbsp;</span></td>
-<td><span title="man technologist: light skin tone">&nbsp;</span></td>
-<td><span title="man technologist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man technologist: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man technologist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man technologist: dark skin tone">&nbsp;</span></td>
-<td><span title="woman technologist">&nbsp;</span></td>
-<td><span title="woman technologist: light skin tone">&nbsp;</span></td>
-<td><span title="woman technologist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman technologist: medium skin tone">&nbsp;</span></td>
-<td><span title="woman technologist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman technologist: dark skin tone">&nbsp;</span></td>
-<td><span title="singer">&nbsp;</span></td>
-<td><span title="singer: light skin tone">&nbsp;</span></td>
-<td><span title="singer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="singer: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="singer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="singer: dark skin tone">&nbsp;</span></td>
-<td><span title="man singer">&nbsp;</span></td>
-<td><span title="man singer: light skin tone">&nbsp;</span></td>
-<td><span title="man singer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man singer: medium skin tone">&nbsp;</span></td>
-<td><span title="man singer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man singer: dark skin tone">&nbsp;</span></td>
-<td><span title="woman singer">&nbsp;</span></td>
-<td><span title="woman singer: light skin tone">&nbsp;</span></td>
-<td><span title="woman singer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman singer: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman singer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman singer: dark skin tone">&nbsp;</span></td>
-<td><span title="artist">&nbsp;</span></td>
-<td><span title="artist: light skin tone">&nbsp;</span></td>
-<td><span title="artist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="artist: medium skin tone">&nbsp;</span></td>
-<td><span title="artist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="artist: dark skin tone">&nbsp;</span></td>
-<td><span title="man artist">&nbsp;</span></td>
-<td><span title="man artist: light skin tone">&nbsp;</span></td>
-<td><span title="man artist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man artist: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man artist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man artist: dark skin tone">&nbsp;</span></td>
-<td><span title="woman artist">&nbsp;</span></td>
-<td><span title="woman artist: light skin tone">&nbsp;</span></td>
-<td><span title="woman artist: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman artist: medium skin tone">&nbsp;</span></td>
-<td><span title="woman artist: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman artist: dark skin tone">&nbsp;</span></td>
-<td><span title="pilot">&nbsp;</span></td>
-<td><span title="pilot: light skin tone">&nbsp;</span></td>
-<td><span title="pilot: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pilot: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="pilot: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pilot: dark skin tone">&nbsp;</span></td>
-<td><span title="man pilot">&nbsp;</span></td>
-<td><span title="man pilot: light skin tone">&nbsp;</span></td>
-<td><span title="man pilot: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man pilot: medium skin tone">&nbsp;</span></td>
-<td><span title="man pilot: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man pilot: dark skin tone">&nbsp;</span></td>
-<td><span title="woman pilot">&nbsp;</span></td>
-<td><span title="woman pilot: light skin tone">&nbsp;</span></td>
-<td><span title="woman pilot: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman pilot: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman pilot: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman pilot: dark skin tone">&nbsp;</span></td>
-<td><span title="astronaut">&nbsp;</span></td>
-<td><span title="astronaut: light skin tone">&nbsp;</span></td>
-<td><span title="astronaut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="astronaut: medium skin tone">&nbsp;</span></td>
-<td><span title="astronaut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="astronaut: dark skin tone">&nbsp;</span></td>
-<td><span title="man astronaut">&nbsp;</span></td>
-<td><span title="man astronaut: light skin tone">&nbsp;</span></td>
-<td><span title="man astronaut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man astronaut: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man astronaut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man astronaut: dark skin tone">&nbsp;</span></td>
-<td><span title="woman astronaut">&nbsp;</span></td>
-<td><span title="woman astronaut: light skin tone">&nbsp;</span></td>
-<td><span title="woman astronaut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman astronaut: medium skin tone">&nbsp;</span></td>
-<td><span title="woman astronaut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman astronaut: dark skin tone">&nbsp;</span></td>
-<td><span title="firefighter">&nbsp;</span></td>
-<td><span title="firefighter: light skin tone">&nbsp;</span></td>
-<td><span title="firefighter: medium-light skin tone">&nbsp;</span></td>
-<td><span title="firefighter: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="firefighter: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="firefighter: dark skin tone">&nbsp;</span></td>
-<td><span title="man firefighter">&nbsp;</span></td>
-<td><span title="man firefighter: light skin tone">&nbsp;</span></td>
-<td><span title="man firefighter: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man firefighter: medium skin tone">&nbsp;</span></td>
-<td><span title="man firefighter: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man firefighter: dark skin tone">&nbsp;</span></td>
-<td><span title="woman firefighter">&nbsp;</span></td>
-<td><span title="woman firefighter: light skin tone">&nbsp;</span></td>
-<td><span title="woman firefighter: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman firefighter: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman firefighter: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman firefighter: dark skin tone">&nbsp;</span></td>
-<td><span title="police officer">&nbsp;</span></td>
-<td><span title="police officer: light skin tone">&nbsp;</span></td>
-<td><span title="police officer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="police officer: medium skin tone">&nbsp;</span></td>
-<td><span title="police officer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="police officer: dark skin tone">&nbsp;</span></td>
-<td><span title="man police officer">&nbsp;</span></td>
-<td><span title="man police officer: light skin tone">&nbsp;</span></td>
-<td><span title="man police officer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man police officer: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man police officer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man police officer: dark skin tone">&nbsp;</span></td>
-<td><span title="woman police officer">&nbsp;</span></td>
-<td><span title="woman police officer: light skin tone">&nbsp;</span></td>
-<td><span title="woman police officer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman police officer: medium skin tone">&nbsp;</span></td>
-<td><span title="woman police officer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman police officer: dark skin tone">&nbsp;</span></td>
-<td><span title="detective">&nbsp;</span></td>
-<td><span title="detective: light skin tone">&nbsp;</span></td>
-<td><span title="detective: medium-light skin tone">&nbsp;</span></td>
-<td><span title="detective: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="detective: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="detective: dark skin tone">&nbsp;</span></td>
-<td><span title="man detective">&nbsp;</span></td>
-<td><span title="man detective: light skin tone">&nbsp;</span></td>
-<td><span title="man detective: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man detective: medium skin tone">&nbsp;</span></td>
-<td><span title="man detective: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man detective: dark skin tone">&nbsp;</span></td>
-<td><span title="woman detective">&nbsp;</span></td>
-<td><span title="woman detective: light skin tone">&nbsp;</span></td>
-<td><span title="woman detective: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman detective: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman detective: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman detective: dark skin tone">&nbsp;</span></td>
-<td><span title="guard">&nbsp;</span></td>
-<td><span title="guard: light skin tone">&nbsp;</span></td>
-<td><span title="guard: medium-light skin tone">&nbsp;</span></td>
-<td><span title="guard: medium skin tone">&nbsp;</span></td>
-<td><span title="guard: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="guard: dark skin tone">&nbsp;</span></td>
-<td><span title="man guard">&nbsp;</span></td>
-<td><span title="man guard: light skin tone">&nbsp;</span></td>
-<td><span title="man guard: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man guard: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man guard: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man guard: dark skin tone">&nbsp;</span></td>
-<td><span title="woman guard">&nbsp;</span></td>
-<td><span title="woman guard: light skin tone">&nbsp;</span></td>
-<td><span title="woman guard: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman guard: medium skin tone">&nbsp;</span></td>
-<td><span title="woman guard: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman guard: dark skin tone">&nbsp;</span></td>
-<td><span title="ninja">&nbsp;</span></td>
-<td><span title="ninja: light skin tone">&nbsp;</span></td>
-<td><span title="ninja: medium-light skin tone">&nbsp;</span></td>
-<td><span title="ninja: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="ninja: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="ninja: dark skin tone">&nbsp;</span></td>
-<td><span title="construction worker">&nbsp;</span></td>
-<td><span title="construction worker: light skin tone">&nbsp;</span></td>
-<td><span title="construction worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="construction worker: medium skin tone">&nbsp;</span></td>
-<td><span title="construction worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="construction worker: dark skin tone">&nbsp;</span></td>
-<td><span title="man construction worker">&nbsp;</span></td>
-<td><span title="man construction worker: light skin tone">&nbsp;</span></td>
-<td><span title="man construction worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man construction worker: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man construction worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man construction worker: dark skin tone">&nbsp;</span></td>
-<td><span title="woman construction worker">&nbsp;</span></td>
-<td><span title="woman construction worker: light skin tone">&nbsp;</span></td>
-<td><span title="woman construction worker: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman construction worker: medium skin tone">&nbsp;</span></td>
-<td><span title="woman construction worker: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman construction worker: dark skin tone">&nbsp;</span></td>
-<td><span title="person with crown">&nbsp;</span></td>
-<td><span title="person with crown: light skin tone">&nbsp;</span></td>
-<td><span title="person with crown: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person with crown: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person with crown: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person with crown: dark skin tone">&nbsp;</span></td>
-<td><span title="prince">&nbsp;</span></td>
-<td><span title="prince: light skin tone">&nbsp;</span></td>
-<td><span title="prince: medium-light skin tone">&nbsp;</span></td>
-<td><span title="prince: medium skin tone">&nbsp;</span></td>
-<td><span title="prince: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="prince: dark skin tone">&nbsp;</span></td>
-<td><span title="princess">&nbsp;</span></td>
-<td><span title="princess: light skin tone">&nbsp;</span></td>
-<td><span title="princess: medium-light skin tone">&nbsp;</span></td>
-<td><span title="princess: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="princess: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="princess: dark skin tone">&nbsp;</span></td>
-<td><span title="person wearing turban">&nbsp;</span></td>
-<td><span title="person wearing turban: light skin tone">&nbsp;</span></td>
-<td><span title="person wearing turban: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person wearing turban: medium skin tone">&nbsp;</span></td>
-<td><span title="person wearing turban: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person wearing turban: dark skin tone">&nbsp;</span></td>
-<td><span title="man wearing turban">&nbsp;</span></td>
-<td><span title="man wearing turban: light skin tone">&nbsp;</span></td>
-<td><span title="man wearing turban: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man wearing turban: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man wearing turban: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man wearing turban: dark skin tone">&nbsp;</span></td>
-<td><span title="woman wearing turban">&nbsp;</span></td>
-<td><span title="woman wearing turban: light skin tone">&nbsp;</span></td>
-<td><span title="woman wearing turban: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman wearing turban: medium skin tone">&nbsp;</span></td>
-<td><span title="woman wearing turban: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman wearing turban: dark skin tone">&nbsp;</span></td>
-<td><span title="person with skullcap">&nbsp;</span></td>
-<td><span title="person with skullcap: light skin tone">&nbsp;</span></td>
-<td><span title="person with skullcap: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person with skullcap: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person with skullcap: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person with skullcap: dark skin tone">&nbsp;</span></td>
-<td><span title="woman with headscarf">&nbsp;</span></td>
-<td><span title="woman with headscarf: light skin tone">&nbsp;</span></td>
-<td><span title="woman with headscarf: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman with headscarf: medium skin tone">&nbsp;</span></td>
-<td><span title="woman with headscarf: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman with headscarf: dark skin tone">&nbsp;</span></td>
-<td><span title="person in tuxedo">&nbsp;</span></td>
-<td><span title="person in tuxedo: light skin tone">&nbsp;</span></td>
-<td><span title="person in tuxedo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in tuxedo: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person in tuxedo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in tuxedo: dark skin tone">&nbsp;</span></td>
-<td><span title="man in tuxedo">&nbsp;</span></td>
-<td><span title="man in tuxedo: light skin tone">&nbsp;</span></td>
-<td><span title="man in tuxedo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in tuxedo: medium skin tone">&nbsp;</span></td>
-<td><span title="man in tuxedo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in tuxedo: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in tuxedo">&nbsp;</span></td>
-<td><span title="woman in tuxedo: light skin tone">&nbsp;</span></td>
-<td><span title="woman in tuxedo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in tuxedo: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman in tuxedo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in tuxedo: dark skin tone">&nbsp;</span></td>
-<td><span title="person with veil">&nbsp;</span></td>
-<td><span title="person with veil: light skin tone">&nbsp;</span></td>
-<td><span title="person with veil: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person with veil: medium skin tone">&nbsp;</span></td>
-<td><span title="person with veil: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person with veil: dark skin tone">&nbsp;</span></td>
-<td><span title="man with veil">&nbsp;</span></td>
-<td><span title="man with veil: light skin tone">&nbsp;</span></td>
-<td><span title="man with veil: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man with veil: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man with veil: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man with veil: dark skin tone">&nbsp;</span></td>
-<td><span title="woman with veil">&nbsp;</span></td>
-<td><span title="woman with veil: light skin tone">&nbsp;</span></td>
-<td><span title="woman with veil: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman with veil: medium skin tone">&nbsp;</span></td>
-<td><span title="woman with veil: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman with veil: dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant woman">&nbsp;</span></td>
-<td><span title="pregnant woman: light skin tone">&nbsp;</span></td>
-<td><span title="pregnant woman: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pregnant woman: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="pregnant woman: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant woman: dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant man">&nbsp;</span></td>
-<td><span title="pregnant man: light skin tone">&nbsp;</span></td>
-<td><span title="pregnant man: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pregnant man: medium skin tone">&nbsp;</span></td>
-<td><span title="pregnant man: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant man: dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant person">&nbsp;</span></td>
-<td><span title="pregnant person: light skin tone">&nbsp;</span></td>
-<td><span title="pregnant person: medium-light skin tone">&nbsp;</span></td>
-<td><span title="pregnant person: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="pregnant person: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="pregnant person: dark skin tone">&nbsp;</span></td>
-<td><span title="breast-feeding">&nbsp;</span></td>
-<td><span title="breast-feeding: light skin tone">&nbsp;</span></td>
-<td><span title="breast-feeding: medium-light skin tone">&nbsp;</span></td>
-<td><span title="breast-feeding: medium skin tone">&nbsp;</span></td>
-<td><span title="breast-feeding: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="breast-feeding: dark skin tone">&nbsp;</span></td>
-<td><span title="woman feeding baby">&nbsp;</span></td>
-<td><span title="woman feeding baby: light skin tone">&nbsp;</span></td>
-<td><span title="woman feeding baby: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman feeding baby: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman feeding baby: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman feeding baby: dark skin tone">&nbsp;</span></td>
-<td><span title="man feeding baby">&nbsp;</span></td>
-<td><span title="man feeding baby: light skin tone">&nbsp;</span></td>
-<td><span title="man feeding baby: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man feeding baby: medium skin tone">&nbsp;</span></td>
-<td><span title="man feeding baby: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man feeding baby: dark skin tone">&nbsp;</span></td>
-<td><span title="person feeding baby">&nbsp;</span></td>
-<td><span title="person feeding baby: light skin tone">&nbsp;</span></td>
-<td><span title="person feeding baby: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person feeding baby: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person feeding baby: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person feeding baby: dark skin tone">&nbsp;</span></td>
-<td><span title="baby angel">&nbsp;</span></td>
-<td><span title="baby angel: light skin tone">&nbsp;</span></td>
-<td><span title="baby angel: medium-light skin tone">&nbsp;</span></td>
-<td><span title="baby angel: medium skin tone">&nbsp;</span></td>
-<td><span title="baby angel: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="baby angel: dark skin tone">&nbsp;</span></td>
-<td><span title="Santa Claus">&nbsp;</span></td>
-<td><span title="Santa Claus: light skin tone">&nbsp;</span></td>
-<td><span title="Santa Claus: medium-light skin tone">&nbsp;</span></td>
-<td><span title="Santa Claus: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="Santa Claus: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="Santa Claus: dark skin tone">&nbsp;</span></td>
-<td><span title="Mrs. Claus">&nbsp;</span></td>
-<td><span title="Mrs. Claus: light skin tone">&nbsp;</span></td>
-<td><span title="Mrs. Claus: medium-light skin tone">&nbsp;</span></td>
-<td><span title="Mrs. Claus: medium skin tone">&nbsp;</span></td>
-<td><span title="Mrs. Claus: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="Mrs. Claus: dark skin tone">&nbsp;</span></td>
-<td><span title="Mx Claus">&nbsp;</span></td>
-<td><span title="Mx Claus: light skin tone">&nbsp;</span></td>
-<td><span title="Mx Claus: medium-light skin tone">&nbsp;</span></td>
-<td><span title="Mx Claus: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="Mx Claus: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="Mx Claus: dark skin tone">&nbsp;</span></td>
-<td><span title="superhero">&nbsp;</span></td>
-<td><span title="superhero: light skin tone">&nbsp;</span></td>
-<td><span title="superhero: medium-light skin tone">&nbsp;</span></td>
-<td><span title="superhero: medium skin tone">&nbsp;</span></td>
-<td><span title="superhero: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="superhero: dark skin tone">&nbsp;</span></td>
-<td><span title="man superhero">&nbsp;</span></td>
-<td><span title="man superhero: light skin tone">&nbsp;</span></td>
-<td><span title="man superhero: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man superhero: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man superhero: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man superhero: dark skin tone">&nbsp;</span></td>
-<td><span title="woman superhero">&nbsp;</span></td>
-<td><span title="woman superhero: light skin tone">&nbsp;</span></td>
-<td><span title="woman superhero: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman superhero: medium skin tone">&nbsp;</span></td>
-<td><span title="woman superhero: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman superhero: dark skin tone">&nbsp;</span></td>
-<td><span title="supervillain">&nbsp;</span></td>
-<td><span title="supervillain: light skin tone">&nbsp;</span></td>
-<td><span title="supervillain: medium-light skin tone">&nbsp;</span></td>
-<td><span title="supervillain: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="supervillain: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="supervillain: dark skin tone">&nbsp;</span></td>
-<td><span title="man supervillain">&nbsp;</span></td>
-<td><span title="man supervillain: light skin tone">&nbsp;</span></td>
-<td><span title="man supervillain: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man supervillain: medium skin tone">&nbsp;</span></td>
-<td><span title="man supervillain: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man supervillain: dark skin tone">&nbsp;</span></td>
-<td><span title="woman supervillain">&nbsp;</span></td>
-<td><span title="woman supervillain: light skin tone">&nbsp;</span></td>
-<td><span title="woman supervillain: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman supervillain: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman supervillain: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman supervillain: dark skin tone">&nbsp;</span></td>
-<td><span title="mage">&nbsp;</span></td>
-<td><span title="mage: light skin tone">&nbsp;</span></td>
-<td><span title="mage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="mage: medium skin tone">&nbsp;</span></td>
-<td><span title="mage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="mage: dark skin tone">&nbsp;</span></td>
-<td><span title="man mage">&nbsp;</span></td>
-<td><span title="man mage: light skin tone">&nbsp;</span></td>
-<td><span title="man mage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man mage: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man mage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man mage: dark skin tone">&nbsp;</span></td>
-<td><span title="woman mage">&nbsp;</span></td>
-<td><span title="woman mage: light skin tone">&nbsp;</span></td>
-<td><span title="woman mage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman mage: medium skin tone">&nbsp;</span></td>
-<td><span title="woman mage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman mage: dark skin tone">&nbsp;</span></td>
-<td><span title="fairy">&nbsp;</span></td>
-<td><span title="fairy: light skin tone">&nbsp;</span></td>
-<td><span title="fairy: medium-light skin tone">&nbsp;</span></td>
-<td><span title="fairy: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="fairy: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="fairy: dark skin tone">&nbsp;</span></td>
-<td><span title="man fairy">&nbsp;</span></td>
-<td><span title="man fairy: light skin tone">&nbsp;</span></td>
-<td><span title="man fairy: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man fairy: medium skin tone">&nbsp;</span></td>
-<td><span title="man fairy: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man fairy: dark skin tone">&nbsp;</span></td>
-<td><span title="woman fairy">&nbsp;</span></td>
-<td><span title="woman fairy: light skin tone">&nbsp;</span></td>
-<td><span title="woman fairy: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman fairy: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman fairy: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman fairy: dark skin tone">&nbsp;</span></td>
-<td><span title="vampire">&nbsp;</span></td>
-<td><span title="vampire: light skin tone">&nbsp;</span></td>
-<td><span title="vampire: medium-light skin tone">&nbsp;</span></td>
-<td><span title="vampire: medium skin tone">&nbsp;</span></td>
-<td><span title="vampire: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="vampire: dark skin tone">&nbsp;</span></td>
-<td><span title="man vampire">&nbsp;</span></td>
-<td><span title="man vampire: light skin tone">&nbsp;</span></td>
-<td><span title="man vampire: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man vampire: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man vampire: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man vampire: dark skin tone">&nbsp;</span></td>
-<td><span title="woman vampire">&nbsp;</span></td>
-<td><span title="woman vampire: light skin tone">&nbsp;</span></td>
-<td><span title="woman vampire: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman vampire: medium skin tone">&nbsp;</span></td>
-<td><span title="woman vampire: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman vampire: dark skin tone">&nbsp;</span></td>
-<td><span title="merperson">&nbsp;</span></td>
-<td><span title="merperson: light skin tone">&nbsp;</span></td>
-<td><span title="merperson: medium-light skin tone">&nbsp;</span></td>
-<td><span title="merperson: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="merperson: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="merperson: dark skin tone">&nbsp;</span></td>
-<td><span title="merman">&nbsp;</span></td>
-<td><span title="merman: light skin tone">&nbsp;</span></td>
-<td><span title="merman: medium-light skin tone">&nbsp;</span></td>
-<td><span title="merman: medium skin tone">&nbsp;</span></td>
-<td><span title="merman: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="merman: dark skin tone">&nbsp;</span></td>
-<td><span title="mermaid">&nbsp;</span></td>
-<td><span title="mermaid: light skin tone">&nbsp;</span></td>
-<td><span title="mermaid: medium-light skin tone">&nbsp;</span></td>
-<td><span title="mermaid: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="mermaid: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="mermaid: dark skin tone">&nbsp;</span></td>
-<td><span title="elf">&nbsp;</span></td>
-<td><span title="elf: light skin tone">&nbsp;</span></td>
-<td><span title="elf: medium-light skin tone">&nbsp;</span></td>
-<td><span title="elf: medium skin tone">&nbsp;</span></td>
-<td><span title="elf: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="elf: dark skin tone">&nbsp;</span></td>
-<td><span title="man elf">&nbsp;</span></td>
-<td><span title="man elf: light skin tone">&nbsp;</span></td>
-<td><span title="man elf: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man elf: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man elf: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man elf: dark skin tone">&nbsp;</span></td>
-<td><span title="woman elf">&nbsp;</span></td>
-<td><span title="woman elf: light skin tone">&nbsp;</span></td>
-<td><span title="woman elf: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman elf: medium skin tone">&nbsp;</span></td>
-<td><span title="woman elf: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman elf: dark skin tone">&nbsp;</span></td>
-<td><span title="genie">&nbsp;</span></td>
-<td><span title="man genie">&nbsp;</span></td>
-<td><span title="woman genie">&nbsp;</span></td>
-<td><span title="zombie">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man zombie">&nbsp;</span></td>
-<td><span title="woman zombie">&nbsp;</span></td>
-<td><span title="troll">&nbsp;</span></td>
-<td><span title="hairy creature">&nbsp;</span></td>
-<td><span title="person getting massage">&nbsp;</span></td>
-<td><span title="person getting massage: light skin tone">&nbsp;</span></td>
-<td><span title="person getting massage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person getting massage: medium skin tone">&nbsp;</span></td>
-<td><span title="person getting massage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person getting massage: dark skin tone">&nbsp;</span></td>
-<td><span title="man getting massage">&nbsp;</span></td>
-<td><span title="man getting massage: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man getting massage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man getting massage: medium skin tone">&nbsp;</span></td>
-<td><span title="man getting massage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man getting massage: dark skin tone">&nbsp;</span></td>
-<td><span title="woman getting massage">&nbsp;</span></td>
-<td><span title="woman getting massage: light skin tone">&nbsp;</span></td>
-<td><span title="woman getting massage: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman getting massage: medium skin tone">&nbsp;</span></td>
-<td><span title="woman getting massage: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman getting massage: dark skin tone">&nbsp;</span></td>
-<td><span title="person getting haircut">&nbsp;</span></td>
-<td><span title="person getting haircut: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person getting haircut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person getting haircut: medium skin tone">&nbsp;</span></td>
-<td><span title="person getting haircut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person getting haircut: dark skin tone">&nbsp;</span></td>
-<td><span title="man getting haircut">&nbsp;</span></td>
-<td><span title="man getting haircut: light skin tone">&nbsp;</span></td>
-<td><span title="man getting haircut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man getting haircut: medium skin tone">&nbsp;</span></td>
-<td><span title="man getting haircut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man getting haircut: dark skin tone">&nbsp;</span></td>
-<td><span title="woman getting haircut">&nbsp;</span></td>
-<td><span title="woman getting haircut: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman getting haircut: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman getting haircut: medium skin tone">&nbsp;</span></td>
-<td><span title="woman getting haircut: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman getting haircut: dark skin tone">&nbsp;</span></td>
-<td><span title="person walking">&nbsp;</span></td>
-<td><span title="person walking: light skin tone">&nbsp;</span></td>
-<td><span title="person walking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person walking: medium skin tone">&nbsp;</span></td>
-<td><span title="person walking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person walking: dark skin tone">&nbsp;</span></td>
-<td><span title="man walking">&nbsp;</span></td>
-<td><span title="man walking: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man walking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man walking: medium skin tone">&nbsp;</span></td>
-<td><span title="man walking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man walking: dark skin tone">&nbsp;</span></td>
-<td><span title="woman walking">&nbsp;</span></td>
-<td><span title="woman walking: light skin tone">&nbsp;</span></td>
-<td><span title="woman walking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman walking: medium skin tone">&nbsp;</span></td>
-<td><span title="woman walking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman walking: dark skin tone">&nbsp;</span></td>
-<td><span title="person walking facing right">&nbsp;</span></td>
-<td><span title="person walking facing right: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person walking facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person walking facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person walking facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person walking facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman walking facing right">&nbsp;</span></td>
-<td><span title="woman walking facing right: light skin tone">&nbsp;</span></td>
-<td><span title="woman walking facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman walking facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman walking facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman walking facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man walking facing right">&nbsp;</span></td>
-<td><span title="man walking facing right: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man walking facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man walking facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man walking facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man walking facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="person standing">&nbsp;</span></td>
-<td><span title="person standing: light skin tone">&nbsp;</span></td>
-<td><span title="person standing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person standing: medium skin tone">&nbsp;</span></td>
-<td><span title="person standing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person standing: dark skin tone">&nbsp;</span></td>
-<td><span title="man standing">&nbsp;</span></td>
-<td><span title="man standing: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man standing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man standing: medium skin tone">&nbsp;</span></td>
-<td><span title="man standing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man standing: dark skin tone">&nbsp;</span></td>
-<td><span title="woman standing">&nbsp;</span></td>
-<td><span title="woman standing: light skin tone">&nbsp;</span></td>
-<td><span title="woman standing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman standing: medium skin tone">&nbsp;</span></td>
-<td><span title="woman standing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman standing: dark skin tone">&nbsp;</span></td>
-<td><span title="person kneeling">&nbsp;</span></td>
-<td><span title="person kneeling: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person kneeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person kneeling: medium skin tone">&nbsp;</span></td>
-<td><span title="person kneeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person kneeling: dark skin tone">&nbsp;</span></td>
-<td><span title="man kneeling">&nbsp;</span></td>
-<td><span title="man kneeling: light skin tone">&nbsp;</span></td>
-<td><span title="man kneeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man kneeling: medium skin tone">&nbsp;</span></td>
-<td><span title="man kneeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man kneeling: dark skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling">&nbsp;</span></td>
-<td><span title="woman kneeling: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman kneeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling: medium skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling: dark skin tone">&nbsp;</span></td>
-<td><span title="person kneeling facing right">&nbsp;</span></td>
-<td><span title="person kneeling facing right: light skin tone">&nbsp;</span></td>
-<td><span title="person kneeling facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person kneeling facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person kneeling facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person kneeling facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling facing right">&nbsp;</span></td>
-<td><span title="woman kneeling facing right: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman kneeling facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman kneeling facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man kneeling facing right">&nbsp;</span></td>
-<td><span title="man kneeling facing right: light skin tone">&nbsp;</span></td>
-<td><span title="man kneeling facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man kneeling facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man kneeling facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man kneeling facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="person with white cane">&nbsp;</span></td>
-<td><span title="person with white cane: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person with white cane: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person with white cane: medium skin tone">&nbsp;</span></td>
-<td><span title="person with white cane: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person with white cane: dark skin tone">&nbsp;</span></td>
-<td><span title="person with white cane facing right">&nbsp;</span></td>
-<td><span title="person with white cane facing right: light skin tone">&nbsp;</span></td>
-<td><span title="person with white cane facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person with white cane facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person with white cane facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person with white cane facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man with white cane">&nbsp;</span></td>
-<td><span title="man with white cane: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man with white cane: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man with white cane: medium skin tone">&nbsp;</span></td>
-<td><span title="man with white cane: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man with white cane: dark skin tone">&nbsp;</span></td>
-<td><span title="man with white cane facing right">&nbsp;</span></td>
-<td><span title="man with white cane facing right: light skin tone">&nbsp;</span></td>
-<td><span title="man with white cane facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man with white cane facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man with white cane facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man with white cane facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane">&nbsp;</span></td>
-<td><span title="woman with white cane: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman with white cane: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane: medium skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane: dark skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane facing right">&nbsp;</span></td>
-<td><span title="woman with white cane facing right: light skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman with white cane facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person in motorized wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in motorized wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man in motorized wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in motorized wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman in motorized wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in motorized wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair">&nbsp;</span></td>
-<td><span title="person in manual wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person in manual wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in manual wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair">&nbsp;</span></td>
-<td><span title="man in manual wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man in manual wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in manual wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman in manual wheelchair: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right: light skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in manual wheelchair facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="person running">&nbsp;</span></td>
-<td><span title="person running: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person running: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person running: medium skin tone">&nbsp;</span></td>
-<td><span title="person running: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person running: dark skin tone">&nbsp;</span></td>
-<td><span title="man running">&nbsp;</span></td>
-<td><span title="man running: light skin tone">&nbsp;</span></td>
-<td><span title="man running: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man running: medium skin tone">&nbsp;</span></td>
-<td><span title="man running: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man running: dark skin tone">&nbsp;</span></td>
-<td><span title="woman running">&nbsp;</span></td>
-<td><span title="woman running: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman running: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman running: medium skin tone">&nbsp;</span></td>
-<td><span title="woman running: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman running: dark skin tone">&nbsp;</span></td>
-<td><span title="person running facing right">&nbsp;</span></td>
-<td><span title="person running facing right: light skin tone">&nbsp;</span></td>
-<td><span title="person running facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person running facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="person running facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person running facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="woman running facing right">&nbsp;</span></td>
-<td><span title="woman running facing right: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman running facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman running facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="woman running facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman running facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="man running facing right">&nbsp;</span></td>
-<td><span title="man running facing right: light skin tone">&nbsp;</span></td>
-<td><span title="man running facing right: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man running facing right: medium skin tone">&nbsp;</span></td>
-<td><span title="man running facing right: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man running facing right: dark skin tone">&nbsp;</span></td>
-<td><span title="ballet dancer">&nbsp;</span></td>
-<td><span title="ballet dancer: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="ballet dancer: medium-light skin tone">&nbsp;</span></td>
-<td><span title="ballet dancer: medium skin tone">&nbsp;</span></td>
-<td><span title="ballet dancer: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="ballet dancer: dark skin tone">&nbsp;</span></td>
-<td><span title="woman dancing">&nbsp;</span></td>
-<td><span title="woman dancing: light skin tone">&nbsp;</span></td>
-<td><span title="woman dancing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman dancing: medium skin tone">&nbsp;</span></td>
-<td><span title="woman dancing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman dancing: dark skin tone">&nbsp;</span></td>
-<td><span title="man dancing">&nbsp;</span></td>
-<td><span title="man dancing: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man dancing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man dancing: medium skin tone">&nbsp;</span></td>
-<td><span title="man dancing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man dancing: dark skin tone">&nbsp;</span></td>
-<td><span title="person in suit levitating">&nbsp;</span></td>
-<td><span title="person in suit levitating: light skin tone">&nbsp;</span></td>
-<td><span title="person in suit levitating: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in suit levitating: medium skin tone">&nbsp;</span></td>
-<td><span title="person in suit levitating: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in suit levitating: dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears">&nbsp;</span></td>
-<td><span title="people with bunny ears: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people with bunny ears: medium-light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears">&nbsp;</span></td>
-<td><span title="men with bunny ears: light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears">&nbsp;</span></td>
-<td><span title="women with bunny ears: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women with bunny ears: medium-light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people with bunny ears: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people with bunny ears: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men with bunny ears: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men with bunny ears: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men with bunny ears: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women with bunny ears: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women with bunny ears: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women with bunny ears: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in steamy room">&nbsp;</span></td>
-<td><span title="person in steamy room: light skin tone">&nbsp;</span></td>
-<td><span title="person in steamy room: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in steamy room: medium skin tone">&nbsp;</span></td>
-<td><span title="person in steamy room: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in steamy room: dark skin tone">&nbsp;</span></td>
-<td><span title="man in steamy room">&nbsp;</span></td>
-<td><span title="man in steamy room: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man in steamy room: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in steamy room: medium skin tone">&nbsp;</span></td>
-<td><span title="man in steamy room: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in steamy room: dark skin tone">&nbsp;</span></td>
-<td><span title="woman in steamy room">&nbsp;</span></td>
-<td><span title="woman in steamy room: light skin tone">&nbsp;</span></td>
-<td><span title="woman in steamy room: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in steamy room: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in steamy room: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in steamy room: dark skin tone">&nbsp;</span></td>
-<td><span title="person climbing">&nbsp;</span></td>
-<td><span title="person climbing: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person climbing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person climbing: medium skin tone">&nbsp;</span></td>
-<td><span title="person climbing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person climbing: dark skin tone">&nbsp;</span></td>
-<td><span title="man climbing">&nbsp;</span></td>
-<td><span title="man climbing: light skin tone">&nbsp;</span></td>
-<td><span title="man climbing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man climbing: medium skin tone">&nbsp;</span></td>
-<td><span title="man climbing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man climbing: dark skin tone">&nbsp;</span></td>
-<td><span title="woman climbing">&nbsp;</span></td>
-<td><span title="woman climbing: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman climbing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman climbing: medium skin tone">&nbsp;</span></td>
-<td><span title="woman climbing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman climbing: dark skin tone">&nbsp;</span></td>
-<td><span title="person fencing">&nbsp;</span></td>
-<td><span title="horse racing">&nbsp;</span></td>
-<td><span title="horse racing: light skin tone">&nbsp;</span></td>
-<td><span title="horse racing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="horse racing: medium skin tone">&nbsp;</span></td>
-<td><span title="horse racing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="horse racing: dark skin tone">&nbsp;</span></td>
-<td><span title="skier">&nbsp;</span></td>
-</tr><tr>
-<td><span title="snowboarder">&nbsp;</span></td>
-<td><span title="snowboarder: light skin tone">&nbsp;</span></td>
-<td><span title="snowboarder: medium-light skin tone">&nbsp;</span></td>
-<td><span title="snowboarder: medium skin tone">&nbsp;</span></td>
-<td><span title="snowboarder: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="snowboarder: dark skin tone">&nbsp;</span></td>
-<td><span title="person golfing">&nbsp;</span></td>
-<td><span title="person golfing: light skin tone">&nbsp;</span></td>
-<td><span title="person golfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person golfing: medium skin tone">&nbsp;</span></td>
-<td><span title="person golfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person golfing: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man golfing">&nbsp;</span></td>
-<td><span title="man golfing: light skin tone">&nbsp;</span></td>
-<td><span title="man golfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man golfing: medium skin tone">&nbsp;</span></td>
-<td><span title="man golfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man golfing: dark skin tone">&nbsp;</span></td>
-<td><span title="woman golfing">&nbsp;</span></td>
-<td><span title="woman golfing: light skin tone">&nbsp;</span></td>
-<td><span title="woman golfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman golfing: medium skin tone">&nbsp;</span></td>
-<td><span title="woman golfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman golfing: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person surfing">&nbsp;</span></td>
-<td><span title="person surfing: light skin tone">&nbsp;</span></td>
-<td><span title="person surfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person surfing: medium skin tone">&nbsp;</span></td>
-<td><span title="person surfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person surfing: dark skin tone">&nbsp;</span></td>
-<td><span title="man surfing">&nbsp;</span></td>
-<td><span title="man surfing: light skin tone">&nbsp;</span></td>
-<td><span title="man surfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man surfing: medium skin tone">&nbsp;</span></td>
-<td><span title="man surfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man surfing: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman surfing">&nbsp;</span></td>
-<td><span title="woman surfing: light skin tone">&nbsp;</span></td>
-<td><span title="woman surfing: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman surfing: medium skin tone">&nbsp;</span></td>
-<td><span title="woman surfing: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman surfing: dark skin tone">&nbsp;</span></td>
-<td><span title="person rowing boat">&nbsp;</span></td>
-<td><span title="person rowing boat: light skin tone">&nbsp;</span></td>
-<td><span title="person rowing boat: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person rowing boat: medium skin tone">&nbsp;</span></td>
-<td><span title="person rowing boat: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person rowing boat: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man rowing boat">&nbsp;</span></td>
-<td><span title="man rowing boat: light skin tone">&nbsp;</span></td>
-<td><span title="man rowing boat: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man rowing boat: medium skin tone">&nbsp;</span></td>
-<td><span title="man rowing boat: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man rowing boat: dark skin tone">&nbsp;</span></td>
-<td><span title="woman rowing boat">&nbsp;</span></td>
-<td><span title="woman rowing boat: light skin tone">&nbsp;</span></td>
-<td><span title="woman rowing boat: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman rowing boat: medium skin tone">&nbsp;</span></td>
-<td><span title="woman rowing boat: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman rowing boat: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person swimming">&nbsp;</span></td>
-<td><span title="person swimming: light skin tone">&nbsp;</span></td>
-<td><span title="person swimming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person swimming: medium skin tone">&nbsp;</span></td>
-<td><span title="person swimming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person swimming: dark skin tone">&nbsp;</span></td>
-<td><span title="man swimming">&nbsp;</span></td>
-<td><span title="man swimming: light skin tone">&nbsp;</span></td>
-<td><span title="man swimming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man swimming: medium skin tone">&nbsp;</span></td>
-<td><span title="man swimming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man swimming: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman swimming">&nbsp;</span></td>
-<td><span title="woman swimming: light skin tone">&nbsp;</span></td>
-<td><span title="woman swimming: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman swimming: medium skin tone">&nbsp;</span></td>
-<td><span title="woman swimming: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman swimming: dark skin tone">&nbsp;</span></td>
-<td><span title="person bouncing ball">&nbsp;</span></td>
-<td><span title="person bouncing ball: light skin tone">&nbsp;</span></td>
-<td><span title="person bouncing ball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person bouncing ball: medium skin tone">&nbsp;</span></td>
-<td><span title="person bouncing ball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person bouncing ball: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man bouncing ball">&nbsp;</span></td>
-<td><span title="man bouncing ball: light skin tone">&nbsp;</span></td>
-<td><span title="man bouncing ball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man bouncing ball: medium skin tone">&nbsp;</span></td>
-<td><span title="man bouncing ball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man bouncing ball: dark skin tone">&nbsp;</span></td>
-<td><span title="woman bouncing ball">&nbsp;</span></td>
-<td><span title="woman bouncing ball: light skin tone">&nbsp;</span></td>
-<td><span title="woman bouncing ball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman bouncing ball: medium skin tone">&nbsp;</span></td>
-<td><span title="woman bouncing ball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman bouncing ball: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person lifting weights">&nbsp;</span></td>
-<td><span title="person lifting weights: light skin tone">&nbsp;</span></td>
-<td><span title="person lifting weights: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person lifting weights: medium skin tone">&nbsp;</span></td>
-<td><span title="person lifting weights: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person lifting weights: dark skin tone">&nbsp;</span></td>
-<td><span title="man lifting weights">&nbsp;</span></td>
-<td><span title="man lifting weights: light skin tone">&nbsp;</span></td>
-<td><span title="man lifting weights: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man lifting weights: medium skin tone">&nbsp;</span></td>
-<td><span title="man lifting weights: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man lifting weights: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman lifting weights">&nbsp;</span></td>
-<td><span title="woman lifting weights: light skin tone">&nbsp;</span></td>
-<td><span title="woman lifting weights: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman lifting weights: medium skin tone">&nbsp;</span></td>
-<td><span title="woman lifting weights: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman lifting weights: dark skin tone">&nbsp;</span></td>
-<td><span title="person biking">&nbsp;</span></td>
-<td><span title="person biking: light skin tone">&nbsp;</span></td>
-<td><span title="person biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person biking: medium skin tone">&nbsp;</span></td>
-<td><span title="person biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person biking: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man biking">&nbsp;</span></td>
-<td><span title="man biking: light skin tone">&nbsp;</span></td>
-<td><span title="man biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man biking: medium skin tone">&nbsp;</span></td>
-<td><span title="man biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man biking: dark skin tone">&nbsp;</span></td>
-<td><span title="woman biking">&nbsp;</span></td>
-<td><span title="woman biking: light skin tone">&nbsp;</span></td>
-<td><span title="woman biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman biking: medium skin tone">&nbsp;</span></td>
-<td><span title="woman biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman biking: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person mountain biking">&nbsp;</span></td>
-<td><span title="person mountain biking: light skin tone">&nbsp;</span></td>
-<td><span title="person mountain biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person mountain biking: medium skin tone">&nbsp;</span></td>
-<td><span title="person mountain biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person mountain biking: dark skin tone">&nbsp;</span></td>
-<td><span title="man mountain biking">&nbsp;</span></td>
-<td><span title="man mountain biking: light skin tone">&nbsp;</span></td>
-<td><span title="man mountain biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man mountain biking: medium skin tone">&nbsp;</span></td>
-<td><span title="man mountain biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man mountain biking: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman mountain biking">&nbsp;</span></td>
-<td><span title="woman mountain biking: light skin tone">&nbsp;</span></td>
-<td><span title="woman mountain biking: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman mountain biking: medium skin tone">&nbsp;</span></td>
-<td><span title="woman mountain biking: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman mountain biking: dark skin tone">&nbsp;</span></td>
-<td><span title="person cartwheeling">&nbsp;</span></td>
-<td><span title="person cartwheeling: light skin tone">&nbsp;</span></td>
-<td><span title="person cartwheeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person cartwheeling: medium skin tone">&nbsp;</span></td>
-<td><span title="person cartwheeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person cartwheeling: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man cartwheeling">&nbsp;</span></td>
-<td><span title="man cartwheeling: light skin tone">&nbsp;</span></td>
-<td><span title="man cartwheeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man cartwheeling: medium skin tone">&nbsp;</span></td>
-<td><span title="man cartwheeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man cartwheeling: dark skin tone">&nbsp;</span></td>
-<td><span title="woman cartwheeling">&nbsp;</span></td>
-<td><span title="woman cartwheeling: light skin tone">&nbsp;</span></td>
-<td><span title="woman cartwheeling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman cartwheeling: medium skin tone">&nbsp;</span></td>
-<td><span title="woman cartwheeling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman cartwheeling: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people wrestling">&nbsp;</span></td>
-<td><span title="people wrestling: light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling">&nbsp;</span></td>
-<td><span title="men wrestling: light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women wrestling">&nbsp;</span></td>
-<td><span title="women wrestling: light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people wrestling: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people wrestling: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people wrestling: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men wrestling: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men wrestling: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: light skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women wrestling: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women wrestling: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women wrestling: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person playing water polo">&nbsp;</span></td>
-<td><span title="person playing water polo: light skin tone">&nbsp;</span></td>
-<td><span title="person playing water polo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person playing water polo: medium skin tone">&nbsp;</span></td>
-<td><span title="person playing water polo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person playing water polo: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man playing water polo">&nbsp;</span></td>
-<td><span title="man playing water polo: light skin tone">&nbsp;</span></td>
-<td><span title="man playing water polo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man playing water polo: medium skin tone">&nbsp;</span></td>
-<td><span title="man playing water polo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man playing water polo: dark skin tone">&nbsp;</span></td>
-<td><span title="woman playing water polo">&nbsp;</span></td>
-<td><span title="woman playing water polo: light skin tone">&nbsp;</span></td>
-<td><span title="woman playing water polo: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman playing water polo: medium skin tone">&nbsp;</span></td>
-<td><span title="woman playing water polo: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman playing water polo: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person playing handball">&nbsp;</span></td>
-<td><span title="person playing handball: light skin tone">&nbsp;</span></td>
-<td><span title="person playing handball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person playing handball: medium skin tone">&nbsp;</span></td>
-<td><span title="person playing handball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person playing handball: dark skin tone">&nbsp;</span></td>
-<td><span title="man playing handball">&nbsp;</span></td>
-<td><span title="man playing handball: light skin tone">&nbsp;</span></td>
-<td><span title="man playing handball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man playing handball: medium skin tone">&nbsp;</span></td>
-<td><span title="man playing handball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man playing handball: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman playing handball">&nbsp;</span></td>
-<td><span title="woman playing handball: light skin tone">&nbsp;</span></td>
-<td><span title="woman playing handball: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman playing handball: medium skin tone">&nbsp;</span></td>
-<td><span title="woman playing handball: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman playing handball: dark skin tone">&nbsp;</span></td>
-<td><span title="person juggling">&nbsp;</span></td>
-<td><span title="person juggling: light skin tone">&nbsp;</span></td>
-<td><span title="person juggling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person juggling: medium skin tone">&nbsp;</span></td>
-<td><span title="person juggling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person juggling: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="man juggling">&nbsp;</span></td>
-<td><span title="man juggling: light skin tone">&nbsp;</span></td>
-<td><span title="man juggling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man juggling: medium skin tone">&nbsp;</span></td>
-<td><span title="man juggling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man juggling: dark skin tone">&nbsp;</span></td>
-<td><span title="woman juggling">&nbsp;</span></td>
-<td><span title="woman juggling: light skin tone">&nbsp;</span></td>
-<td><span title="woman juggling: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman juggling: medium skin tone">&nbsp;</span></td>
-<td><span title="woman juggling: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman juggling: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person in lotus position">&nbsp;</span></td>
-<td><span title="person in lotus position: light skin tone">&nbsp;</span></td>
-<td><span title="person in lotus position: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in lotus position: medium skin tone">&nbsp;</span></td>
-<td><span title="person in lotus position: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in lotus position: dark skin tone">&nbsp;</span></td>
-<td><span title="man in lotus position">&nbsp;</span></td>
-<td><span title="man in lotus position: light skin tone">&nbsp;</span></td>
-<td><span title="man in lotus position: medium-light skin tone">&nbsp;</span></td>
-<td><span title="man in lotus position: medium skin tone">&nbsp;</span></td>
-<td><span title="man in lotus position: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="man in lotus position: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman in lotus position">&nbsp;</span></td>
-<td><span title="woman in lotus position: light skin tone">&nbsp;</span></td>
-<td><span title="woman in lotus position: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman in lotus position: medium skin tone">&nbsp;</span></td>
-<td><span title="woman in lotus position: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman in lotus position: dark skin tone">&nbsp;</span></td>
-<td><span title="person taking bath">&nbsp;</span></td>
-<td><span title="person taking bath: light skin tone">&nbsp;</span></td>
-<td><span title="person taking bath: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person taking bath: medium skin tone">&nbsp;</span></td>
-<td><span title="person taking bath: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person taking bath: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="person in bed">&nbsp;</span></td>
-<td><span title="person in bed: light skin tone">&nbsp;</span></td>
-<td><span title="person in bed: medium-light skin tone">&nbsp;</span></td>
-<td><span title="person in bed: medium skin tone">&nbsp;</span></td>
-<td><span title="person in bed: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="person in bed: dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands">&nbsp;</span></td>
-<td><span title="people holding hands: light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people holding hands: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="people holding hands: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="people holding hands: dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands">&nbsp;</span></td>
-<td><span title="women holding hands: light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: light skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women holding hands: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="women holding hands: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="women holding hands: dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands">&nbsp;</span></td>
-<td><span title="woman and man holding hands: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman and man holding hands: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="woman and man holding hands: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="woman and man holding hands: dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men holding hands">&nbsp;</span></td>
-<td><span title="men holding hands: light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium skin tone, light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men holding hands: medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: dark skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="men holding hands: dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="men holding hands: dark skin tone">&nbsp;</span></td>
-<td><span title="kiss">&nbsp;</span></td>
-<td><span title="kiss: light skin tone">&nbsp;</span></td>
-<td><span title="kiss: medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: person, person, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: person, person, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: person, person, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man">&nbsp;</span></td>
-<td><span title="kiss: woman, man, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: woman, man, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, medium-dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: woman, man, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, man, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man">&nbsp;</span></td>
-<td><span title="kiss: man, man, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: man, man, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: man, man, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: man, man, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, light skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: woman, woman, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="kiss: woman, woman, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="kiss: woman, woman, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart">&nbsp;</span></td>
-<td><span title="couple with heart: light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: person, person, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: person, person, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: woman, man">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium skin tone, light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: woman, man, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, dark skin tone, medium skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: woman, man, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, man, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: man, man, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, dark skin tone, light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: man, man, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: man, man, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, light skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-light skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-light skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: woman, woman, medium-light skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-light skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, medium-dark skin tone">&nbsp;</span></td>
-</tr><tr>
-<td><span title="couple with heart: woman, woman, medium-dark skin tone, dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, dark skin tone, light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, dark skin tone, medium-light skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, dark skin tone, medium skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, dark skin tone, medium-dark skin tone">&nbsp;</span></td>
-<td><span title="couple with heart: woman, woman, dark skin tone">&nbsp;</span></td>
-<td><span title="family: man, woman, boy">&nbsp;</span></td>
-<td><span title="family: man, woman, girl">&nbsp;</span></td>
-<td><span title="family: man, woman, girl, boy">&nbsp;</span></td>
-<td><span title="family: man, woman, boy, boy">&nbsp;</span></td>
-<td><span title="family: man, woman, girl, girl">&nbsp;</span></td>
-<td><span title="family: man, man, boy">&nbsp;</span></td>
-</tr><tr>
-<td><span title="family: man, man, girl">&nbsp;</span></td>
-<td><span title="family: man, man, girl, boy">&nbsp;</span></td>
-<td><span title="family: man, man, boy, boy">&nbsp;</span></td>
-<td><span title="family: man, man, girl, girl">&nbsp;</span></td>
-<td><span title="family: woman, woman, boy">&nbsp;</span></td>
-<td><span title="family: woman, woman, girl">&nbsp;</span></td>
-<td><span title="family: woman, woman, girl, boy">&nbsp;</span></td>
-<td><span title="family: woman, woman, boy, boy">&nbsp;</span></td>
-<td><span title="family: woman, woman, girl, girl">&nbsp;</span></td>
-<td><span title="family: man, boy">&nbsp;</span></td>
-<td><span title="family: man, boy, boy">&nbsp;</span></td>
-<td><span title="family: man, girl">&nbsp;</span></td>
-</tr><tr>
-<td><span title="family: man, girl, boy">&nbsp;</span></td>
-<td><span title="family: man, girl, girl">&nbsp;</span></td>
-<td><span title="family: woman, boy">&nbsp;</span></td>
-<td><span title="family: woman, boy, boy">&nbsp;</span></td>
-<td><span title="family: woman, girl">&nbsp;</span></td>
-<td><span title="family: woman, girl, boy">&nbsp;</span></td>
-<td><span title="family: woman, girl, girl">&nbsp;</span></td>
-<td><span title="speaking head">&nbsp;</span></td>
-<td><span title="bust in silhouette">&nbsp;</span></td>
-<td><span title="busts in silhouette">&nbsp;</span></td>
-<td><span title="people hugging">&nbsp;</span></td>
-<td><span title="family">&nbsp;</span></td>
-</tr><tr>
-<td><span title="family: adult, adult, child">&nbsp;</span></td>
-<td><span title="family: adult, adult, child, child">&nbsp;</span></td>
-<td><span title="family: adult, child">&nbsp;</span></td>
-<td><span title="family: adult, child, child">&nbsp;</span></td>
-<td><span title="footprints">&nbsp;</span></td>
-<td><span title="fingerprint">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waving hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised back of hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with fingers splayed: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vulcan salute: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm down hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm up hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leftwards pushing hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rightwards pushing hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinched fingers: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pinching hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="victory hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed fingers: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hand with index finger and thumb crossed: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love-you gesture: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sign of the horns: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="call me hand: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing left: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing right: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing up: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="middle finger: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backhand index pointing down: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing up: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="index pointing at the viewer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs up: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thumbs down: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raised fist: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming fist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-facing fist: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right-facing fist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapping hands: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raising hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart hands: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="open hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palms up together: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="handshake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-light skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: dark skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handshake: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folded hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="writing hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nail polish: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="selfie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="selfie: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="selfie: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="selfie: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="selfie: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="selfie: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flexed biceps: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanical arm"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanical leg"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leg"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leg: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="leg: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leg: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leg: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leg: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foot: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="ear: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear with hearing aid: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nose: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="nose: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nose: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nose: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nose: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="anatomical heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lungs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tooth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eyes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eye"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tongue"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="mouth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="biting lip"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="child"></td>
+<td><img src="assets/placeholder.svg" width="28" title="child: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="child: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="child: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="child: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="child: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boy: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="girl: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="girl: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="girl: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="girl: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="girl: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, blond hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, beard"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, beard"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, beard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, curly hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, bald"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, red hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, red hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, curly hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, curly hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, white hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, white hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, bald"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-light skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: medium-dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person: dark skin tone, bald"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium skin tone, blond hair"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman: medium-dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman: dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-light skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: medium-dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man: dark skin tone, blond hair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="older person"></td>
+<td><img src="assets/placeholder.svg" width="28" title="older person: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="older person: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="older person: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="older person: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="older person: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old man: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old woman: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old woman: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old woman: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="old woman: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old woman: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person frowning: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man frowning: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman frowning: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person pouting: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pouting: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pouting: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing NO: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing NO: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing NO: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person gesturing OK: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man gesturing OK: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman gesturing OK: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person tipping hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man tipping hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman tipping hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person raising hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man raising hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman raising hand: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf person: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf man: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deaf woman: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bowing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bowing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bowing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person facepalming: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man facepalming: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman facepalming: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person shrugging: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man shrugging: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman shrugging: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="health worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man health worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman health worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="student"></td>
+<td><img src="assets/placeholder.svg" width="28" title="student: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="student: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="student: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="student: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="student: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man student: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman student"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman student: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman student: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman student: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman student: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman student: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacher: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man teacher: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman teacher: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="judge"></td>
+<td><img src="assets/placeholder.svg" width="28" title="judge: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="judge: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="judge: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="judge: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="judge: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man judge: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman judge: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="farmer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man farmer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman farmer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cook"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cook: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cook: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cook: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="cook: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cook: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cook: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cook: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mechanic: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mechanic: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mechanic: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man factory worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman factory worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man office worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman office worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scientist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scientist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scientist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scientist: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="scientist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scientist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man scientist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman scientist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="technologist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man technologist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman technologist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="singer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="singer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="singer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="singer: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="singer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="singer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man singer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman singer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man artist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man artist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man artist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man artist: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man artist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man artist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman artist: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pilot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pilot: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pilot: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pilot: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="pilot: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pilot: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man pilot: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman pilot: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="astronaut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man astronaut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman astronaut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firefighter: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man firefighter: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman firefighter: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police officer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man police officer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman police officer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="detective"></td>
+<td><img src="assets/placeholder.svg" width="28" title="detective: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="detective: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="detective: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="detective: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="detective: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man detective: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman detective: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guard: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man guard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man guard: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man guard: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man guard: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man guard: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man guard: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman guard: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ninja"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ninja: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ninja: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ninja: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="ninja: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ninja: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man construction worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman construction worker: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with crown: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prince: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="princess"></td>
+<td><img src="assets/placeholder.svg" width="28" title="princess: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="princess: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="princess: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="princess: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="princess: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person wearing turban: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man wearing turban: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman wearing turban: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with skullcap: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with headscarf: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in tuxedo: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in tuxedo: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in tuxedo: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with veil: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with veil: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with veil: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant woman: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant man: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pregnant person: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="breast-feeding: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman feeding baby: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man feeding baby: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person feeding baby: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby angel: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Santa Claus: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mrs. Claus: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Mx Claus: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="superhero: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man superhero: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman superhero: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="supervillain: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man supervillain: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman supervillain: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mage: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mage: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man mage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fairy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fairy: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fairy: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fairy: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="fairy: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fairy: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man fairy: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman fairy: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vampire: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man vampire: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman vampire: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merperson"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merperson: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merperson: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merperson: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="merperson: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merperson: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="merman: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mermaid: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elf: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man elf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man elf: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man elf: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man elf: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man elf: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man elf: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman elf: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="genie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man genie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman genie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="zombie"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man zombie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman zombie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="troll"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hairy creature"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting massage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting massage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting massage: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person getting haircut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man getting haircut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman getting haircut: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man walking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person walking facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman walking facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man walking facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person standing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man standing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man standing: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man standing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man standing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man standing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man standing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman standing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person kneeling facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman kneeling facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man kneeling facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person with white cane facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man with white cane facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman with white cane facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in motorized wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in motorized wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in motorized wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in manual wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in manual wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in manual wheelchair facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person running: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman running: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person running facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman running facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man running facing right: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet dancer: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman dancing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man dancing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in suit levitating: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people with bunny ears: dark skin tone, medium-dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men with bunny ears: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: medium-dark skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women with bunny ears: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in steamy room: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in steamy room: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in steamy room: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person climbing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man climbing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman climbing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person fencing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse racing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skier"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowboarder: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person golfing: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man golfing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman golfing: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person surfing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man surfing: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman surfing: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person rowing boat: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man rowing boat: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman rowing boat: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person swimming: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man swimming: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman swimming: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person bouncing ball: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man bouncing ball: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman bouncing ball: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person lifting weights: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man lifting weights: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman lifting weights: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person biking: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man biking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman biking: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person mountain biking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man mountain biking: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman mountain biking: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person cartwheeling: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man cartwheeling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman cartwheeling: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-light skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: dark skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people wrestling: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men wrestling: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: light skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-dark skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women wrestling: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing water polo: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing water polo: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing water polo: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person playing handball: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man playing handball: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman playing handball: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person juggling: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man juggling: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman juggling: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in lotus position: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man in lotus position: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman in lotus position: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person taking bath: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="person in bed: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-dark skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people holding hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: light skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women holding hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman and man holding hands: dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium skin tone, light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: dark skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men holding hands: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, medium-dark skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: person, person, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, man, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-dark skin tone, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: man, man, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, light skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiss: woman, woman, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-light skin tone, dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: person, person, dark skin tone, medium-dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium skin tone, light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, dark skin tone, medium skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, man, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-light skin tone, medium-dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, dark skin tone, light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: man, man, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, light skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-light skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-light skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-light skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-light skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-dark skin tone"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, medium-dark skin tone, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, dark skin tone, light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, dark skin tone, medium-light skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, dark skin tone, medium skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, dark skin tone, medium-dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couple with heart: woman, woman, dark skin tone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, woman, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, woman, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, woman, girl, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, woman, boy, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, woman, girl, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, man, boy"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, man, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, man, girl, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, man, boy, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, man, girl, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, woman, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, woman, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, woman, girl, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, woman, boy, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, woman, girl, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, boy, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, girl"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, girl, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: man, girl, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, boy, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, girl, boy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: woman, girl, girl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speaking head"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bust in silhouette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="busts in silhouette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="people hugging"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family"></td>
+</tr><tr>
+<td><img src="assets/placeholder.svg" width="28" title="family: adult, adult, child"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: adult, adult, child, child"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: adult, child"></td>
+<td><img src="assets/placeholder.svg" width="28" title="family: adult, child, child"></td>
+<td><img src="assets/placeholder.svg" width="28" title="footprints"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fingerprint"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Animals & Nature</b> — 0/160 (0%)</summary>
 
 <table><tr>
-<td><span title="monkey face">&nbsp;</span></td>
-<td><span title="monkey">&nbsp;</span></td>
-<td><span title="gorilla">&nbsp;</span></td>
-<td><span title="orangutan">&nbsp;</span></td>
-<td><span title="dog face">&nbsp;</span></td>
-<td><span title="dog">&nbsp;</span></td>
-<td><span title="guide dog">&nbsp;</span></td>
-<td><span title="service dog">&nbsp;</span></td>
-<td><span title="poodle">&nbsp;</span></td>
-<td><span title="wolf">&nbsp;</span></td>
-<td><span title="fox">&nbsp;</span></td>
-<td><span title="raccoon">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="monkey face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="monkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="gorilla"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orangutan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dog face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guide dog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="service dog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="poodle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wolf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fox"></td>
+<td><img src="assets/placeholder.svg" width="28" title="raccoon"></td>
 </tr><tr>
-<td><span title="cat face">&nbsp;</span></td>
-<td><span title="cat">&nbsp;</span></td>
-<td><span title="black cat">&nbsp;</span></td>
-<td><span title="lion">&nbsp;</span></td>
-<td><span title="tiger face">&nbsp;</span></td>
-<td><span title="tiger">&nbsp;</span></td>
-<td><span title="leopard">&nbsp;</span></td>
-<td><span title="horse face">&nbsp;</span></td>
-<td><span title="moose">&nbsp;</span></td>
-<td><span title="donkey">&nbsp;</span></td>
-<td><span title="horse">&nbsp;</span></td>
-<td><span title="unicorn">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="cat face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black cat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lion"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tiger face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tiger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leopard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="moose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="donkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horse"></td>
+<td><img src="assets/placeholder.svg" width="28" title="unicorn"></td>
 </tr><tr>
-<td><span title="zebra">&nbsp;</span></td>
-<td><span title="deer">&nbsp;</span></td>
-<td><span title="bison">&nbsp;</span></td>
-<td><span title="cow face">&nbsp;</span></td>
-<td><span title="ox">&nbsp;</span></td>
-<td><span title="water buffalo">&nbsp;</span></td>
-<td><span title="cow">&nbsp;</span></td>
-<td><span title="pig face">&nbsp;</span></td>
-<td><span title="pig">&nbsp;</span></td>
-<td><span title="boar">&nbsp;</span></td>
-<td><span title="pig nose">&nbsp;</span></td>
-<td><span title="ram">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="zebra"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bison"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cow face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ox"></td>
+<td><img src="assets/placeholder.svg" width="28" title="water buffalo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pig face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pig"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pig nose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ram"></td>
 </tr><tr>
-<td><span title="ewe">&nbsp;</span></td>
-<td><span title="goat">&nbsp;</span></td>
-<td><span title="camel">&nbsp;</span></td>
-<td><span title="two-hump camel">&nbsp;</span></td>
-<td><span title="llama">&nbsp;</span></td>
-<td><span title="giraffe">&nbsp;</span></td>
-<td><span title="elephant">&nbsp;</span></td>
-<td><span title="mammoth">&nbsp;</span></td>
-<td><span title="rhinoceros">&nbsp;</span></td>
-<td><span title="hippopotamus">&nbsp;</span></td>
-<td><span title="mouse face">&nbsp;</span></td>
-<td><span title="mouse">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="ewe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="goat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="camel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="two-hump camel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="llama"></td>
+<td><img src="assets/placeholder.svg" width="28" title="giraffe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elephant"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mammoth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rhinoceros"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hippopotamus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mouse face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mouse"></td>
 </tr><tr>
-<td><span title="rat">&nbsp;</span></td>
-<td><span title="hamster">&nbsp;</span></td>
-<td><span title="rabbit face">&nbsp;</span></td>
-<td><span title="rabbit">&nbsp;</span></td>
-<td><span title="chipmunk">&nbsp;</span></td>
-<td><span title="beaver">&nbsp;</span></td>
-<td><span title="hedgehog">&nbsp;</span></td>
-<td><span title="bat">&nbsp;</span></td>
-<td><span title="bear">&nbsp;</span></td>
-<td><span title="polar bear">&nbsp;</span></td>
-<td><span title="koala">&nbsp;</span></td>
-<td><span title="panda">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="rat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hamster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rabbit face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rabbit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chipmunk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beaver"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hedgehog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="polar bear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="koala"></td>
+<td><img src="assets/placeholder.svg" width="28" title="panda"></td>
 </tr><tr>
-<td><span title="sloth">&nbsp;</span></td>
-<td><span title="otter">&nbsp;</span></td>
-<td><span title="skunk">&nbsp;</span></td>
-<td><span title="kangaroo">&nbsp;</span></td>
-<td><span title="badger">&nbsp;</span></td>
-<td><span title="paw prints">&nbsp;</span></td>
-<td><span title="turkey">&nbsp;</span></td>
-<td><span title="chicken">&nbsp;</span></td>
-<td><span title="rooster">&nbsp;</span></td>
-<td><span title="hatching chick">&nbsp;</span></td>
-<td><span title="baby chick">&nbsp;</span></td>
-<td><span title="front-facing baby chick">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="sloth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="otter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skunk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kangaroo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="badger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="paw prints"></td>
+<td><img src="assets/placeholder.svg" width="28" title="turkey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chicken"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rooster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hatching chick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby chick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="front-facing baby chick"></td>
 </tr><tr>
-<td><span title="bird">&nbsp;</span></td>
-<td><span title="penguin">&nbsp;</span></td>
-<td><span title="dove">&nbsp;</span></td>
-<td><span title="eagle">&nbsp;</span></td>
-<td><span title="duck">&nbsp;</span></td>
-<td><span title="swan">&nbsp;</span></td>
-<td><span title="owl">&nbsp;</span></td>
-<td><span title="dodo">&nbsp;</span></td>
-<td><span title="feather">&nbsp;</span></td>
-<td><span title="flamingo">&nbsp;</span></td>
-<td><span title="peacock">&nbsp;</span></td>
-<td><span title="parrot">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="bird"></td>
+<td><img src="assets/placeholder.svg" width="28" title="penguin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dove"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eagle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="duck"></td>
+<td><img src="assets/placeholder.svg" width="28" title="swan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="owl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dodo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="feather"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flamingo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="peacock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="parrot"></td>
 </tr><tr>
-<td><span title="wing">&nbsp;</span></td>
-<td><span title="black bird">&nbsp;</span></td>
-<td><span title="goose">&nbsp;</span></td>
-<td><span title="phoenix">&nbsp;</span></td>
-<td><span title="frog">&nbsp;</span></td>
-<td><span title="crocodile">&nbsp;</span></td>
-<td><span title="turtle">&nbsp;</span></td>
-<td><span title="lizard">&nbsp;</span></td>
-<td><span title="snake">&nbsp;</span></td>
-<td><span title="dragon face">&nbsp;</span></td>
-<td><span title="dragon">&nbsp;</span></td>
-<td><span title="sauropod">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="wing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black bird"></td>
+<td><img src="assets/placeholder.svg" width="28" title="goose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="phoenix"></td>
+<td><img src="assets/placeholder.svg" width="28" title="frog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crocodile"></td>
+<td><img src="assets/placeholder.svg" width="28" title="turtle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lizard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dragon face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dragon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sauropod"></td>
 </tr><tr>
-<td><span title="T-Rex">&nbsp;</span></td>
-<td><span title="spouting whale">&nbsp;</span></td>
-<td><span title="whale">&nbsp;</span></td>
-<td><span title="dolphin">&nbsp;</span></td>
-<td><span title="orca">&nbsp;</span></td>
-<td><span title="seal">&nbsp;</span></td>
-<td><span title="fish">&nbsp;</span></td>
-<td><span title="tropical fish">&nbsp;</span></td>
-<td><span title="blowfish">&nbsp;</span></td>
-<td><span title="shark">&nbsp;</span></td>
-<td><span title="octopus">&nbsp;</span></td>
-<td><span title="spiral shell">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="T-Rex"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spouting whale"></td>
+<td><img src="assets/placeholder.svg" width="28" title="whale"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dolphin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orca"></td>
+<td><img src="assets/placeholder.svg" width="28" title="seal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tropical fish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blowfish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="octopus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spiral shell"></td>
 </tr><tr>
-<td><span title="coral">&nbsp;</span></td>
-<td><span title="jellyfish">&nbsp;</span></td>
-<td><span title="crab">&nbsp;</span></td>
-<td><span title="lobster">&nbsp;</span></td>
-<td><span title="shrimp">&nbsp;</span></td>
-<td><span title="squid">&nbsp;</span></td>
-<td><span title="oyster">&nbsp;</span></td>
-<td><span title="snail">&nbsp;</span></td>
-<td><span title="butterfly">&nbsp;</span></td>
-<td><span title="bug">&nbsp;</span></td>
-<td><span title="ant">&nbsp;</span></td>
-<td><span title="honeybee">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="coral"></td>
+<td><img src="assets/placeholder.svg" width="28" title="jellyfish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crab"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lobster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shrimp"></td>
+<td><img src="assets/placeholder.svg" width="28" title="squid"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oyster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snail"></td>
+<td><img src="assets/placeholder.svg" width="28" title="butterfly"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bug"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ant"></td>
+<td><img src="assets/placeholder.svg" width="28" title="honeybee"></td>
 </tr><tr>
-<td><span title="beetle">&nbsp;</span></td>
-<td><span title="lady beetle">&nbsp;</span></td>
-<td><span title="cricket">&nbsp;</span></td>
-<td><span title="cockroach">&nbsp;</span></td>
-<td><span title="spider">&nbsp;</span></td>
-<td><span title="spider web">&nbsp;</span></td>
-<td><span title="scorpion">&nbsp;</span></td>
-<td><span title="mosquito">&nbsp;</span></td>
-<td><span title="fly">&nbsp;</span></td>
-<td><span title="worm">&nbsp;</span></td>
-<td><span title="microbe">&nbsp;</span></td>
-<td><span title="bouquet">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="beetle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lady beetle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cricket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cockroach"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spider"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spider web"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scorpion"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mosquito"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fly"></td>
+<td><img src="assets/placeholder.svg" width="28" title="worm"></td>
+<td><img src="assets/placeholder.svg" width="28" title="microbe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bouquet"></td>
 </tr><tr>
-<td><span title="cherry blossom">&nbsp;</span></td>
-<td><span title="white flower">&nbsp;</span></td>
-<td><span title="lotus">&nbsp;</span></td>
-<td><span title="rosette">&nbsp;</span></td>
-<td><span title="rose">&nbsp;</span></td>
-<td><span title="wilted flower">&nbsp;</span></td>
-<td><span title="hibiscus">&nbsp;</span></td>
-<td><span title="sunflower">&nbsp;</span></td>
-<td><span title="blossom">&nbsp;</span></td>
-<td><span title="tulip">&nbsp;</span></td>
-<td><span title="hyacinth">&nbsp;</span></td>
-<td><span title="seedling">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="cherry blossom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white flower"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lotus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rosette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rose"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wilted flower"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hibiscus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sunflower"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blossom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tulip"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hyacinth"></td>
+<td><img src="assets/placeholder.svg" width="28" title="seedling"></td>
 </tr><tr>
-<td><span title="potted plant">&nbsp;</span></td>
-<td><span title="evergreen tree">&nbsp;</span></td>
-<td><span title="deciduous tree">&nbsp;</span></td>
-<td><span title="palm tree">&nbsp;</span></td>
-<td><span title="cactus">&nbsp;</span></td>
-<td><span title="sheaf of rice">&nbsp;</span></td>
-<td><span title="herb">&nbsp;</span></td>
-<td><span title="shamrock">&nbsp;</span></td>
-<td><span title="four leaf clover">&nbsp;</span></td>
-<td><span title="maple leaf">&nbsp;</span></td>
-<td><span title="fallen leaf">&nbsp;</span></td>
-<td><span title="leaf fluttering in wind">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="potted plant"></td>
+<td><img src="assets/placeholder.svg" width="28" title="evergreen tree"></td>
+<td><img src="assets/placeholder.svg" width="28" title="deciduous tree"></td>
+<td><img src="assets/placeholder.svg" width="28" title="palm tree"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cactus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sheaf of rice"></td>
+<td><img src="assets/placeholder.svg" width="28" title="herb"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shamrock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="four leaf clover"></td>
+<td><img src="assets/placeholder.svg" width="28" title="maple leaf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fallen leaf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leaf fluttering in wind"></td>
 </tr><tr>
-<td><span title="empty nest">&nbsp;</span></td>
-<td><span title="nest with eggs">&nbsp;</span></td>
-<td><span title="mushroom">&nbsp;</span></td>
-<td><span title="leafless tree">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="empty nest"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nest with eggs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mushroom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leafless tree"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Food & Drink</b> — 0/131 (0%)</summary>
 
 <table><tr>
-<td><span title="grapes">&nbsp;</span></td>
-<td><span title="melon">&nbsp;</span></td>
-<td><span title="watermelon">&nbsp;</span></td>
-<td><span title="tangerine">&nbsp;</span></td>
-<td><span title="lemon">&nbsp;</span></td>
-<td><span title="lime">&nbsp;</span></td>
-<td><span title="banana">&nbsp;</span></td>
-<td><span title="pineapple">&nbsp;</span></td>
-<td><span title="mango">&nbsp;</span></td>
-<td><span title="red apple">&nbsp;</span></td>
-<td><span title="green apple">&nbsp;</span></td>
-<td><span title="pear">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="grapes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="melon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="watermelon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tangerine"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lemon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lime"></td>
+<td><img src="assets/placeholder.svg" width="28" title="banana"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pineapple"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mango"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red apple"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green apple"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pear"></td>
 </tr><tr>
-<td><span title="peach">&nbsp;</span></td>
-<td><span title="cherries">&nbsp;</span></td>
-<td><span title="strawberry">&nbsp;</span></td>
-<td><span title="blueberries">&nbsp;</span></td>
-<td><span title="kiwi fruit">&nbsp;</span></td>
-<td><span title="tomato">&nbsp;</span></td>
-<td><span title="olive">&nbsp;</span></td>
-<td><span title="coconut">&nbsp;</span></td>
-<td><span title="avocado">&nbsp;</span></td>
-<td><span title="eggplant">&nbsp;</span></td>
-<td><span title="potato">&nbsp;</span></td>
-<td><span title="carrot">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="peach"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cherries"></td>
+<td><img src="assets/placeholder.svg" width="28" title="strawberry"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blueberries"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kiwi fruit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tomato"></td>
+<td><img src="assets/placeholder.svg" width="28" title="olive"></td>
+<td><img src="assets/placeholder.svg" width="28" title="coconut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="avocado"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eggplant"></td>
+<td><img src="assets/placeholder.svg" width="28" title="potato"></td>
+<td><img src="assets/placeholder.svg" width="28" title="carrot"></td>
 </tr><tr>
-<td><span title="ear of corn">&nbsp;</span></td>
-<td><span title="hot pepper">&nbsp;</span></td>
-<td><span title="bell pepper">&nbsp;</span></td>
-<td><span title="cucumber">&nbsp;</span></td>
-<td><span title="leafy green">&nbsp;</span></td>
-<td><span title="broccoli">&nbsp;</span></td>
-<td><span title="garlic">&nbsp;</span></td>
-<td><span title="onion">&nbsp;</span></td>
-<td><span title="peanuts">&nbsp;</span></td>
-<td><span title="beans">&nbsp;</span></td>
-<td><span title="chestnut">&nbsp;</span></td>
-<td><span title="ginger root">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="ear of corn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hot pepper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bell pepper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cucumber"></td>
+<td><img src="assets/placeholder.svg" width="28" title="leafy green"></td>
+<td><img src="assets/placeholder.svg" width="28" title="broccoli"></td>
+<td><img src="assets/placeholder.svg" width="28" title="garlic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="onion"></td>
+<td><img src="assets/placeholder.svg" width="28" title="peanuts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beans"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chestnut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ginger root"></td>
 </tr><tr>
-<td><span title="pea pod">&nbsp;</span></td>
-<td><span title="brown mushroom">&nbsp;</span></td>
-<td><span title="root vegetable">&nbsp;</span></td>
-<td><span title="bread">&nbsp;</span></td>
-<td><span title="croissant">&nbsp;</span></td>
-<td><span title="baguette bread">&nbsp;</span></td>
-<td><span title="flatbread">&nbsp;</span></td>
-<td><span title="pretzel">&nbsp;</span></td>
-<td><span title="bagel">&nbsp;</span></td>
-<td><span title="pancakes">&nbsp;</span></td>
-<td><span title="waffle">&nbsp;</span></td>
-<td><span title="cheese wedge">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="pea pod"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brown mushroom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="root vegetable"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bread"></td>
+<td><img src="assets/placeholder.svg" width="28" title="croissant"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baguette bread"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flatbread"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pretzel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bagel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pancakes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waffle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cheese wedge"></td>
 </tr><tr>
-<td><span title="meat on bone">&nbsp;</span></td>
-<td><span title="poultry leg">&nbsp;</span></td>
-<td><span title="cut of meat">&nbsp;</span></td>
-<td><span title="bacon">&nbsp;</span></td>
-<td><span title="hamburger">&nbsp;</span></td>
-<td><span title="french fries">&nbsp;</span></td>
-<td><span title="pizza">&nbsp;</span></td>
-<td><span title="hot dog">&nbsp;</span></td>
-<td><span title="sandwich">&nbsp;</span></td>
-<td><span title="taco">&nbsp;</span></td>
-<td><span title="burrito">&nbsp;</span></td>
-<td><span title="tamale">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="meat on bone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="poultry leg"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cut of meat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bacon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hamburger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="french fries"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pizza"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hot dog"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sandwich"></td>
+<td><img src="assets/placeholder.svg" width="28" title="taco"></td>
+<td><img src="assets/placeholder.svg" width="28" title="burrito"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tamale"></td>
 </tr><tr>
-<td><span title="stuffed flatbread">&nbsp;</span></td>
-<td><span title="falafel">&nbsp;</span></td>
-<td><span title="egg">&nbsp;</span></td>
-<td><span title="cooking">&nbsp;</span></td>
-<td><span title="shallow pan of food">&nbsp;</span></td>
-<td><span title="pot of food">&nbsp;</span></td>
-<td><span title="fondue">&nbsp;</span></td>
-<td><span title="bowl with spoon">&nbsp;</span></td>
-<td><span title="green salad">&nbsp;</span></td>
-<td><span title="popcorn">&nbsp;</span></td>
-<td><span title="butter">&nbsp;</span></td>
-<td><span title="salt">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="stuffed flatbread"></td>
+<td><img src="assets/placeholder.svg" width="28" title="falafel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="egg"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cooking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shallow pan of food"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pot of food"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fondue"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bowl with spoon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green salad"></td>
+<td><img src="assets/placeholder.svg" width="28" title="popcorn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="butter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="salt"></td>
 </tr><tr>
-<td><span title="canned food">&nbsp;</span></td>
-<td><span title="bento box">&nbsp;</span></td>
-<td><span title="rice cracker">&nbsp;</span></td>
-<td><span title="rice ball">&nbsp;</span></td>
-<td><span title="cooked rice">&nbsp;</span></td>
-<td><span title="curry rice">&nbsp;</span></td>
-<td><span title="steaming bowl">&nbsp;</span></td>
-<td><span title="spaghetti">&nbsp;</span></td>
-<td><span title="roasted sweet potato">&nbsp;</span></td>
-<td><span title="oden">&nbsp;</span></td>
-<td><span title="sushi">&nbsp;</span></td>
-<td><span title="fried shrimp">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="canned food"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bento box"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rice cracker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rice ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cooked rice"></td>
+<td><img src="assets/placeholder.svg" width="28" title="curry rice"></td>
+<td><img src="assets/placeholder.svg" width="28" title="steaming bowl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spaghetti"></td>
+<td><img src="assets/placeholder.svg" width="28" title="roasted sweet potato"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oden"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sushi"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fried shrimp"></td>
 </tr><tr>
-<td><span title="fish cake with swirl">&nbsp;</span></td>
-<td><span title="moon cake">&nbsp;</span></td>
-<td><span title="dango">&nbsp;</span></td>
-<td><span title="dumpling">&nbsp;</span></td>
-<td><span title="fortune cookie">&nbsp;</span></td>
-<td><span title="takeout box">&nbsp;</span></td>
-<td><span title="soft ice cream">&nbsp;</span></td>
-<td><span title="shaved ice">&nbsp;</span></td>
-<td><span title="ice cream">&nbsp;</span></td>
-<td><span title="doughnut">&nbsp;</span></td>
-<td><span title="cookie">&nbsp;</span></td>
-<td><span title="birthday cake">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="fish cake with swirl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="moon cake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dango"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dumpling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fortune cookie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="takeout box"></td>
+<td><img src="assets/placeholder.svg" width="28" title="soft ice cream"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shaved ice"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ice cream"></td>
+<td><img src="assets/placeholder.svg" width="28" title="doughnut"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cookie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="birthday cake"></td>
 </tr><tr>
-<td><span title="shortcake">&nbsp;</span></td>
-<td><span title="cupcake">&nbsp;</span></td>
-<td><span title="pie">&nbsp;</span></td>
-<td><span title="chocolate bar">&nbsp;</span></td>
-<td><span title="candy">&nbsp;</span></td>
-<td><span title="lollipop">&nbsp;</span></td>
-<td><span title="custard">&nbsp;</span></td>
-<td><span title="honey pot">&nbsp;</span></td>
-<td><span title="baby bottle">&nbsp;</span></td>
-<td><span title="glass of milk">&nbsp;</span></td>
-<td><span title="hot beverage">&nbsp;</span></td>
-<td><span title="teapot">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="shortcake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cupcake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chocolate bar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="candy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lollipop"></td>
+<td><img src="assets/placeholder.svg" width="28" title="custard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="honey pot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby bottle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="glass of milk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hot beverage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teapot"></td>
 </tr><tr>
-<td><span title="teacup without handle">&nbsp;</span></td>
-<td><span title="sake">&nbsp;</span></td>
-<td><span title="bottle with popping cork">&nbsp;</span></td>
-<td><span title="wine glass">&nbsp;</span></td>
-<td><span title="cocktail glass">&nbsp;</span></td>
-<td><span title="tropical drink">&nbsp;</span></td>
-<td><span title="beer mug">&nbsp;</span></td>
-<td><span title="clinking beer mugs">&nbsp;</span></td>
-<td><span title="clinking glasses">&nbsp;</span></td>
-<td><span title="tumbler glass">&nbsp;</span></td>
-<td><span title="pouring liquid">&nbsp;</span></td>
-<td><span title="cup with straw">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="teacup without handle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bottle with popping cork"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wine glass"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cocktail glass"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tropical drink"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beer mug"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clinking beer mugs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clinking glasses"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tumbler glass"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pouring liquid"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cup with straw"></td>
 </tr><tr>
-<td><span title="bubble tea">&nbsp;</span></td>
-<td><span title="beverage box">&nbsp;</span></td>
-<td><span title="mate">&nbsp;</span></td>
-<td><span title="ice">&nbsp;</span></td>
-<td><span title="chopsticks">&nbsp;</span></td>
-<td><span title="fork and knife with plate">&nbsp;</span></td>
-<td><span title="fork and knife">&nbsp;</span></td>
-<td><span title="spoon">&nbsp;</span></td>
-<td><span title="kitchen knife">&nbsp;</span></td>
-<td><span title="jar">&nbsp;</span></td>
-<td><span title="amphora">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="bubble tea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beverage box"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mate"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ice"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chopsticks"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fork and knife with plate"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fork and knife"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spoon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kitchen knife"></td>
+<td><img src="assets/placeholder.svg" width="28" title="jar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="amphora"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Travel & Places</b> — 0/219 (0%)</summary>
 
 <table><tr>
-<td><span title="globe showing Europe-Africa">&nbsp;</span></td>
-<td><span title="globe showing Americas">&nbsp;</span></td>
-<td><span title="globe showing Asia-Australia">&nbsp;</span></td>
-<td><span title="globe with meridians">&nbsp;</span></td>
-<td><span title="world map">&nbsp;</span></td>
-<td><span title="map of Japan">&nbsp;</span></td>
-<td><span title="compass">&nbsp;</span></td>
-<td><span title="snow-capped mountain">&nbsp;</span></td>
-<td><span title="mountain">&nbsp;</span></td>
-<td><span title="landslide">&nbsp;</span></td>
-<td><span title="volcano">&nbsp;</span></td>
-<td><span title="mount fuji">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="globe showing Europe-Africa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="globe showing Americas"></td>
+<td><img src="assets/placeholder.svg" width="28" title="globe showing Asia-Australia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="globe with meridians"></td>
+<td><img src="assets/placeholder.svg" width="28" title="world map"></td>
+<td><img src="assets/placeholder.svg" width="28" title="map of Japan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="compass"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snow-capped mountain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mountain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="landslide"></td>
+<td><img src="assets/placeholder.svg" width="28" title="volcano"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mount fuji"></td>
 </tr><tr>
-<td><span title="camping">&nbsp;</span></td>
-<td><span title="beach with umbrella">&nbsp;</span></td>
-<td><span title="desert">&nbsp;</span></td>
-<td><span title="desert island">&nbsp;</span></td>
-<td><span title="national park">&nbsp;</span></td>
-<td><span title="stadium">&nbsp;</span></td>
-<td><span title="classical building">&nbsp;</span></td>
-<td><span title="building construction">&nbsp;</span></td>
-<td><span title="brick">&nbsp;</span></td>
-<td><span title="rock">&nbsp;</span></td>
-<td><span title="wood">&nbsp;</span></td>
-<td><span title="hut">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="camping"></td>
+<td><img src="assets/placeholder.svg" width="28" title="beach with umbrella"></td>
+<td><img src="assets/placeholder.svg" width="28" title="desert"></td>
+<td><img src="assets/placeholder.svg" width="28" title="desert island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="national park"></td>
+<td><img src="assets/placeholder.svg" width="28" title="stadium"></td>
+<td><img src="assets/placeholder.svg" width="28" title="classical building"></td>
+<td><img src="assets/placeholder.svg" width="28" title="building construction"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wood"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hut"></td>
 </tr><tr>
-<td><span title="houses">&nbsp;</span></td>
-<td><span title="derelict house">&nbsp;</span></td>
-<td><span title="house">&nbsp;</span></td>
-<td><span title="house with garden">&nbsp;</span></td>
-<td><span title="office building">&nbsp;</span></td>
-<td><span title="Japanese post office">&nbsp;</span></td>
-<td><span title="post office">&nbsp;</span></td>
-<td><span title="hospital">&nbsp;</span></td>
-<td><span title="bank">&nbsp;</span></td>
-<td><span title="hotel">&nbsp;</span></td>
-<td><span title="love hotel">&nbsp;</span></td>
-<td><span title="convenience store">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="houses"></td>
+<td><img src="assets/placeholder.svg" width="28" title="derelict house"></td>
+<td><img src="assets/placeholder.svg" width="28" title="house"></td>
+<td><img src="assets/placeholder.svg" width="28" title="house with garden"></td>
+<td><img src="assets/placeholder.svg" width="28" title="office building"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese post office"></td>
+<td><img src="assets/placeholder.svg" width="28" title="post office"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hospital"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bank"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hotel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="love hotel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="convenience store"></td>
 </tr><tr>
-<td><span title="school">&nbsp;</span></td>
-<td><span title="department store">&nbsp;</span></td>
-<td><span title="factory">&nbsp;</span></td>
-<td><span title="Japanese castle">&nbsp;</span></td>
-<td><span title="castle">&nbsp;</span></td>
-<td><span title="wedding">&nbsp;</span></td>
-<td><span title="Tokyo tower">&nbsp;</span></td>
-<td><span title="Statue of Liberty">&nbsp;</span></td>
-<td><span title="church">&nbsp;</span></td>
-<td><span title="mosque">&nbsp;</span></td>
-<td><span title="hindu temple">&nbsp;</span></td>
-<td><span title="synagogue">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="school"></td>
+<td><img src="assets/placeholder.svg" width="28" title="department store"></td>
+<td><img src="assets/placeholder.svg" width="28" title="factory"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese castle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="castle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wedding"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Tokyo tower"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Statue of Liberty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="church"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mosque"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hindu temple"></td>
+<td><img src="assets/placeholder.svg" width="28" title="synagogue"></td>
 </tr><tr>
-<td><span title="shinto shrine">&nbsp;</span></td>
-<td><span title="kaaba">&nbsp;</span></td>
-<td><span title="fountain">&nbsp;</span></td>
-<td><span title="tent">&nbsp;</span></td>
-<td><span title="foggy">&nbsp;</span></td>
-<td><span title="night with stars">&nbsp;</span></td>
-<td><span title="cityscape">&nbsp;</span></td>
-<td><span title="sunrise over mountains">&nbsp;</span></td>
-<td><span title="sunrise">&nbsp;</span></td>
-<td><span title="cityscape at dusk">&nbsp;</span></td>
-<td><span title="sunset">&nbsp;</span></td>
-<td><span title="bridge at night">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="shinto shrine"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kaaba"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fountain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tent"></td>
+<td><img src="assets/placeholder.svg" width="28" title="foggy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="night with stars"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cityscape"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sunrise over mountains"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sunrise"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cityscape at dusk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sunset"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bridge at night"></td>
 </tr><tr>
-<td><span title="hot springs">&nbsp;</span></td>
-<td><span title="carousel horse">&nbsp;</span></td>
-<td><span title="playground slide">&nbsp;</span></td>
-<td><span title="ferris wheel">&nbsp;</span></td>
-<td><span title="roller coaster">&nbsp;</span></td>
-<td><span title="barber pole">&nbsp;</span></td>
-<td><span title="circus tent">&nbsp;</span></td>
-<td><span title="locomotive">&nbsp;</span></td>
-<td><span title="railway car">&nbsp;</span></td>
-<td><span title="high-speed train">&nbsp;</span></td>
-<td><span title="bullet train">&nbsp;</span></td>
-<td><span title="train">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="hot springs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="carousel horse"></td>
+<td><img src="assets/placeholder.svg" width="28" title="playground slide"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ferris wheel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="roller coaster"></td>
+<td><img src="assets/placeholder.svg" width="28" title="barber pole"></td>
+<td><img src="assets/placeholder.svg" width="28" title="circus tent"></td>
+<td><img src="assets/placeholder.svg" width="28" title="locomotive"></td>
+<td><img src="assets/placeholder.svg" width="28" title="railway car"></td>
+<td><img src="assets/placeholder.svg" width="28" title="high-speed train"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bullet train"></td>
+<td><img src="assets/placeholder.svg" width="28" title="train"></td>
 </tr><tr>
-<td><span title="metro">&nbsp;</span></td>
-<td><span title="light rail">&nbsp;</span></td>
-<td><span title="station">&nbsp;</span></td>
-<td><span title="tram">&nbsp;</span></td>
-<td><span title="monorail">&nbsp;</span></td>
-<td><span title="mountain railway">&nbsp;</span></td>
-<td><span title="tram car">&nbsp;</span></td>
-<td><span title="bus">&nbsp;</span></td>
-<td><span title="oncoming bus">&nbsp;</span></td>
-<td><span title="trolleybus">&nbsp;</span></td>
-<td><span title="minibus">&nbsp;</span></td>
-<td><span title="ambulance">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="metro"></td>
+<td><img src="assets/placeholder.svg" width="28" title="light rail"></td>
+<td><img src="assets/placeholder.svg" width="28" title="station"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tram"></td>
+<td><img src="assets/placeholder.svg" width="28" title="monorail"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mountain railway"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tram car"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming bus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trolleybus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="minibus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ambulance"></td>
 </tr><tr>
-<td><span title="fire engine">&nbsp;</span></td>
-<td><span title="police car">&nbsp;</span></td>
-<td><span title="oncoming police car">&nbsp;</span></td>
-<td><span title="taxi">&nbsp;</span></td>
-<td><span title="oncoming taxi">&nbsp;</span></td>
-<td><span title="automobile">&nbsp;</span></td>
-<td><span title="oncoming automobile">&nbsp;</span></td>
-<td><span title="sport utility vehicle">&nbsp;</span></td>
-<td><span title="pickup truck">&nbsp;</span></td>
-<td><span title="delivery truck">&nbsp;</span></td>
-<td><span title="articulated lorry">&nbsp;</span></td>
-<td><span title="tractor">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="fire engine"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police car"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming police car"></td>
+<td><img src="assets/placeholder.svg" width="28" title="taxi"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming taxi"></td>
+<td><img src="assets/placeholder.svg" width="28" title="automobile"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oncoming automobile"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sport utility vehicle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pickup truck"></td>
+<td><img src="assets/placeholder.svg" width="28" title="delivery truck"></td>
+<td><img src="assets/placeholder.svg" width="28" title="articulated lorry"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tractor"></td>
 </tr><tr>
-<td><span title="racing car">&nbsp;</span></td>
-<td><span title="motorcycle">&nbsp;</span></td>
-<td><span title="motor scooter">&nbsp;</span></td>
-<td><span title="manual wheelchair">&nbsp;</span></td>
-<td><span title="motorized wheelchair">&nbsp;</span></td>
-<td><span title="auto rickshaw">&nbsp;</span></td>
-<td><span title="bicycle">&nbsp;</span></td>
-<td><span title="kick scooter">&nbsp;</span></td>
-<td><span title="skateboard">&nbsp;</span></td>
-<td><span title="roller skate">&nbsp;</span></td>
-<td><span title="bus stop">&nbsp;</span></td>
-<td><span title="motorway">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="racing car"></td>
+<td><img src="assets/placeholder.svg" width="28" title="motorcycle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="motor scooter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="manual wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="motorized wheelchair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="auto rickshaw"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bicycle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kick scooter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skateboard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="roller skate"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bus stop"></td>
+<td><img src="assets/placeholder.svg" width="28" title="motorway"></td>
 </tr><tr>
-<td><span title="railway track">&nbsp;</span></td>
-<td><span title="oil drum">&nbsp;</span></td>
-<td><span title="fuel pump">&nbsp;</span></td>
-<td><span title="wheel">&nbsp;</span></td>
-<td><span title="police car light">&nbsp;</span></td>
-<td><span title="horizontal traffic light">&nbsp;</span></td>
-<td><span title="vertical traffic light">&nbsp;</span></td>
-<td><span title="stop sign">&nbsp;</span></td>
-<td><span title="construction">&nbsp;</span></td>
-<td><span title="anchor">&nbsp;</span></td>
-<td><span title="ring buoy">&nbsp;</span></td>
-<td><span title="sailboat">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="railway track"></td>
+<td><img src="assets/placeholder.svg" width="28" title="oil drum"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fuel pump"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wheel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="police car light"></td>
+<td><img src="assets/placeholder.svg" width="28" title="horizontal traffic light"></td>
+<td><img src="assets/placeholder.svg" width="28" title="vertical traffic light"></td>
+<td><img src="assets/placeholder.svg" width="28" title="stop sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="construction"></td>
+<td><img src="assets/placeholder.svg" width="28" title="anchor"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ring buoy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sailboat"></td>
 </tr><tr>
-<td><span title="canoe">&nbsp;</span></td>
-<td><span title="speedboat">&nbsp;</span></td>
-<td><span title="passenger ship">&nbsp;</span></td>
-<td><span title="ferry">&nbsp;</span></td>
-<td><span title="motor boat">&nbsp;</span></td>
-<td><span title="ship">&nbsp;</span></td>
-<td><span title="airplane">&nbsp;</span></td>
-<td><span title="small airplane">&nbsp;</span></td>
-<td><span title="airplane departure">&nbsp;</span></td>
-<td><span title="airplane arrival">&nbsp;</span></td>
-<td><span title="parachute">&nbsp;</span></td>
-<td><span title="seat">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="canoe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speedboat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="passenger ship"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ferry"></td>
+<td><img src="assets/placeholder.svg" width="28" title="motor boat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ship"></td>
+<td><img src="assets/placeholder.svg" width="28" title="airplane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="small airplane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="airplane departure"></td>
+<td><img src="assets/placeholder.svg" width="28" title="airplane arrival"></td>
+<td><img src="assets/placeholder.svg" width="28" title="parachute"></td>
+<td><img src="assets/placeholder.svg" width="28" title="seat"></td>
 </tr><tr>
-<td><span title="helicopter">&nbsp;</span></td>
-<td><span title="suspension railway">&nbsp;</span></td>
-<td><span title="mountain cableway">&nbsp;</span></td>
-<td><span title="aerial tramway">&nbsp;</span></td>
-<td><span title="satellite">&nbsp;</span></td>
-<td><span title="rocket">&nbsp;</span></td>
-<td><span title="flying saucer">&nbsp;</span></td>
-<td><span title="bellhop bell">&nbsp;</span></td>
-<td><span title="luggage">&nbsp;</span></td>
-<td><span title="hourglass done">&nbsp;</span></td>
-<td><span title="hourglass not done">&nbsp;</span></td>
-<td><span title="watch">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="helicopter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="suspension railway"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mountain cableway"></td>
+<td><img src="assets/placeholder.svg" width="28" title="aerial tramway"></td>
+<td><img src="assets/placeholder.svg" width="28" title="satellite"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rocket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flying saucer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bellhop bell"></td>
+<td><img src="assets/placeholder.svg" width="28" title="luggage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hourglass done"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hourglass not done"></td>
+<td><img src="assets/placeholder.svg" width="28" title="watch"></td>
 </tr><tr>
-<td><span title="alarm clock">&nbsp;</span></td>
-<td><span title="stopwatch">&nbsp;</span></td>
-<td><span title="timer clock">&nbsp;</span></td>
-<td><span title="mantelpiece clock">&nbsp;</span></td>
-<td><span title="twelve o’clock">&nbsp;</span></td>
-<td><span title="twelve-thirty">&nbsp;</span></td>
-<td><span title="one o’clock">&nbsp;</span></td>
-<td><span title="one-thirty">&nbsp;</span></td>
-<td><span title="two o’clock">&nbsp;</span></td>
-<td><span title="two-thirty">&nbsp;</span></td>
-<td><span title="three o’clock">&nbsp;</span></td>
-<td><span title="three-thirty">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="alarm clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="stopwatch"></td>
+<td><img src="assets/placeholder.svg" width="28" title="timer clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mantelpiece clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="twelve o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="twelve-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="one o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="one-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="two o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="two-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="three o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="three-thirty"></td>
 </tr><tr>
-<td><span title="four o’clock">&nbsp;</span></td>
-<td><span title="four-thirty">&nbsp;</span></td>
-<td><span title="five o’clock">&nbsp;</span></td>
-<td><span title="five-thirty">&nbsp;</span></td>
-<td><span title="six o’clock">&nbsp;</span></td>
-<td><span title="six-thirty">&nbsp;</span></td>
-<td><span title="seven o’clock">&nbsp;</span></td>
-<td><span title="seven-thirty">&nbsp;</span></td>
-<td><span title="eight o’clock">&nbsp;</span></td>
-<td><span title="eight-thirty">&nbsp;</span></td>
-<td><span title="nine o’clock">&nbsp;</span></td>
-<td><span title="nine-thirty">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="four o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="four-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="five o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="five-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="six o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="six-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="seven o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="seven-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eight o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eight-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nine o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nine-thirty"></td>
 </tr><tr>
-<td><span title="ten o’clock">&nbsp;</span></td>
-<td><span title="ten-thirty">&nbsp;</span></td>
-<td><span title="eleven o’clock">&nbsp;</span></td>
-<td><span title="eleven-thirty">&nbsp;</span></td>
-<td><span title="new moon">&nbsp;</span></td>
-<td><span title="waxing crescent moon">&nbsp;</span></td>
-<td><span title="first quarter moon">&nbsp;</span></td>
-<td><span title="waxing gibbous moon">&nbsp;</span></td>
-<td><span title="full moon">&nbsp;</span></td>
-<td><span title="waning gibbous moon">&nbsp;</span></td>
-<td><span title="last quarter moon">&nbsp;</span></td>
-<td><span title="waning crescent moon">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="ten o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ten-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eleven o’clock"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eleven-thirty"></td>
+<td><img src="assets/placeholder.svg" width="28" title="new moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waxing crescent moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="first quarter moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waxing gibbous moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="full moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waning gibbous moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="last quarter moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="waning crescent moon"></td>
 </tr><tr>
-<td><span title="crescent moon">&nbsp;</span></td>
-<td><span title="new moon face">&nbsp;</span></td>
-<td><span title="first quarter moon face">&nbsp;</span></td>
-<td><span title="last quarter moon face">&nbsp;</span></td>
-<td><span title="thermometer">&nbsp;</span></td>
-<td><span title="sun">&nbsp;</span></td>
-<td><span title="full moon face">&nbsp;</span></td>
-<td><span title="sun with face">&nbsp;</span></td>
-<td><span title="ringed planet">&nbsp;</span></td>
-<td><span title="star">&nbsp;</span></td>
-<td><span title="glowing star">&nbsp;</span></td>
-<td><span title="shooting star">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="crescent moon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="new moon face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="first quarter moon face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="last quarter moon face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thermometer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun"></td>
+<td><img src="assets/placeholder.svg" width="28" title="full moon face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun with face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ringed planet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="star"></td>
+<td><img src="assets/placeholder.svg" width="28" title="glowing star"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shooting star"></td>
 </tr><tr>
-<td><span title="milky way">&nbsp;</span></td>
-<td><span title="cloud">&nbsp;</span></td>
-<td><span title="sun behind cloud">&nbsp;</span></td>
-<td><span title="cloud with lightning and rain">&nbsp;</span></td>
-<td><span title="sun behind small cloud">&nbsp;</span></td>
-<td><span title="sun behind large cloud">&nbsp;</span></td>
-<td><span title="sun behind rain cloud">&nbsp;</span></td>
-<td><span title="cloud with rain">&nbsp;</span></td>
-<td><span title="cloud with snow">&nbsp;</span></td>
-<td><span title="cloud with lightning">&nbsp;</span></td>
-<td><span title="tornado">&nbsp;</span></td>
-<td><span title="fog">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="milky way"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun behind cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cloud with lightning and rain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun behind small cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun behind large cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sun behind rain cloud"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cloud with rain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cloud with snow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cloud with lightning"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tornado"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fog"></td>
 </tr><tr>
-<td><span title="wind face">&nbsp;</span></td>
-<td><span title="cyclone">&nbsp;</span></td>
-<td><span title="rainbow">&nbsp;</span></td>
-<td><span title="closed umbrella">&nbsp;</span></td>
-<td><span title="umbrella">&nbsp;</span></td>
-<td><span title="umbrella with rain drops">&nbsp;</span></td>
-<td><span title="umbrella on ground">&nbsp;</span></td>
-<td><span title="high voltage">&nbsp;</span></td>
-<td><span title="snowflake">&nbsp;</span></td>
-<td><span title="snowman">&nbsp;</span></td>
-<td><span title="snowman without snow">&nbsp;</span></td>
-<td><span title="comet">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="wind face"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cyclone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rainbow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="closed umbrella"></td>
+<td><img src="assets/placeholder.svg" width="28" title="umbrella"></td>
+<td><img src="assets/placeholder.svg" width="28" title="umbrella with rain drops"></td>
+<td><img src="assets/placeholder.svg" width="28" title="umbrella on ground"></td>
+<td><img src="assets/placeholder.svg" width="28" title="high voltage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowflake"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="snowman without snow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="comet"></td>
 </tr><tr>
-<td><span title="fire">&nbsp;</span></td>
-<td><span title="droplet">&nbsp;</span></td>
-<td><span title="water wave">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="fire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="droplet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="water wave"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Activities</b> — 0/85 (0%)</summary>
 
 <table><tr>
-<td><span title="jack-o-lantern">&nbsp;</span></td>
-<td><span title="Christmas tree">&nbsp;</span></td>
-<td><span title="fireworks">&nbsp;</span></td>
-<td><span title="sparkler">&nbsp;</span></td>
-<td><span title="firecracker">&nbsp;</span></td>
-<td><span title="sparkles">&nbsp;</span></td>
-<td><span title="balloon">&nbsp;</span></td>
-<td><span title="party popper">&nbsp;</span></td>
-<td><span title="confetti ball">&nbsp;</span></td>
-<td><span title="tanabata tree">&nbsp;</span></td>
-<td><span title="pine decoration">&nbsp;</span></td>
-<td><span title="Japanese dolls">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="jack-o-lantern"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Christmas tree"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fireworks"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sparkler"></td>
+<td><img src="assets/placeholder.svg" width="28" title="firecracker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sparkles"></td>
+<td><img src="assets/placeholder.svg" width="28" title="balloon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="party popper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="confetti ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tanabata tree"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pine decoration"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese dolls"></td>
 </tr><tr>
-<td><span title="carp streamer">&nbsp;</span></td>
-<td><span title="wind chime">&nbsp;</span></td>
-<td><span title="moon viewing ceremony">&nbsp;</span></td>
-<td><span title="red envelope">&nbsp;</span></td>
-<td><span title="ribbon">&nbsp;</span></td>
-<td><span title="wrapped gift">&nbsp;</span></td>
-<td><span title="reminder ribbon">&nbsp;</span></td>
-<td><span title="admission tickets">&nbsp;</span></td>
-<td><span title="ticket">&nbsp;</span></td>
-<td><span title="military medal">&nbsp;</span></td>
-<td><span title="trophy">&nbsp;</span></td>
-<td><span title="sports medal">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="carp streamer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wind chime"></td>
+<td><img src="assets/placeholder.svg" width="28" title="moon viewing ceremony"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red envelope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ribbon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wrapped gift"></td>
+<td><img src="assets/placeholder.svg" width="28" title="reminder ribbon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="admission tickets"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ticket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="military medal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trophy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sports medal"></td>
 </tr><tr>
-<td><span title="1st place medal">&nbsp;</span></td>
-<td><span title="2nd place medal">&nbsp;</span></td>
-<td><span title="3rd place medal">&nbsp;</span></td>
-<td><span title="soccer ball">&nbsp;</span></td>
-<td><span title="baseball">&nbsp;</span></td>
-<td><span title="softball">&nbsp;</span></td>
-<td><span title="basketball">&nbsp;</span></td>
-<td><span title="volleyball">&nbsp;</span></td>
-<td><span title="american football">&nbsp;</span></td>
-<td><span title="rugby football">&nbsp;</span></td>
-<td><span title="tennis">&nbsp;</span></td>
-<td><span title="flying disc">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="1st place medal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="2nd place medal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="3rd place medal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="soccer ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baseball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="softball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="basketball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="volleyball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="american football"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rugby football"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tennis"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flying disc"></td>
 </tr><tr>
-<td><span title="bowling">&nbsp;</span></td>
-<td><span title="cricket game">&nbsp;</span></td>
-<td><span title="field hockey">&nbsp;</span></td>
-<td><span title="ice hockey">&nbsp;</span></td>
-<td><span title="lacrosse">&nbsp;</span></td>
-<td><span title="ping pong">&nbsp;</span></td>
-<td><span title="badminton">&nbsp;</span></td>
-<td><span title="boxing glove">&nbsp;</span></td>
-<td><span title="martial arts uniform">&nbsp;</span></td>
-<td><span title="goal net">&nbsp;</span></td>
-<td><span title="flag in hole">&nbsp;</span></td>
-<td><span title="ice skate">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="bowling"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cricket game"></td>
+<td><img src="assets/placeholder.svg" width="28" title="field hockey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ice hockey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lacrosse"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ping pong"></td>
+<td><img src="assets/placeholder.svg" width="28" title="badminton"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boxing glove"></td>
+<td><img src="assets/placeholder.svg" width="28" title="martial arts uniform"></td>
+<td><img src="assets/placeholder.svg" width="28" title="goal net"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag in hole"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ice skate"></td>
 </tr><tr>
-<td><span title="fishing pole">&nbsp;</span></td>
-<td><span title="diving mask">&nbsp;</span></td>
-<td><span title="running shirt">&nbsp;</span></td>
-<td><span title="skis">&nbsp;</span></td>
-<td><span title="sled">&nbsp;</span></td>
-<td><span title="curling stone">&nbsp;</span></td>
-<td><span title="bullseye">&nbsp;</span></td>
-<td><span title="yo-yo">&nbsp;</span></td>
-<td><span title="kite">&nbsp;</span></td>
-<td><span title="water pistol">&nbsp;</span></td>
-<td><span title="pool 8 ball">&nbsp;</span></td>
-<td><span title="crystal ball">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="fishing pole"></td>
+<td><img src="assets/placeholder.svg" width="28" title="diving mask"></td>
+<td><img src="assets/placeholder.svg" width="28" title="running shirt"></td>
+<td><img src="assets/placeholder.svg" width="28" title="skis"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sled"></td>
+<td><img src="assets/placeholder.svg" width="28" title="curling stone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bullseye"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yo-yo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kite"></td>
+<td><img src="assets/placeholder.svg" width="28" title="water pistol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pool 8 ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crystal ball"></td>
 </tr><tr>
-<td><span title="magic wand">&nbsp;</span></td>
-<td><span title="video game">&nbsp;</span></td>
-<td><span title="joystick">&nbsp;</span></td>
-<td><span title="slot machine">&nbsp;</span></td>
-<td><span title="game die">&nbsp;</span></td>
-<td><span title="puzzle piece">&nbsp;</span></td>
-<td><span title="teddy bear">&nbsp;</span></td>
-<td><span title="piñata">&nbsp;</span></td>
-<td><span title="mirror ball">&nbsp;</span></td>
-<td><span title="nesting dolls">&nbsp;</span></td>
-<td><span title="spade suit">&nbsp;</span></td>
-<td><span title="heart suit">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="magic wand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="video game"></td>
+<td><img src="assets/placeholder.svg" width="28" title="joystick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="slot machine"></td>
+<td><img src="assets/placeholder.svg" width="28" title="game die"></td>
+<td><img src="assets/placeholder.svg" width="28" title="puzzle piece"></td>
+<td><img src="assets/placeholder.svg" width="28" title="teddy bear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="piñata"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mirror ball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nesting dolls"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spade suit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heart suit"></td>
 </tr><tr>
-<td><span title="diamond suit">&nbsp;</span></td>
-<td><span title="club suit">&nbsp;</span></td>
-<td><span title="chess pawn">&nbsp;</span></td>
-<td><span title="joker">&nbsp;</span></td>
-<td><span title="mahjong red dragon">&nbsp;</span></td>
-<td><span title="flower playing cards">&nbsp;</span></td>
-<td><span title="performing arts">&nbsp;</span></td>
-<td><span title="framed picture">&nbsp;</span></td>
-<td><span title="artist palette">&nbsp;</span></td>
-<td><span title="thread">&nbsp;</span></td>
-<td><span title="sewing needle">&nbsp;</span></td>
-<td><span title="yarn">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="diamond suit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="club suit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chess pawn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="joker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mahjong red dragon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flower playing cards"></td>
+<td><img src="assets/placeholder.svg" width="28" title="performing arts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="framed picture"></td>
+<td><img src="assets/placeholder.svg" width="28" title="artist palette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thread"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sewing needle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yarn"></td>
 </tr><tr>
-<td><span title="knot">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="knot"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Objects</b> — 0/266 (0%)</summary>
 
 <table><tr>
-<td><span title="glasses">&nbsp;</span></td>
-<td><span title="sunglasses">&nbsp;</span></td>
-<td><span title="goggles">&nbsp;</span></td>
-<td><span title="lab coat">&nbsp;</span></td>
-<td><span title="safety vest">&nbsp;</span></td>
-<td><span title="necktie">&nbsp;</span></td>
-<td><span title="t-shirt">&nbsp;</span></td>
-<td><span title="jeans">&nbsp;</span></td>
-<td><span title="scarf">&nbsp;</span></td>
-<td><span title="gloves">&nbsp;</span></td>
-<td><span title="coat">&nbsp;</span></td>
-<td><span title="socks">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="glasses"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sunglasses"></td>
+<td><img src="assets/placeholder.svg" width="28" title="goggles"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lab coat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="safety vest"></td>
+<td><img src="assets/placeholder.svg" width="28" title="necktie"></td>
+<td><img src="assets/placeholder.svg" width="28" title="t-shirt"></td>
+<td><img src="assets/placeholder.svg" width="28" title="jeans"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scarf"></td>
+<td><img src="assets/placeholder.svg" width="28" title="gloves"></td>
+<td><img src="assets/placeholder.svg" width="28" title="coat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="socks"></td>
 </tr><tr>
-<td><span title="dress">&nbsp;</span></td>
-<td><span title="kimono">&nbsp;</span></td>
-<td><span title="sari">&nbsp;</span></td>
-<td><span title="one-piece swimsuit">&nbsp;</span></td>
-<td><span title="briefs">&nbsp;</span></td>
-<td><span title="shorts">&nbsp;</span></td>
-<td><span title="bikini">&nbsp;</span></td>
-<td><span title="woman’s clothes">&nbsp;</span></td>
-<td><span title="folding hand fan">&nbsp;</span></td>
-<td><span title="purse">&nbsp;</span></td>
-<td><span title="handbag">&nbsp;</span></td>
-<td><span title="clutch bag">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="dress"></td>
+<td><img src="assets/placeholder.svg" width="28" title="kimono"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sari"></td>
+<td><img src="assets/placeholder.svg" width="28" title="one-piece swimsuit"></td>
+<td><img src="assets/placeholder.svg" width="28" title="briefs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shorts"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bikini"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman’s clothes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="folding hand fan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="purse"></td>
+<td><img src="assets/placeholder.svg" width="28" title="handbag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clutch bag"></td>
 </tr><tr>
-<td><span title="shopping bags">&nbsp;</span></td>
-<td><span title="backpack">&nbsp;</span></td>
-<td><span title="thong sandal">&nbsp;</span></td>
-<td><span title="man’s shoe">&nbsp;</span></td>
-<td><span title="running shoe">&nbsp;</span></td>
-<td><span title="hiking boot">&nbsp;</span></td>
-<td><span title="flat shoe">&nbsp;</span></td>
-<td><span title="high-heeled shoe">&nbsp;</span></td>
-<td><span title="woman’s sandal">&nbsp;</span></td>
-<td><span title="ballet shoes">&nbsp;</span></td>
-<td><span title="woman’s boot">&nbsp;</span></td>
-<td><span title="hair pick">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="shopping bags"></td>
+<td><img src="assets/placeholder.svg" width="28" title="backpack"></td>
+<td><img src="assets/placeholder.svg" width="28" title="thong sandal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="man’s shoe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="running shoe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hiking boot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flat shoe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="high-heeled shoe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman’s sandal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballet shoes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman’s boot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hair pick"></td>
 </tr><tr>
-<td><span title="crown">&nbsp;</span></td>
-<td><span title="woman’s hat">&nbsp;</span></td>
-<td><span title="top hat">&nbsp;</span></td>
-<td><span title="graduation cap">&nbsp;</span></td>
-<td><span title="billed cap">&nbsp;</span></td>
-<td><span title="military helmet">&nbsp;</span></td>
-<td><span title="rescue worker’s helmet">&nbsp;</span></td>
-<td><span title="prayer beads">&nbsp;</span></td>
-<td><span title="lipstick">&nbsp;</span></td>
-<td><span title="ring">&nbsp;</span></td>
-<td><span title="gem stone">&nbsp;</span></td>
-<td><span title="muted speaker">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="crown"></td>
+<td><img src="assets/placeholder.svg" width="28" title="woman’s hat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="top hat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="graduation cap"></td>
+<td><img src="assets/placeholder.svg" width="28" title="billed cap"></td>
+<td><img src="assets/placeholder.svg" width="28" title="military helmet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rescue worker’s helmet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prayer beads"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lipstick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ring"></td>
+<td><img src="assets/placeholder.svg" width="28" title="gem stone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="muted speaker"></td>
 </tr><tr>
-<td><span title="speaker low volume">&nbsp;</span></td>
-<td><span title="speaker medium volume">&nbsp;</span></td>
-<td><span title="speaker high volume">&nbsp;</span></td>
-<td><span title="loudspeaker">&nbsp;</span></td>
-<td><span title="megaphone">&nbsp;</span></td>
-<td><span title="postal horn">&nbsp;</span></td>
-<td><span title="bell">&nbsp;</span></td>
-<td><span title="bell with slash">&nbsp;</span></td>
-<td><span title="musical score">&nbsp;</span></td>
-<td><span title="musical note">&nbsp;</span></td>
-<td><span title="musical notes">&nbsp;</span></td>
-<td><span title="studio microphone">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="speaker low volume"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speaker medium volume"></td>
+<td><img src="assets/placeholder.svg" width="28" title="speaker high volume"></td>
+<td><img src="assets/placeholder.svg" width="28" title="loudspeaker"></td>
+<td><img src="assets/placeholder.svg" width="28" title="megaphone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="postal horn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bell"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bell with slash"></td>
+<td><img src="assets/placeholder.svg" width="28" title="musical score"></td>
+<td><img src="assets/placeholder.svg" width="28" title="musical note"></td>
+<td><img src="assets/placeholder.svg" width="28" title="musical notes"></td>
+<td><img src="assets/placeholder.svg" width="28" title="studio microphone"></td>
 </tr><tr>
-<td><span title="level slider">&nbsp;</span></td>
-<td><span title="control knobs">&nbsp;</span></td>
-<td><span title="microphone">&nbsp;</span></td>
-<td><span title="headphone">&nbsp;</span></td>
-<td><span title="radio">&nbsp;</span></td>
-<td><span title="saxophone">&nbsp;</span></td>
-<td><span title="trumpet">&nbsp;</span></td>
-<td><span title="trombone">&nbsp;</span></td>
-<td><span title="accordion">&nbsp;</span></td>
-<td><span title="guitar">&nbsp;</span></td>
-<td><span title="musical keyboard">&nbsp;</span></td>
-<td><span title="violin">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="level slider"></td>
+<td><img src="assets/placeholder.svg" width="28" title="control knobs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="microphone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="headphone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="radio"></td>
+<td><img src="assets/placeholder.svg" width="28" title="saxophone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trumpet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trombone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="accordion"></td>
+<td><img src="assets/placeholder.svg" width="28" title="guitar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="musical keyboard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="violin"></td>
 </tr><tr>
-<td><span title="banjo">&nbsp;</span></td>
-<td><span title="drum">&nbsp;</span></td>
-<td><span title="long drum">&nbsp;</span></td>
-<td><span title="maracas">&nbsp;</span></td>
-<td><span title="flute">&nbsp;</span></td>
-<td><span title="harp">&nbsp;</span></td>
-<td><span title="mobile phone">&nbsp;</span></td>
-<td><span title="mobile phone with arrow">&nbsp;</span></td>
-<td><span title="telephone">&nbsp;</span></td>
-<td><span title="telephone receiver">&nbsp;</span></td>
-<td><span title="pager">&nbsp;</span></td>
-<td><span title="fax machine">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="banjo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="drum"></td>
+<td><img src="assets/placeholder.svg" width="28" title="long drum"></td>
+<td><img src="assets/placeholder.svg" width="28" title="maracas"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flute"></td>
+<td><img src="assets/placeholder.svg" width="28" title="harp"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mobile phone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mobile phone with arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="telephone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="telephone receiver"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pager"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fax machine"></td>
 </tr><tr>
-<td><span title="battery">&nbsp;</span></td>
-<td><span title="low battery">&nbsp;</span></td>
-<td><span title="electric plug">&nbsp;</span></td>
-<td><span title="laptop">&nbsp;</span></td>
-<td><span title="desktop computer">&nbsp;</span></td>
-<td><span title="printer">&nbsp;</span></td>
-<td><span title="keyboard">&nbsp;</span></td>
-<td><span title="computer mouse">&nbsp;</span></td>
-<td><span title="trackball">&nbsp;</span></td>
-<td><span title="computer disk">&nbsp;</span></td>
-<td><span title="floppy disk">&nbsp;</span></td>
-<td><span title="optical disk">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="battery"></td>
+<td><img src="assets/placeholder.svg" width="28" title="low battery"></td>
+<td><img src="assets/placeholder.svg" width="28" title="electric plug"></td>
+<td><img src="assets/placeholder.svg" width="28" title="laptop"></td>
+<td><img src="assets/placeholder.svg" width="28" title="desktop computer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="printer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keyboard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="computer mouse"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trackball"></td>
+<td><img src="assets/placeholder.svg" width="28" title="computer disk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="floppy disk"></td>
+<td><img src="assets/placeholder.svg" width="28" title="optical disk"></td>
 </tr><tr>
-<td><span title="dvd">&nbsp;</span></td>
-<td><span title="abacus">&nbsp;</span></td>
-<td><span title="movie camera">&nbsp;</span></td>
-<td><span title="film frames">&nbsp;</span></td>
-<td><span title="film projector">&nbsp;</span></td>
-<td><span title="clapper board">&nbsp;</span></td>
-<td><span title="television">&nbsp;</span></td>
-<td><span title="camera">&nbsp;</span></td>
-<td><span title="camera with flash">&nbsp;</span></td>
-<td><span title="video camera">&nbsp;</span></td>
-<td><span title="videocassette">&nbsp;</span></td>
-<td><span title="magnifying glass tilted left">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="dvd"></td>
+<td><img src="assets/placeholder.svg" width="28" title="abacus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="movie camera"></td>
+<td><img src="assets/placeholder.svg" width="28" title="film frames"></td>
+<td><img src="assets/placeholder.svg" width="28" title="film projector"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clapper board"></td>
+<td><img src="assets/placeholder.svg" width="28" title="television"></td>
+<td><img src="assets/placeholder.svg" width="28" title="camera"></td>
+<td><img src="assets/placeholder.svg" width="28" title="camera with flash"></td>
+<td><img src="assets/placeholder.svg" width="28" title="video camera"></td>
+<td><img src="assets/placeholder.svg" width="28" title="videocassette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="magnifying glass tilted left"></td>
 </tr><tr>
-<td><span title="magnifying glass tilted right">&nbsp;</span></td>
-<td><span title="candle">&nbsp;</span></td>
-<td><span title="light bulb">&nbsp;</span></td>
-<td><span title="flashlight">&nbsp;</span></td>
-<td><span title="red paper lantern">&nbsp;</span></td>
-<td><span title="diya lamp">&nbsp;</span></td>
-<td><span title="notebook with decorative cover">&nbsp;</span></td>
-<td><span title="closed book">&nbsp;</span></td>
-<td><span title="open book">&nbsp;</span></td>
-<td><span title="green book">&nbsp;</span></td>
-<td><span title="blue book">&nbsp;</span></td>
-<td><span title="orange book">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="magnifying glass tilted right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="candle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="light bulb"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flashlight"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red paper lantern"></td>
+<td><img src="assets/placeholder.svg" width="28" title="diya lamp"></td>
+<td><img src="assets/placeholder.svg" width="28" title="notebook with decorative cover"></td>
+<td><img src="assets/placeholder.svg" width="28" title="closed book"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open book"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green book"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blue book"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orange book"></td>
 </tr><tr>
-<td><span title="books">&nbsp;</span></td>
-<td><span title="notebook">&nbsp;</span></td>
-<td><span title="ledger">&nbsp;</span></td>
-<td><span title="page with curl">&nbsp;</span></td>
-<td><span title="scroll">&nbsp;</span></td>
-<td><span title="page facing up">&nbsp;</span></td>
-<td><span title="newspaper">&nbsp;</span></td>
-<td><span title="rolled-up newspaper">&nbsp;</span></td>
-<td><span title="bookmark tabs">&nbsp;</span></td>
-<td><span title="bookmark">&nbsp;</span></td>
-<td><span title="label">&nbsp;</span></td>
-<td><span title="coin">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="books"></td>
+<td><img src="assets/placeholder.svg" width="28" title="notebook"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ledger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="page with curl"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scroll"></td>
+<td><img src="assets/placeholder.svg" width="28" title="page facing up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="newspaper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rolled-up newspaper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bookmark tabs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bookmark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="label"></td>
+<td><img src="assets/placeholder.svg" width="28" title="coin"></td>
 </tr><tr>
-<td><span title="money bag">&nbsp;</span></td>
-<td><span title="treasure chest">&nbsp;</span></td>
-<td><span title="yen banknote">&nbsp;</span></td>
-<td><span title="dollar banknote">&nbsp;</span></td>
-<td><span title="euro banknote">&nbsp;</span></td>
-<td><span title="pound banknote">&nbsp;</span></td>
-<td><span title="money with wings">&nbsp;</span></td>
-<td><span title="credit card">&nbsp;</span></td>
-<td><span title="receipt">&nbsp;</span></td>
-<td><span title="chart increasing with yen">&nbsp;</span></td>
-<td><span title="envelope">&nbsp;</span></td>
-<td><span title="e-mail">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="money bag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="treasure chest"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yen banknote"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dollar banknote"></td>
+<td><img src="assets/placeholder.svg" width="28" title="euro banknote"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pound banknote"></td>
+<td><img src="assets/placeholder.svg" width="28" title="money with wings"></td>
+<td><img src="assets/placeholder.svg" width="28" title="credit card"></td>
+<td><img src="assets/placeholder.svg" width="28" title="receipt"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chart increasing with yen"></td>
+<td><img src="assets/placeholder.svg" width="28" title="envelope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="e-mail"></td>
 </tr><tr>
-<td><span title="incoming envelope">&nbsp;</span></td>
-<td><span title="envelope with arrow">&nbsp;</span></td>
-<td><span title="outbox tray">&nbsp;</span></td>
-<td><span title="inbox tray">&nbsp;</span></td>
-<td><span title="package">&nbsp;</span></td>
-<td><span title="closed mailbox with raised flag">&nbsp;</span></td>
-<td><span title="closed mailbox with lowered flag">&nbsp;</span></td>
-<td><span title="open mailbox with raised flag">&nbsp;</span></td>
-<td><span title="open mailbox with lowered flag">&nbsp;</span></td>
-<td><span title="postbox">&nbsp;</span></td>
-<td><span title="ballot box with ballot">&nbsp;</span></td>
-<td><span title="pencil">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="incoming envelope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="envelope with arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="outbox tray"></td>
+<td><img src="assets/placeholder.svg" width="28" title="inbox tray"></td>
+<td><img src="assets/placeholder.svg" width="28" title="package"></td>
+<td><img src="assets/placeholder.svg" width="28" title="closed mailbox with raised flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="closed mailbox with lowered flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open mailbox with raised flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open mailbox with lowered flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="postbox"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ballot box with ballot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pencil"></td>
 </tr><tr>
-<td><span title="black nib">&nbsp;</span></td>
-<td><span title="fountain pen">&nbsp;</span></td>
-<td><span title="pen">&nbsp;</span></td>
-<td><span title="paintbrush">&nbsp;</span></td>
-<td><span title="crayon">&nbsp;</span></td>
-<td><span title="memo">&nbsp;</span></td>
-<td><span title="briefcase">&nbsp;</span></td>
-<td><span title="file folder">&nbsp;</span></td>
-<td><span title="open file folder">&nbsp;</span></td>
-<td><span title="card index dividers">&nbsp;</span></td>
-<td><span title="calendar">&nbsp;</span></td>
-<td><span title="tear-off calendar">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="black nib"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fountain pen"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pen"></td>
+<td><img src="assets/placeholder.svg" width="28" title="paintbrush"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crayon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="memo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="briefcase"></td>
+<td><img src="assets/placeholder.svg" width="28" title="file folder"></td>
+<td><img src="assets/placeholder.svg" width="28" title="open file folder"></td>
+<td><img src="assets/placeholder.svg" width="28" title="card index dividers"></td>
+<td><img src="assets/placeholder.svg" width="28" title="calendar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="tear-off calendar"></td>
 </tr><tr>
-<td><span title="spiral notepad">&nbsp;</span></td>
-<td><span title="spiral calendar">&nbsp;</span></td>
-<td><span title="card index">&nbsp;</span></td>
-<td><span title="chart increasing">&nbsp;</span></td>
-<td><span title="chart decreasing">&nbsp;</span></td>
-<td><span title="bar chart">&nbsp;</span></td>
-<td><span title="clipboard">&nbsp;</span></td>
-<td><span title="pushpin">&nbsp;</span></td>
-<td><span title="round pushpin">&nbsp;</span></td>
-<td><span title="paperclip">&nbsp;</span></td>
-<td><span title="linked paperclips">&nbsp;</span></td>
-<td><span title="straight ruler">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="spiral notepad"></td>
+<td><img src="assets/placeholder.svg" width="28" title="spiral calendar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="card index"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chart increasing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chart decreasing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bar chart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clipboard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pushpin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="round pushpin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="paperclip"></td>
+<td><img src="assets/placeholder.svg" width="28" title="linked paperclips"></td>
+<td><img src="assets/placeholder.svg" width="28" title="straight ruler"></td>
 </tr><tr>
-<td><span title="triangular ruler">&nbsp;</span></td>
-<td><span title="scissors">&nbsp;</span></td>
-<td><span title="card file box">&nbsp;</span></td>
-<td><span title="file cabinet">&nbsp;</span></td>
-<td><span title="wastebasket">&nbsp;</span></td>
-<td><span title="locked">&nbsp;</span></td>
-<td><span title="unlocked">&nbsp;</span></td>
-<td><span title="locked with pen">&nbsp;</span></td>
-<td><span title="locked with key">&nbsp;</span></td>
-<td><span title="key">&nbsp;</span></td>
-<td><span title="old key">&nbsp;</span></td>
-<td><span title="hammer">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="triangular ruler"></td>
+<td><img src="assets/placeholder.svg" width="28" title="scissors"></td>
+<td><img src="assets/placeholder.svg" width="28" title="card file box"></td>
+<td><img src="assets/placeholder.svg" width="28" title="file cabinet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wastebasket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="locked"></td>
+<td><img src="assets/placeholder.svg" width="28" title="unlocked"></td>
+<td><img src="assets/placeholder.svg" width="28" title="locked with pen"></td>
+<td><img src="assets/placeholder.svg" width="28" title="locked with key"></td>
+<td><img src="assets/placeholder.svg" width="28" title="key"></td>
+<td><img src="assets/placeholder.svg" width="28" title="old key"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hammer"></td>
 </tr><tr>
-<td><span title="axe">&nbsp;</span></td>
-<td><span title="pick">&nbsp;</span></td>
-<td><span title="hammer and pick">&nbsp;</span></td>
-<td><span title="hammer and wrench">&nbsp;</span></td>
-<td><span title="dagger">&nbsp;</span></td>
-<td><span title="crossed swords">&nbsp;</span></td>
-<td><span title="bomb">&nbsp;</span></td>
-<td><span title="boomerang">&nbsp;</span></td>
-<td><span title="bow and arrow">&nbsp;</span></td>
-<td><span title="shield">&nbsp;</span></td>
-<td><span title="carpentry saw">&nbsp;</span></td>
-<td><span title="wrench">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="axe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hammer and pick"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hammer and wrench"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dagger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed swords"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bomb"></td>
+<td><img src="assets/placeholder.svg" width="28" title="boomerang"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bow and arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shield"></td>
+<td><img src="assets/placeholder.svg" width="28" title="carpentry saw"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wrench"></td>
 </tr><tr>
-<td><span title="screwdriver">&nbsp;</span></td>
-<td><span title="nut and bolt">&nbsp;</span></td>
-<td><span title="gear">&nbsp;</span></td>
-<td><span title="clamp">&nbsp;</span></td>
-<td><span title="balance scale">&nbsp;</span></td>
-<td><span title="white cane">&nbsp;</span></td>
-<td><span title="link">&nbsp;</span></td>
-<td><span title="broken chain">&nbsp;</span></td>
-<td><span title="chains">&nbsp;</span></td>
-<td><span title="hook">&nbsp;</span></td>
-<td><span title="toolbox">&nbsp;</span></td>
-<td><span title="magnet">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="screwdriver"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nut and bolt"></td>
+<td><img src="assets/placeholder.svg" width="28" title="gear"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clamp"></td>
+<td><img src="assets/placeholder.svg" width="28" title="balance scale"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white cane"></td>
+<td><img src="assets/placeholder.svg" width="28" title="link"></td>
+<td><img src="assets/placeholder.svg" width="28" title="broken chain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chains"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hook"></td>
+<td><img src="assets/placeholder.svg" width="28" title="toolbox"></td>
+<td><img src="assets/placeholder.svg" width="28" title="magnet"></td>
 </tr><tr>
-<td><span title="ladder">&nbsp;</span></td>
-<td><span title="shovel">&nbsp;</span></td>
-<td><span title="alembic">&nbsp;</span></td>
-<td><span title="test tube">&nbsp;</span></td>
-<td><span title="petri dish">&nbsp;</span></td>
-<td><span title="dna">&nbsp;</span></td>
-<td><span title="microscope">&nbsp;</span></td>
-<td><span title="telescope">&nbsp;</span></td>
-<td><span title="satellite antenna">&nbsp;</span></td>
-<td><span title="syringe">&nbsp;</span></td>
-<td><span title="drop of blood">&nbsp;</span></td>
-<td><span title="pill">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="ladder"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shovel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="alembic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="test tube"></td>
+<td><img src="assets/placeholder.svg" width="28" title="petri dish"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dna"></td>
+<td><img src="assets/placeholder.svg" width="28" title="microscope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="telescope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="satellite antenna"></td>
+<td><img src="assets/placeholder.svg" width="28" title="syringe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="drop of blood"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pill"></td>
 </tr><tr>
-<td><span title="adhesive bandage">&nbsp;</span></td>
-<td><span title="crutch">&nbsp;</span></td>
-<td><span title="stethoscope">&nbsp;</span></td>
-<td><span title="x-ray">&nbsp;</span></td>
-<td><span title="door">&nbsp;</span></td>
-<td><span title="elevator">&nbsp;</span></td>
-<td><span title="mirror">&nbsp;</span></td>
-<td><span title="window">&nbsp;</span></td>
-<td><span title="bed">&nbsp;</span></td>
-<td><span title="couch and lamp">&nbsp;</span></td>
-<td><span title="chair">&nbsp;</span></td>
-<td><span title="toilet">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="adhesive bandage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crutch"></td>
+<td><img src="assets/placeholder.svg" width="28" title="stethoscope"></td>
+<td><img src="assets/placeholder.svg" width="28" title="x-ray"></td>
+<td><img src="assets/placeholder.svg" width="28" title="door"></td>
+<td><img src="assets/placeholder.svg" width="28" title="elevator"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mirror"></td>
+<td><img src="assets/placeholder.svg" width="28" title="window"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bed"></td>
+<td><img src="assets/placeholder.svg" width="28" title="couch and lamp"></td>
+<td><img src="assets/placeholder.svg" width="28" title="chair"></td>
+<td><img src="assets/placeholder.svg" width="28" title="toilet"></td>
 </tr><tr>
-<td><span title="plunger">&nbsp;</span></td>
-<td><span title="shower">&nbsp;</span></td>
-<td><span title="bathtub">&nbsp;</span></td>
-<td><span title="mouse trap">&nbsp;</span></td>
-<td><span title="razor">&nbsp;</span></td>
-<td><span title="lotion bottle">&nbsp;</span></td>
-<td><span title="safety pin">&nbsp;</span></td>
-<td><span title="broom">&nbsp;</span></td>
-<td><span title="basket">&nbsp;</span></td>
-<td><span title="roll of paper">&nbsp;</span></td>
-<td><span title="bucket">&nbsp;</span></td>
-<td><span title="soap">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="plunger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shower"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bathtub"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mouse trap"></td>
+<td><img src="assets/placeholder.svg" width="28" title="razor"></td>
+<td><img src="assets/placeholder.svg" width="28" title="lotion bottle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="safety pin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="broom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="basket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="roll of paper"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bucket"></td>
+<td><img src="assets/placeholder.svg" width="28" title="soap"></td>
 </tr><tr>
-<td><span title="bubbles">&nbsp;</span></td>
-<td><span title="toothbrush">&nbsp;</span></td>
-<td><span title="sponge">&nbsp;</span></td>
-<td><span title="fire extinguisher">&nbsp;</span></td>
-<td><span title="shopping cart">&nbsp;</span></td>
-<td><span title="cigarette">&nbsp;</span></td>
-<td><span title="coffin">&nbsp;</span></td>
-<td><span title="headstone">&nbsp;</span></td>
-<td><span title="funeral urn">&nbsp;</span></td>
-<td><span title="nazar amulet">&nbsp;</span></td>
-<td><span title="hamsa">&nbsp;</span></td>
-<td><span title="moai">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="bubbles"></td>
+<td><img src="assets/placeholder.svg" width="28" title="toothbrush"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sponge"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fire extinguisher"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shopping cart"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cigarette"></td>
+<td><img src="assets/placeholder.svg" width="28" title="coffin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="headstone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="funeral urn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="nazar amulet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hamsa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="moai"></td>
 </tr><tr>
-<td><span title="placard">&nbsp;</span></td>
-<td><span title="identification card">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="placard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="identification card"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Symbols</b> — 0/224 (0%)</summary>
 
 <table><tr>
-<td><span title="ATM sign">&nbsp;</span></td>
-<td><span title="litter in bin sign">&nbsp;</span></td>
-<td><span title="potable water">&nbsp;</span></td>
-<td><span title="wheelchair symbol">&nbsp;</span></td>
-<td><span title="men’s room">&nbsp;</span></td>
-<td><span title="women’s room">&nbsp;</span></td>
-<td><span title="restroom">&nbsp;</span></td>
-<td><span title="baby symbol">&nbsp;</span></td>
-<td><span title="water closet">&nbsp;</span></td>
-<td><span title="passport control">&nbsp;</span></td>
-<td><span title="customs">&nbsp;</span></td>
-<td><span title="baggage claim">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="ATM sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="litter in bin sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="potable water"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wheelchair symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="men’s room"></td>
+<td><img src="assets/placeholder.svg" width="28" title="women’s room"></td>
+<td><img src="assets/placeholder.svg" width="28" title="restroom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baby symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="water closet"></td>
+<td><img src="assets/placeholder.svg" width="28" title="passport control"></td>
+<td><img src="assets/placeholder.svg" width="28" title="customs"></td>
+<td><img src="assets/placeholder.svg" width="28" title="baggage claim"></td>
 </tr><tr>
-<td><span title="left luggage">&nbsp;</span></td>
-<td><span title="warning">&nbsp;</span></td>
-<td><span title="children crossing">&nbsp;</span></td>
-<td><span title="no entry">&nbsp;</span></td>
-<td><span title="prohibited">&nbsp;</span></td>
-<td><span title="no bicycles">&nbsp;</span></td>
-<td><span title="no smoking">&nbsp;</span></td>
-<td><span title="no littering">&nbsp;</span></td>
-<td><span title="non-potable water">&nbsp;</span></td>
-<td><span title="no pedestrians">&nbsp;</span></td>
-<td><span title="no mobile phones">&nbsp;</span></td>
-<td><span title="no one under eighteen">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="left luggage"></td>
+<td><img src="assets/placeholder.svg" width="28" title="warning"></td>
+<td><img src="assets/placeholder.svg" width="28" title="children crossing"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no entry"></td>
+<td><img src="assets/placeholder.svg" width="28" title="prohibited"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no bicycles"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no smoking"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no littering"></td>
+<td><img src="assets/placeholder.svg" width="28" title="non-potable water"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no pedestrians"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no mobile phones"></td>
+<td><img src="assets/placeholder.svg" width="28" title="no one under eighteen"></td>
 </tr><tr>
-<td><span title="radioactive">&nbsp;</span></td>
-<td><span title="biohazard">&nbsp;</span></td>
-<td><span title="up arrow">&nbsp;</span></td>
-<td><span title="up-right arrow">&nbsp;</span></td>
-<td><span title="right arrow">&nbsp;</span></td>
-<td><span title="down-right arrow">&nbsp;</span></td>
-<td><span title="down arrow">&nbsp;</span></td>
-<td><span title="down-left arrow">&nbsp;</span></td>
-<td><span title="left arrow">&nbsp;</span></td>
-<td><span title="up-left arrow">&nbsp;</span></td>
-<td><span title="up-down arrow">&nbsp;</span></td>
-<td><span title="left-right arrow">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="radioactive"></td>
+<td><img src="assets/placeholder.svg" width="28" title="biohazard"></td>
+<td><img src="assets/placeholder.svg" width="28" title="up arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="up-right arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="down-right arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="down arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="down-left arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="up-left arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="up-down arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left-right arrow"></td>
 </tr><tr>
-<td><span title="right arrow curving left">&nbsp;</span></td>
-<td><span title="left arrow curving right">&nbsp;</span></td>
-<td><span title="right arrow curving up">&nbsp;</span></td>
-<td><span title="right arrow curving down">&nbsp;</span></td>
-<td><span title="clockwise vertical arrows">&nbsp;</span></td>
-<td><span title="counterclockwise arrows button">&nbsp;</span></td>
-<td><span title="BACK arrow">&nbsp;</span></td>
-<td><span title="END arrow">&nbsp;</span></td>
-<td><span title="ON! arrow">&nbsp;</span></td>
-<td><span title="SOON arrow">&nbsp;</span></td>
-<td><span title="TOP arrow">&nbsp;</span></td>
-<td><span title="place of worship">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="right arrow curving left"></td>
+<td><img src="assets/placeholder.svg" width="28" title="left arrow curving right"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right arrow curving up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="right arrow curving down"></td>
+<td><img src="assets/placeholder.svg" width="28" title="clockwise vertical arrows"></td>
+<td><img src="assets/placeholder.svg" width="28" title="counterclockwise arrows button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="BACK arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="END arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ON! arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="SOON arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="TOP arrow"></td>
+<td><img src="assets/placeholder.svg" width="28" title="place of worship"></td>
 </tr><tr>
-<td><span title="atom symbol">&nbsp;</span></td>
-<td><span title="om">&nbsp;</span></td>
-<td><span title="star of David">&nbsp;</span></td>
-<td><span title="wheel of dharma">&nbsp;</span></td>
-<td><span title="yin yang">&nbsp;</span></td>
-<td><span title="latin cross">&nbsp;</span></td>
-<td><span title="orthodox cross">&nbsp;</span></td>
-<td><span title="star and crescent">&nbsp;</span></td>
-<td><span title="peace symbol">&nbsp;</span></td>
-<td><span title="menorah">&nbsp;</span></td>
-<td><span title="dotted six-pointed star">&nbsp;</span></td>
-<td><span title="khanda">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="atom symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="om"></td>
+<td><img src="assets/placeholder.svg" width="28" title="star of David"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wheel of dharma"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yin yang"></td>
+<td><img src="assets/placeholder.svg" width="28" title="latin cross"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orthodox cross"></td>
+<td><img src="assets/placeholder.svg" width="28" title="star and crescent"></td>
+<td><img src="assets/placeholder.svg" width="28" title="peace symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="menorah"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dotted six-pointed star"></td>
+<td><img src="assets/placeholder.svg" width="28" title="khanda"></td>
 </tr><tr>
-<td><span title="Aries">&nbsp;</span></td>
-<td><span title="Taurus">&nbsp;</span></td>
-<td><span title="Gemini">&nbsp;</span></td>
-<td><span title="Cancer">&nbsp;</span></td>
-<td><span title="Leo">&nbsp;</span></td>
-<td><span title="Virgo">&nbsp;</span></td>
-<td><span title="Libra">&nbsp;</span></td>
-<td><span title="Scorpio">&nbsp;</span></td>
-<td><span title="Sagittarius">&nbsp;</span></td>
-<td><span title="Capricorn">&nbsp;</span></td>
-<td><span title="Aquarius">&nbsp;</span></td>
-<td><span title="Pisces">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="Aries"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Taurus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Gemini"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Cancer"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Leo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Virgo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Libra"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Scorpio"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Sagittarius"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Capricorn"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Aquarius"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Pisces"></td>
 </tr><tr>
-<td><span title="Ophiuchus">&nbsp;</span></td>
-<td><span title="shuffle tracks button">&nbsp;</span></td>
-<td><span title="repeat button">&nbsp;</span></td>
-<td><span title="repeat single button">&nbsp;</span></td>
-<td><span title="play button">&nbsp;</span></td>
-<td><span title="fast-forward button">&nbsp;</span></td>
-<td><span title="next track button">&nbsp;</span></td>
-<td><span title="play or pause button">&nbsp;</span></td>
-<td><span title="reverse button">&nbsp;</span></td>
-<td><span title="fast reverse button">&nbsp;</span></td>
-<td><span title="last track button">&nbsp;</span></td>
-<td><span title="upwards button">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="Ophiuchus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="shuffle tracks button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="repeat button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="repeat single button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="play button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fast-forward button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="next track button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="play or pause button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="reverse button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fast reverse button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="last track button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="upwards button"></td>
 </tr><tr>
-<td><span title="fast up button">&nbsp;</span></td>
-<td><span title="downwards button">&nbsp;</span></td>
-<td><span title="fast down button">&nbsp;</span></td>
-<td><span title="pause button">&nbsp;</span></td>
-<td><span title="stop button">&nbsp;</span></td>
-<td><span title="record button">&nbsp;</span></td>
-<td><span title="eject button">&nbsp;</span></td>
-<td><span title="cinema">&nbsp;</span></td>
-<td><span title="dim button">&nbsp;</span></td>
-<td><span title="bright button">&nbsp;</span></td>
-<td><span title="antenna bars">&nbsp;</span></td>
-<td><span title="wireless">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="fast up button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="downwards button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fast down button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pause button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="stop button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="record button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eject button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cinema"></td>
+<td><img src="assets/placeholder.svg" width="28" title="dim button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="bright button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="antenna bars"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wireless"></td>
 </tr><tr>
-<td><span title="vibration mode">&nbsp;</span></td>
-<td><span title="mobile phone off">&nbsp;</span></td>
-<td><span title="female sign">&nbsp;</span></td>
-<td><span title="male sign">&nbsp;</span></td>
-<td><span title="transgender symbol">&nbsp;</span></td>
-<td><span title="multiply">&nbsp;</span></td>
-<td><span title="plus">&nbsp;</span></td>
-<td><span title="minus">&nbsp;</span></td>
-<td><span title="divide">&nbsp;</span></td>
-<td><span title="heavy equals sign">&nbsp;</span></td>
-<td><span title="infinity">&nbsp;</span></td>
-<td><span title="double exclamation mark">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="vibration mode"></td>
+<td><img src="assets/placeholder.svg" width="28" title="mobile phone off"></td>
+<td><img src="assets/placeholder.svg" width="28" title="female sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="male sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="transgender symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="multiply"></td>
+<td><img src="assets/placeholder.svg" width="28" title="plus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="minus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="divide"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heavy equals sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="infinity"></td>
+<td><img src="assets/placeholder.svg" width="28" title="double exclamation mark"></td>
 </tr><tr>
-<td><span title="exclamation question mark">&nbsp;</span></td>
-<td><span title="red question mark">&nbsp;</span></td>
-<td><span title="white question mark">&nbsp;</span></td>
-<td><span title="white exclamation mark">&nbsp;</span></td>
-<td><span title="red exclamation mark">&nbsp;</span></td>
-<td><span title="wavy dash">&nbsp;</span></td>
-<td><span title="currency exchange">&nbsp;</span></td>
-<td><span title="heavy dollar sign">&nbsp;</span></td>
-<td><span title="medical symbol">&nbsp;</span></td>
-<td><span title="recycling symbol">&nbsp;</span></td>
-<td><span title="fleur-de-lis">&nbsp;</span></td>
-<td><span title="trident emblem">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="exclamation question mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red question mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white question mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white exclamation mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red exclamation mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="wavy dash"></td>
+<td><img src="assets/placeholder.svg" width="28" title="currency exchange"></td>
+<td><img src="assets/placeholder.svg" width="28" title="heavy dollar sign"></td>
+<td><img src="assets/placeholder.svg" width="28" title="medical symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="recycling symbol"></td>
+<td><img src="assets/placeholder.svg" width="28" title="fleur-de-lis"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trident emblem"></td>
 </tr><tr>
-<td><span title="name badge">&nbsp;</span></td>
-<td><span title="Japanese symbol for beginner">&nbsp;</span></td>
-<td><span title="hollow red circle">&nbsp;</span></td>
-<td><span title="check mark button">&nbsp;</span></td>
-<td><span title="check box with check">&nbsp;</span></td>
-<td><span title="check mark">&nbsp;</span></td>
-<td><span title="cross mark">&nbsp;</span></td>
-<td><span title="cross mark button">&nbsp;</span></td>
-<td><span title="curly loop">&nbsp;</span></td>
-<td><span title="double curly loop">&nbsp;</span></td>
-<td><span title="part alternation mark">&nbsp;</span></td>
-<td><span title="eight-spoked asterisk">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="name badge"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese symbol for beginner"></td>
+<td><img src="assets/placeholder.svg" width="28" title="hollow red circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="check mark button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="check box with check"></td>
+<td><img src="assets/placeholder.svg" width="28" title="check mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cross mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="cross mark button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="curly loop"></td>
+<td><img src="assets/placeholder.svg" width="28" title="double curly loop"></td>
+<td><img src="assets/placeholder.svg" width="28" title="part alternation mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="eight-spoked asterisk"></td>
 </tr><tr>
-<td><span title="eight-pointed star">&nbsp;</span></td>
-<td><span title="sparkle">&nbsp;</span></td>
-<td><span title="copyright">&nbsp;</span></td>
-<td><span title="registered">&nbsp;</span></td>
-<td><span title="trade mark">&nbsp;</span></td>
-<td><span title="splatter">&nbsp;</span></td>
-<td><span title="keycap: #">&nbsp;</span></td>
-<td><span title="keycap: *">&nbsp;</span></td>
-<td><span title="keycap: 0">&nbsp;</span></td>
-<td><span title="keycap: 1">&nbsp;</span></td>
-<td><span title="keycap: 2">&nbsp;</span></td>
-<td><span title="keycap: 3">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="eight-pointed star"></td>
+<td><img src="assets/placeholder.svg" width="28" title="sparkle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="copyright"></td>
+<td><img src="assets/placeholder.svg" width="28" title="registered"></td>
+<td><img src="assets/placeholder.svg" width="28" title="trade mark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="splatter"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: #"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: *"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 0"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 1"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 2"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 3"></td>
 </tr><tr>
-<td><span title="keycap: 4">&nbsp;</span></td>
-<td><span title="keycap: 5">&nbsp;</span></td>
-<td><span title="keycap: 6">&nbsp;</span></td>
-<td><span title="keycap: 7">&nbsp;</span></td>
-<td><span title="keycap: 8">&nbsp;</span></td>
-<td><span title="keycap: 9">&nbsp;</span></td>
-<td><span title="keycap: 10">&nbsp;</span></td>
-<td><span title="input latin uppercase">&nbsp;</span></td>
-<td><span title="input latin lowercase">&nbsp;</span></td>
-<td><span title="input numbers">&nbsp;</span></td>
-<td><span title="input symbols">&nbsp;</span></td>
-<td><span title="input latin letters">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 4"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 5"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 6"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 7"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 8"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 9"></td>
+<td><img src="assets/placeholder.svg" width="28" title="keycap: 10"></td>
+<td><img src="assets/placeholder.svg" width="28" title="input latin uppercase"></td>
+<td><img src="assets/placeholder.svg" width="28" title="input latin lowercase"></td>
+<td><img src="assets/placeholder.svg" width="28" title="input numbers"></td>
+<td><img src="assets/placeholder.svg" width="28" title="input symbols"></td>
+<td><img src="assets/placeholder.svg" width="28" title="input latin letters"></td>
 </tr><tr>
-<td><span title="A button (blood type)">&nbsp;</span></td>
-<td><span title="AB button (blood type)">&nbsp;</span></td>
-<td><span title="B button (blood type)">&nbsp;</span></td>
-<td><span title="CL button">&nbsp;</span></td>
-<td><span title="COOL button">&nbsp;</span></td>
-<td><span title="FREE button">&nbsp;</span></td>
-<td><span title="information">&nbsp;</span></td>
-<td><span title="ID button">&nbsp;</span></td>
-<td><span title="circled M">&nbsp;</span></td>
-<td><span title="NEW button">&nbsp;</span></td>
-<td><span title="NG button">&nbsp;</span></td>
-<td><span title="O button (blood type)">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="A button (blood type)"></td>
+<td><img src="assets/placeholder.svg" width="28" title="AB button (blood type)"></td>
+<td><img src="assets/placeholder.svg" width="28" title="B button (blood type)"></td>
+<td><img src="assets/placeholder.svg" width="28" title="CL button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="COOL button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="FREE button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="information"></td>
+<td><img src="assets/placeholder.svg" width="28" title="ID button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="circled M"></td>
+<td><img src="assets/placeholder.svg" width="28" title="NEW button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="NG button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="O button (blood type)"></td>
 </tr><tr>
-<td><span title="OK button">&nbsp;</span></td>
-<td><span title="P button">&nbsp;</span></td>
-<td><span title="SOS button">&nbsp;</span></td>
-<td><span title="UP! button">&nbsp;</span></td>
-<td><span title="VS button">&nbsp;</span></td>
-<td><span title="Japanese “here” button">&nbsp;</span></td>
-<td><span title="Japanese “service charge” button">&nbsp;</span></td>
-<td><span title="Japanese “monthly amount” button">&nbsp;</span></td>
-<td><span title="Japanese “not free of charge” button">&nbsp;</span></td>
-<td><span title="Japanese “reserved” button">&nbsp;</span></td>
-<td><span title="Japanese “bargain” button">&nbsp;</span></td>
-<td><span title="Japanese “discount” button">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="OK button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="P button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="SOS button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="UP! button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="VS button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “here” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “service charge” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “monthly amount” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “not free of charge” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “reserved” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “bargain” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “discount” button"></td>
 </tr><tr>
-<td><span title="Japanese “free of charge” button">&nbsp;</span></td>
-<td><span title="Japanese “prohibited” button">&nbsp;</span></td>
-<td><span title="Japanese “acceptable” button">&nbsp;</span></td>
-<td><span title="Japanese “application” button">&nbsp;</span></td>
-<td><span title="Japanese “passing grade” button">&nbsp;</span></td>
-<td><span title="Japanese “vacancy” button">&nbsp;</span></td>
-<td><span title="Japanese “congratulations” button">&nbsp;</span></td>
-<td><span title="Japanese “secret” button">&nbsp;</span></td>
-<td><span title="Japanese “open for business” button">&nbsp;</span></td>
-<td><span title="Japanese “no vacancy” button">&nbsp;</span></td>
-<td><span title="red circle">&nbsp;</span></td>
-<td><span title="orange circle">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “free of charge” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “prohibited” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “acceptable” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “application” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “passing grade” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “vacancy” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “congratulations” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “secret” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “open for business” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="Japanese “no vacancy” button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orange circle"></td>
 </tr><tr>
-<td><span title="yellow circle">&nbsp;</span></td>
-<td><span title="green circle">&nbsp;</span></td>
-<td><span title="blue circle">&nbsp;</span></td>
-<td><span title="purple circle">&nbsp;</span></td>
-<td><span title="brown circle">&nbsp;</span></td>
-<td><span title="black circle">&nbsp;</span></td>
-<td><span title="white circle">&nbsp;</span></td>
-<td><span title="red square">&nbsp;</span></td>
-<td><span title="orange square">&nbsp;</span></td>
-<td><span title="yellow square">&nbsp;</span></td>
-<td><span title="green square">&nbsp;</span></td>
-<td><span title="blue square">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="yellow circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blue circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="purple circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brown circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white circle"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="orange square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="yellow square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="green square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="blue square"></td>
 </tr><tr>
-<td><span title="purple square">&nbsp;</span></td>
-<td><span title="brown square">&nbsp;</span></td>
-<td><span title="black large square">&nbsp;</span></td>
-<td><span title="white large square">&nbsp;</span></td>
-<td><span title="black medium square">&nbsp;</span></td>
-<td><span title="white medium square">&nbsp;</span></td>
-<td><span title="black medium-small square">&nbsp;</span></td>
-<td><span title="white medium-small square">&nbsp;</span></td>
-<td><span title="black small square">&nbsp;</span></td>
-<td><span title="white small square">&nbsp;</span></td>
-<td><span title="large orange diamond">&nbsp;</span></td>
-<td><span title="large blue diamond">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="purple square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="brown square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black large square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white large square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black medium square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white medium square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black medium-small square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white medium-small square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black small square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white small square"></td>
+<td><img src="assets/placeholder.svg" width="28" title="large orange diamond"></td>
+<td><img src="assets/placeholder.svg" width="28" title="large blue diamond"></td>
 </tr><tr>
-<td><span title="small orange diamond">&nbsp;</span></td>
-<td><span title="small blue diamond">&nbsp;</span></td>
-<td><span title="red triangle pointed up">&nbsp;</span></td>
-<td><span title="red triangle pointed down">&nbsp;</span></td>
-<td><span title="diamond with a dot">&nbsp;</span></td>
-<td><span title="radio button">&nbsp;</span></td>
-<td><span title="white square button">&nbsp;</span></td>
-<td><span title="black square button">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="small orange diamond"></td>
+<td><img src="assets/placeholder.svg" width="28" title="small blue diamond"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red triangle pointed up"></td>
+<td><img src="assets/placeholder.svg" width="28" title="red triangle pointed down"></td>
+<td><img src="assets/placeholder.svg" width="28" title="diamond with a dot"></td>
+<td><img src="assets/placeholder.svg" width="28" title="radio button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white square button"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black square button"></td>
 </tr></table>
 </details>
 
 <details><summary><b>Flags</b> — 0/270 (0%)</summary>
 
 <table><tr>
-<td><span title="chequered flag">&nbsp;</span></td>
-<td><span title="triangular flag">&nbsp;</span></td>
-<td><span title="crossed flags">&nbsp;</span></td>
-<td><span title="black flag">&nbsp;</span></td>
-<td><span title="white flag">&nbsp;</span></td>
-<td><span title="rainbow flag">&nbsp;</span></td>
-<td><span title="transgender flag">&nbsp;</span></td>
-<td><span title="pirate flag">&nbsp;</span></td>
-<td><span title="flag: Ascension Island">&nbsp;</span></td>
-<td><span title="flag: Andorra">&nbsp;</span></td>
-<td><span title="flag: United Arab Emirates">&nbsp;</span></td>
-<td><span title="flag: Afghanistan">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="chequered flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="triangular flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="crossed flags"></td>
+<td><img src="assets/placeholder.svg" width="28" title="black flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="white flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="rainbow flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="transgender flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="pirate flag"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ascension Island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Andorra"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: United Arab Emirates"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Afghanistan"></td>
 </tr><tr>
-<td><span title="flag: Antigua & Barbuda">&nbsp;</span></td>
-<td><span title="flag: Anguilla">&nbsp;</span></td>
-<td><span title="flag: Albania">&nbsp;</span></td>
-<td><span title="flag: Armenia">&nbsp;</span></td>
-<td><span title="flag: Angola">&nbsp;</span></td>
-<td><span title="flag: Antarctica">&nbsp;</span></td>
-<td><span title="flag: Argentina">&nbsp;</span></td>
-<td><span title="flag: American Samoa">&nbsp;</span></td>
-<td><span title="flag: Austria">&nbsp;</span></td>
-<td><span title="flag: Australia">&nbsp;</span></td>
-<td><span title="flag: Aruba">&nbsp;</span></td>
-<td><span title="flag: Åland Islands">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Antigua & Barbuda"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Anguilla"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Albania"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Armenia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Angola"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Antarctica"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Argentina"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: American Samoa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Austria"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Australia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Aruba"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Åland Islands"></td>
 </tr><tr>
-<td><span title="flag: Azerbaijan">&nbsp;</span></td>
-<td><span title="flag: Bosnia & Herzegovina">&nbsp;</span></td>
-<td><span title="flag: Barbados">&nbsp;</span></td>
-<td><span title="flag: Bangladesh">&nbsp;</span></td>
-<td><span title="flag: Belgium">&nbsp;</span></td>
-<td><span title="flag: Burkina Faso">&nbsp;</span></td>
-<td><span title="flag: Bulgaria">&nbsp;</span></td>
-<td><span title="flag: Bahrain">&nbsp;</span></td>
-<td><span title="flag: Burundi">&nbsp;</span></td>
-<td><span title="flag: Benin">&nbsp;</span></td>
-<td><span title="flag: St. Barthélemy">&nbsp;</span></td>
-<td><span title="flag: Bermuda">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Azerbaijan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bosnia & Herzegovina"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Barbados"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bangladesh"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Belgium"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Burkina Faso"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bulgaria"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bahrain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Burundi"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Benin"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Barthélemy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bermuda"></td>
 </tr><tr>
-<td><span title="flag: Brunei">&nbsp;</span></td>
-<td><span title="flag: Bolivia">&nbsp;</span></td>
-<td><span title="flag: Caribbean Netherlands">&nbsp;</span></td>
-<td><span title="flag: Brazil">&nbsp;</span></td>
-<td><span title="flag: Bahamas">&nbsp;</span></td>
-<td><span title="flag: Bhutan">&nbsp;</span></td>
-<td><span title="flag: Bouvet Island">&nbsp;</span></td>
-<td><span title="flag: Botswana">&nbsp;</span></td>
-<td><span title="flag: Belarus">&nbsp;</span></td>
-<td><span title="flag: Belize">&nbsp;</span></td>
-<td><span title="flag: Canada">&nbsp;</span></td>
-<td><span title="flag: Cocos (Keeling) Islands">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Brunei"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bolivia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Caribbean Netherlands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Brazil"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bahamas"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bhutan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Bouvet Island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Botswana"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Belarus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Belize"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Canada"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cocos (Keeling) Islands"></td>
 </tr><tr>
-<td><span title="flag: Congo - Kinshasa">&nbsp;</span></td>
-<td><span title="flag: Central African Republic">&nbsp;</span></td>
-<td><span title="flag: Congo - Brazzaville">&nbsp;</span></td>
-<td><span title="flag: Switzerland">&nbsp;</span></td>
-<td><span title="flag: Côte d’Ivoire">&nbsp;</span></td>
-<td><span title="flag: Cook Islands">&nbsp;</span></td>
-<td><span title="flag: Chile">&nbsp;</span></td>
-<td><span title="flag: Cameroon">&nbsp;</span></td>
-<td><span title="flag: China">&nbsp;</span></td>
-<td><span title="flag: Colombia">&nbsp;</span></td>
-<td><span title="flag: Clipperton Island">&nbsp;</span></td>
-<td><span title="flag: Sark">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Congo - Kinshasa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Central African Republic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Congo - Brazzaville"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Switzerland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Côte d’Ivoire"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cook Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Chile"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cameroon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: China"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Colombia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Clipperton Island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sark"></td>
 </tr><tr>
-<td><span title="flag: Costa Rica">&nbsp;</span></td>
-<td><span title="flag: Cuba">&nbsp;</span></td>
-<td><span title="flag: Cape Verde">&nbsp;</span></td>
-<td><span title="flag: Curaçao">&nbsp;</span></td>
-<td><span title="flag: Christmas Island">&nbsp;</span></td>
-<td><span title="flag: Cyprus">&nbsp;</span></td>
-<td><span title="flag: Czechia">&nbsp;</span></td>
-<td><span title="flag: Germany">&nbsp;</span></td>
-<td><span title="flag: Diego Garcia">&nbsp;</span></td>
-<td><span title="flag: Djibouti">&nbsp;</span></td>
-<td><span title="flag: Denmark">&nbsp;</span></td>
-<td><span title="flag: Dominica">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Costa Rica"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cuba"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cape Verde"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Curaçao"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Christmas Island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cyprus"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Czechia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Germany"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Diego Garcia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Djibouti"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Denmark"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Dominica"></td>
 </tr><tr>
-<td><span title="flag: Dominican Republic">&nbsp;</span></td>
-<td><span title="flag: Algeria">&nbsp;</span></td>
-<td><span title="flag: Ceuta & Melilla">&nbsp;</span></td>
-<td><span title="flag: Ecuador">&nbsp;</span></td>
-<td><span title="flag: Estonia">&nbsp;</span></td>
-<td><span title="flag: Egypt">&nbsp;</span></td>
-<td><span title="flag: Western Sahara">&nbsp;</span></td>
-<td><span title="flag: Eritrea">&nbsp;</span></td>
-<td><span title="flag: Spain">&nbsp;</span></td>
-<td><span title="flag: Ethiopia">&nbsp;</span></td>
-<td><span title="flag: European Union">&nbsp;</span></td>
-<td><span title="flag: Finland">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Dominican Republic"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Algeria"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ceuta & Melilla"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ecuador"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Estonia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Egypt"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Western Sahara"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Eritrea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Spain"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ethiopia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: European Union"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Finland"></td>
 </tr><tr>
-<td><span title="flag: Fiji">&nbsp;</span></td>
-<td><span title="flag: Falkland Islands">&nbsp;</span></td>
-<td><span title="flag: Micronesia">&nbsp;</span></td>
-<td><span title="flag: Faroe Islands">&nbsp;</span></td>
-<td><span title="flag: France">&nbsp;</span></td>
-<td><span title="flag: Gabon">&nbsp;</span></td>
-<td><span title="flag: United Kingdom">&nbsp;</span></td>
-<td><span title="flag: Grenada">&nbsp;</span></td>
-<td><span title="flag: Georgia">&nbsp;</span></td>
-<td><span title="flag: French Guiana">&nbsp;</span></td>
-<td><span title="flag: Guernsey">&nbsp;</span></td>
-<td><span title="flag: Ghana">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Fiji"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Falkland Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Micronesia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Faroe Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: France"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Gabon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: United Kingdom"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Grenada"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Georgia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: French Guiana"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guernsey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ghana"></td>
 </tr><tr>
-<td><span title="flag: Gibraltar">&nbsp;</span></td>
-<td><span title="flag: Greenland">&nbsp;</span></td>
-<td><span title="flag: Gambia">&nbsp;</span></td>
-<td><span title="flag: Guinea">&nbsp;</span></td>
-<td><span title="flag: Guadeloupe">&nbsp;</span></td>
-<td><span title="flag: Equatorial Guinea">&nbsp;</span></td>
-<td><span title="flag: Greece">&nbsp;</span></td>
-<td><span title="flag: South Georgia & South Sandwich Islands">&nbsp;</span></td>
-<td><span title="flag: Guatemala">&nbsp;</span></td>
-<td><span title="flag: Guam">&nbsp;</span></td>
-<td><span title="flag: Guinea-Bissau">&nbsp;</span></td>
-<td><span title="flag: Guyana">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Gibraltar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Greenland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Gambia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guinea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guadeloupe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Equatorial Guinea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Greece"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: South Georgia & South Sandwich Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guatemala"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guam"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guinea-Bissau"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Guyana"></td>
 </tr><tr>
-<td><span title="flag: Hong Kong SAR China">&nbsp;</span></td>
-<td><span title="flag: Heard & McDonald Islands">&nbsp;</span></td>
-<td><span title="flag: Honduras">&nbsp;</span></td>
-<td><span title="flag: Croatia">&nbsp;</span></td>
-<td><span title="flag: Haiti">&nbsp;</span></td>
-<td><span title="flag: Hungary">&nbsp;</span></td>
-<td><span title="flag: Canary Islands">&nbsp;</span></td>
-<td><span title="flag: Indonesia">&nbsp;</span></td>
-<td><span title="flag: Ireland">&nbsp;</span></td>
-<td><span title="flag: Israel">&nbsp;</span></td>
-<td><span title="flag: Isle of Man">&nbsp;</span></td>
-<td><span title="flag: India">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Hong Kong SAR China"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Heard & McDonald Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Honduras"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Croatia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Haiti"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Hungary"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Canary Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Indonesia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ireland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Israel"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Isle of Man"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: India"></td>
 </tr><tr>
-<td><span title="flag: British Indian Ocean Territory">&nbsp;</span></td>
-<td><span title="flag: Iraq">&nbsp;</span></td>
-<td><span title="flag: Iran">&nbsp;</span></td>
-<td><span title="flag: Iceland">&nbsp;</span></td>
-<td><span title="flag: Italy">&nbsp;</span></td>
-<td><span title="flag: Jersey">&nbsp;</span></td>
-<td><span title="flag: Jamaica">&nbsp;</span></td>
-<td><span title="flag: Jordan">&nbsp;</span></td>
-<td><span title="flag: Japan">&nbsp;</span></td>
-<td><span title="flag: Kenya">&nbsp;</span></td>
-<td><span title="flag: Kyrgyzstan">&nbsp;</span></td>
-<td><span title="flag: Cambodia">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: British Indian Ocean Territory"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Iraq"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Iran"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Iceland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Italy"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Jersey"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Jamaica"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Jordan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Japan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kenya"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kyrgyzstan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cambodia"></td>
 </tr><tr>
-<td><span title="flag: Kiribati">&nbsp;</span></td>
-<td><span title="flag: Comoros">&nbsp;</span></td>
-<td><span title="flag: St. Kitts & Nevis">&nbsp;</span></td>
-<td><span title="flag: North Korea">&nbsp;</span></td>
-<td><span title="flag: South Korea">&nbsp;</span></td>
-<td><span title="flag: Kuwait">&nbsp;</span></td>
-<td><span title="flag: Cayman Islands">&nbsp;</span></td>
-<td><span title="flag: Kazakhstan">&nbsp;</span></td>
-<td><span title="flag: Laos">&nbsp;</span></td>
-<td><span title="flag: Lebanon">&nbsp;</span></td>
-<td><span title="flag: St. Lucia">&nbsp;</span></td>
-<td><span title="flag: Liechtenstein">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kiribati"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Comoros"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Kitts & Nevis"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: North Korea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: South Korea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kuwait"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Cayman Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kazakhstan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Laos"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Lebanon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Lucia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Liechtenstein"></td>
 </tr><tr>
-<td><span title="flag: Sri Lanka">&nbsp;</span></td>
-<td><span title="flag: Liberia">&nbsp;</span></td>
-<td><span title="flag: Lesotho">&nbsp;</span></td>
-<td><span title="flag: Lithuania">&nbsp;</span></td>
-<td><span title="flag: Luxembourg">&nbsp;</span></td>
-<td><span title="flag: Latvia">&nbsp;</span></td>
-<td><span title="flag: Libya">&nbsp;</span></td>
-<td><span title="flag: Morocco">&nbsp;</span></td>
-<td><span title="flag: Monaco">&nbsp;</span></td>
-<td><span title="flag: Moldova">&nbsp;</span></td>
-<td><span title="flag: Montenegro">&nbsp;</span></td>
-<td><span title="flag: St. Martin">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sri Lanka"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Liberia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Lesotho"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Lithuania"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Luxembourg"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Latvia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Libya"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Morocco"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Monaco"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Moldova"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Montenegro"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Martin"></td>
 </tr><tr>
-<td><span title="flag: Madagascar">&nbsp;</span></td>
-<td><span title="flag: Marshall Islands">&nbsp;</span></td>
-<td><span title="flag: North Macedonia">&nbsp;</span></td>
-<td><span title="flag: Mali">&nbsp;</span></td>
-<td><span title="flag: Myanmar (Burma)">&nbsp;</span></td>
-<td><span title="flag: Mongolia">&nbsp;</span></td>
-<td><span title="flag: Macao SAR China">&nbsp;</span></td>
-<td><span title="flag: Northern Mariana Islands">&nbsp;</span></td>
-<td><span title="flag: Martinique">&nbsp;</span></td>
-<td><span title="flag: Mauritania">&nbsp;</span></td>
-<td><span title="flag: Montserrat">&nbsp;</span></td>
-<td><span title="flag: Malta">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Madagascar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Marshall Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: North Macedonia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mali"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Myanmar (Burma)"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mongolia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Macao SAR China"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Northern Mariana Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Martinique"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mauritania"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Montserrat"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Malta"></td>
 </tr><tr>
-<td><span title="flag: Mauritius">&nbsp;</span></td>
-<td><span title="flag: Maldives">&nbsp;</span></td>
-<td><span title="flag: Malawi">&nbsp;</span></td>
-<td><span title="flag: Mexico">&nbsp;</span></td>
-<td><span title="flag: Malaysia">&nbsp;</span></td>
-<td><span title="flag: Mozambique">&nbsp;</span></td>
-<td><span title="flag: Namibia">&nbsp;</span></td>
-<td><span title="flag: New Caledonia">&nbsp;</span></td>
-<td><span title="flag: Niger">&nbsp;</span></td>
-<td><span title="flag: Norfolk Island">&nbsp;</span></td>
-<td><span title="flag: Nigeria">&nbsp;</span></td>
-<td><span title="flag: Nicaragua">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mauritius"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Maldives"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Malawi"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mexico"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Malaysia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mozambique"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Namibia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: New Caledonia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Niger"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Norfolk Island"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Nigeria"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Nicaragua"></td>
 </tr><tr>
-<td><span title="flag: Netherlands">&nbsp;</span></td>
-<td><span title="flag: Norway">&nbsp;</span></td>
-<td><span title="flag: Nepal">&nbsp;</span></td>
-<td><span title="flag: Nauru">&nbsp;</span></td>
-<td><span title="flag: Niue">&nbsp;</span></td>
-<td><span title="flag: New Zealand">&nbsp;</span></td>
-<td><span title="flag: Oman">&nbsp;</span></td>
-<td><span title="flag: Panama">&nbsp;</span></td>
-<td><span title="flag: Peru">&nbsp;</span></td>
-<td><span title="flag: French Polynesia">&nbsp;</span></td>
-<td><span title="flag: Papua New Guinea">&nbsp;</span></td>
-<td><span title="flag: Philippines">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Netherlands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Norway"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Nepal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Nauru"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Niue"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: New Zealand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Oman"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Panama"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Peru"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: French Polynesia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Papua New Guinea"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Philippines"></td>
 </tr><tr>
-<td><span title="flag: Pakistan">&nbsp;</span></td>
-<td><span title="flag: Poland">&nbsp;</span></td>
-<td><span title="flag: St. Pierre & Miquelon">&nbsp;</span></td>
-<td><span title="flag: Pitcairn Islands">&nbsp;</span></td>
-<td><span title="flag: Puerto Rico">&nbsp;</span></td>
-<td><span title="flag: Palestinian Territories">&nbsp;</span></td>
-<td><span title="flag: Portugal">&nbsp;</span></td>
-<td><span title="flag: Palau">&nbsp;</span></td>
-<td><span title="flag: Paraguay">&nbsp;</span></td>
-<td><span title="flag: Qatar">&nbsp;</span></td>
-<td><span title="flag: Réunion">&nbsp;</span></td>
-<td><span title="flag: Romania">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Pakistan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Poland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Pierre & Miquelon"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Pitcairn Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Puerto Rico"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Palestinian Territories"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Portugal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Palau"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Paraguay"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Qatar"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Réunion"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Romania"></td>
 </tr><tr>
-<td><span title="flag: Serbia">&nbsp;</span></td>
-<td><span title="flag: Russia">&nbsp;</span></td>
-<td><span title="flag: Rwanda">&nbsp;</span></td>
-<td><span title="flag: Saudi Arabia">&nbsp;</span></td>
-<td><span title="flag: Solomon Islands">&nbsp;</span></td>
-<td><span title="flag: Seychelles">&nbsp;</span></td>
-<td><span title="flag: Sudan">&nbsp;</span></td>
-<td><span title="flag: Sweden">&nbsp;</span></td>
-<td><span title="flag: Singapore">&nbsp;</span></td>
-<td><span title="flag: St. Helena">&nbsp;</span></td>
-<td><span title="flag: Slovenia">&nbsp;</span></td>
-<td><span title="flag: Svalbard & Jan Mayen">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Serbia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Russia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Rwanda"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Saudi Arabia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Solomon Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Seychelles"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sudan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sweden"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Singapore"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Helena"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Slovenia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Svalbard & Jan Mayen"></td>
 </tr><tr>
-<td><span title="flag: Slovakia">&nbsp;</span></td>
-<td><span title="flag: Sierra Leone">&nbsp;</span></td>
-<td><span title="flag: San Marino">&nbsp;</span></td>
-<td><span title="flag: Senegal">&nbsp;</span></td>
-<td><span title="flag: Somalia">&nbsp;</span></td>
-<td><span title="flag: Suriname">&nbsp;</span></td>
-<td><span title="flag: South Sudan">&nbsp;</span></td>
-<td><span title="flag: São Tomé & Príncipe">&nbsp;</span></td>
-<td><span title="flag: El Salvador">&nbsp;</span></td>
-<td><span title="flag: Sint Maarten">&nbsp;</span></td>
-<td><span title="flag: Syria">&nbsp;</span></td>
-<td><span title="flag: Eswatini">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Slovakia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sierra Leone"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: San Marino"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Senegal"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Somalia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Suriname"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: South Sudan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: São Tomé & Príncipe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: El Salvador"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Sint Maarten"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Syria"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Eswatini"></td>
 </tr><tr>
-<td><span title="flag: Tristan da Cunha">&nbsp;</span></td>
-<td><span title="flag: Turks & Caicos Islands">&nbsp;</span></td>
-<td><span title="flag: Chad">&nbsp;</span></td>
-<td><span title="flag: French Southern Territories">&nbsp;</span></td>
-<td><span title="flag: Togo">&nbsp;</span></td>
-<td><span title="flag: Thailand">&nbsp;</span></td>
-<td><span title="flag: Tajikistan">&nbsp;</span></td>
-<td><span title="flag: Tokelau">&nbsp;</span></td>
-<td><span title="flag: Timor-Leste">&nbsp;</span></td>
-<td><span title="flag: Turkmenistan">&nbsp;</span></td>
-<td><span title="flag: Tunisia">&nbsp;</span></td>
-<td><span title="flag: Tonga">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tristan da Cunha"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Turks & Caicos Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Chad"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: French Southern Territories"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Togo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Thailand"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tajikistan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tokelau"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Timor-Leste"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Turkmenistan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tunisia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tonga"></td>
 </tr><tr>
-<td><span title="flag: Türkiye">&nbsp;</span></td>
-<td><span title="flag: Trinidad & Tobago">&nbsp;</span></td>
-<td><span title="flag: Tuvalu">&nbsp;</span></td>
-<td><span title="flag: Taiwan">&nbsp;</span></td>
-<td><span title="flag: Tanzania">&nbsp;</span></td>
-<td><span title="flag: Ukraine">&nbsp;</span></td>
-<td><span title="flag: Uganda">&nbsp;</span></td>
-<td><span title="flag: U.S. Outlying Islands">&nbsp;</span></td>
-<td><span title="flag: United Nations">&nbsp;</span></td>
-<td><span title="flag: United States">&nbsp;</span></td>
-<td><span title="flag: Uruguay">&nbsp;</span></td>
-<td><span title="flag: Uzbekistan">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Türkiye"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Trinidad & Tobago"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tuvalu"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Taiwan"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Tanzania"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Ukraine"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Uganda"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: U.S. Outlying Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: United Nations"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: United States"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Uruguay"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Uzbekistan"></td>
 </tr><tr>
-<td><span title="flag: Vatican City">&nbsp;</span></td>
-<td><span title="flag: St. Vincent & Grenadines">&nbsp;</span></td>
-<td><span title="flag: Venezuela">&nbsp;</span></td>
-<td><span title="flag: British Virgin Islands">&nbsp;</span></td>
-<td><span title="flag: U.S. Virgin Islands">&nbsp;</span></td>
-<td><span title="flag: Vietnam">&nbsp;</span></td>
-<td><span title="flag: Vanuatu">&nbsp;</span></td>
-<td><span title="flag: Wallis & Futuna">&nbsp;</span></td>
-<td><span title="flag: Samoa">&nbsp;</span></td>
-<td><span title="flag: Kosovo">&nbsp;</span></td>
-<td><span title="flag: Yemen">&nbsp;</span></td>
-<td><span title="flag: Mayotte">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Vatican City"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: St. Vincent & Grenadines"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Venezuela"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: British Virgin Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: U.S. Virgin Islands"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Vietnam"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Vanuatu"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Wallis & Futuna"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Samoa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Kosovo"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Yemen"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Mayotte"></td>
 </tr><tr>
-<td><span title="flag: South Africa">&nbsp;</span></td>
-<td><span title="flag: Zambia">&nbsp;</span></td>
-<td><span title="flag: Zimbabwe">&nbsp;</span></td>
-<td><span title="flag: England">&nbsp;</span></td>
-<td><span title="flag: Scotland">&nbsp;</span></td>
-<td><span title="flag: Wales">&nbsp;</span></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: South Africa"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Zambia"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Zimbabwe"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: England"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Scotland"></td>
+<td><img src="assets/placeholder.svg" width="28" title="flag: Wales"></td>
 </tr></table>
 </details>
 
