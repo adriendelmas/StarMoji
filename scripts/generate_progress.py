@@ -36,7 +36,7 @@ def done_map():
 def cell(cps, name, done):
     if cps in done:
         return f'<img src="{quote(done[cps].as_posix())}" width="28" title="{name}">'
-    return f'<span title="{name}" style="opacity:.25">⬜</span>'
+    return f'<span title="{name}">&nbsp;</span>'
 
 def render(groups, done):
     total = sum(len(v) for sg in groups.values() for v in sg.values())
