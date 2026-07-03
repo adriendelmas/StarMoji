@@ -23,35 +23,35 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 ## Progress
 
 <!-- PROGRESS:START -->
-**Overall: 2/3944 emoji (0%)**
+**Overall: 27/3944 emoji (1%)**
 
-<details><summary><b>Smileys & Emotion</b> — 2/171 (1%)</summary>
+<details><summary><b>Smileys & Emotion</b> — 27/171 (16%)</summary>
 
 <table><tr>
-<td><img src="n/1f600.png" width="28" align="top" title="grinning face"></td>
-<td><img src="n/1f603.png" width="28" align="top" title="grinning face with big eyes"></td>
-<td><img src="n/1f604.png" width="28" align="top" title="grinning face with smiling eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F600.svg" width="28" align="top" title="grinning face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F603.svg" width="28" align="top" title="grinning face with big eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F604.svg" width="28" align="top" title="grinning face with smiling eyes"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F601.svg" width="28" align="top" title="beaming face with smiling eyes"></td>
-<td><img src="n/1f606.png" width="28" align="top" title="grinning squinting face"></td>
-<td><img src="n/1f605.png" width="28" align="top" title="grinning face with sweat"></td>
-<td><img src="n/1f923.png" width="28" align="top" title="rolling on the floor laughing"></td>
-<td><img src="n/1f602.png" width="28" align="top" title="face with tears of joy"></td>
-<td><img src="n/1f642.png" width="28" align="top" title="slightly smiling face"></td>
-<td><img src="n/1f643.png" width="28" align="top" title="upside-down face"></td>
-<td><img src="n/1fae0.png" width="28" align="top" title="melting face"></td>
-<td><img src="n/1f609.png" width="28" align="top" title="winking face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F606.svg" width="28" align="top" title="grinning squinting face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F605.svg" width="28" align="top" title="grinning face with sweat"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F923.svg" width="28" align="top" title="rolling on the floor laughing"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F602.svg" width="28" align="top" title="face with tears of joy"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F642.svg" width="28" align="top" title="slightly smiling face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F643.svg" width="28" align="top" title="upside-down face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1FAE0.svg" width="28" align="top" title="melting face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F609.svg" width="28" align="top" title="winking face"></td>
 </tr><tr>
-<td><img src="n/1f60a.png" width="28" align="top" title="smiling face with smiling eyes"></td>
-<td><img src="n/1f607.png" width="28" align="top" title="smiling face with halo"></td>
-<td><img src="n/1f970.png" width="28" align="top" title="smiling face with hearts"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F60A.svg" width="28" align="top" title="smiling face with smiling eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F607.svg" width="28" align="top" title="smiling face with halo"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F970.svg" width="28" align="top" title="smiling face with hearts"></td>
 <td><img src="n/1f60d.png" width="28" align="top" title="smiling face with heart-eyes"></td>
 <td><img src="n/1f929.png" width="28" align="top" title="star-struck"></td>
-<td><img src="n/1f618.png" width="28" align="top" title="face blowing a kiss"></td>
-<td><img src="n/1f617.png" width="28" align="top" title="kissing face"></td>
-<td><img src="n/263a.png" width="28" align="top" title="smiling face"></td>
-<td><img src="n/1f61a.png" width="28" align="top" title="kissing face with closed eyes"></td>
-<td><img src="n/1f619.png" width="28" align="top" title="kissing face with smiling eyes"></td>
-<td><img src="n/1f972.png" width="28" align="top" title="smiling face with tear"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F618.svg" width="28" align="top" title="face blowing a kiss"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F617.svg" width="28" align="top" title="kissing face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/263A-FE0F.svg" width="28" align="top" title="smiling face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F61A.svg" width="28" align="top" title="kissing face with closed eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F619.svg" width="28" align="top" title="kissing face with smiling eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F972.svg" width="28" align="top" title="smiling face with tear"></td>
 <td><img src="n/1f60b.png" width="28" align="top" title="face savoring food"></td>
 </tr><tr>
 <td><img src="n/1f61b.png" width="28" align="top" title="face with tongue"></td>
@@ -68,11 +68,11 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 <td><img src="n/1fae1.png" width="28" align="top" title="saluting face"></td>
 </tr><tr>
 <td><img src="n/1f910.png" width="28" align="top" title="zipper-mouth face"></td>
-<td><img src="n/1f928.png" width="28" align="top" title="face with raised eyebrow"></td>
-<td><img src="n/1f610.png" width="28" align="top" title="neutral face"></td>
-<td><img src="n/1f611.png" width="28" align="top" title="expressionless face"></td>
-<td><img src="n/1f636.png" width="28" align="top" title="face without mouth"></td>
-<td><img src="n/1fae5.png" width="28" align="top" title="dotted line face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-neutral-skeptical/1F928.svg" width="28" align="top" title="face with raised eyebrow"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-neutral-skeptical/1F610.svg" width="28" align="top" title="neutral face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-neutral-skeptical/1F611.svg" width="28" align="top" title="expressionless face"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-neutral-skeptical/1F636.svg" width="28" align="top" title="face without mouth"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-neutral-skeptical/1FAE5.svg" width="28" align="top" title="dotted line face"></td>
 <td><img src="n/1f636_200d_1f32b.png" width="28" align="top" title="face in clouds"></td>
 <td><img src="n/1f60f.png" width="28" align="top" title="smirking face"></td>
 <td><img src="n/1f612.png" width="28" align="top" title="unamused face"></td>
