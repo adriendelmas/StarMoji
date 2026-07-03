@@ -2,6 +2,7 @@ import re
 import urllib.request
 from pathlib import Path
 from collections import defaultdict
+from urllib.parse import quote
 
 UNICODE_VERSION = "17.0.0"
 EMOJI_TEST_URL = f"https://unicode.org/Public/{UNICODE_VERSION}/emoji/emoji-test.txt"
@@ -16,7 +17,7 @@ def fetch():
 def parse(text):
     groups = defaultdict(lambda: defaultdict(list))
     group = subgroup = None
-    row_re = re.compile(r"^([0-9A-F ]+)\s*;\s*(\S+)\s*#\s*\S+\s+(.*)$")
+    row_re = re.compile(r"^([0-9A-F ]+)\s*;\s*(\S+)\s*#\s*\S+\s+E\d+\.\d+\s+(.*)$")
     for line in text.splitlines():
         if line.startswith("# group:"):
             group = line.split(":", 1)[1].strip()
@@ -34,7 +35,7 @@ def done_map():
 
 def cell(cps, name, done):
     if cps in done:
-        return f'<img src="{done[cps].as_posix()}" width="28" title="{name}">'
+        return f'<img src="{quote(done[cps].as_posix())}" width="28" title="{name}">'
     return f'<span title="{name}" style="opacity:.25">⬜</span>'
 
 def render(groups, done):

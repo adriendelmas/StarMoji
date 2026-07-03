@@ -19,7 +19,7 @@ def load_lookup():
     text = urllib.request.urlopen(EMOJI_TEST_URL).read().decode("utf-8")
     lookup = {}
     group = subgroup = None
-    row_re = re.compile(r"^([0-9A-F ]+)\s*;\s*(\S+)\s*#\s*\S+\s+(.*)$")
+    row_re = re.compile(r"^([0-9A-F ]+)\s*;\s*(\S+)\s*#\s*\S+\s+E\d+\.\d+\s+(.*)$")
     for line in text.splitlines():
         if line.startswith("# group:"):
             group = line.split(":", 1)[1].strip()
