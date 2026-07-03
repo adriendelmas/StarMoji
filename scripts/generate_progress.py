@@ -8,6 +8,8 @@ UNICODE_VERSION = "17.0.0"
 EMOJI_TEST_URL = f"https://unicode.org/Public/{UNICODE_VERSION}/emoji/emoji-test.txt"
 SVG_DIR = Path("sources/svg")
 README_PATH = Path("README.md")
+NOTO_LIST = Path("data/noto-files.txt")
+NOTO_BG = "ff000040"  # rouge, ~25% d'opacite
 START, END = "<!-- PROGRESS:START -->", "<!-- PROGRESS:END -->"
 PER_ROW = 12
 
@@ -33,12 +35,27 @@ def parse(text):
 def done_map():
     return {p.stem.upper(): p for p in SVG_DIR.rglob("*.svg")}
 
-def cell(cps, name, done):
+def load_noto():
+    if NOTO_LIST.exists():
+        return {l.strip() for l in NOTO_LIST.read_text(encoding="utf-8-sig").splitlines() if l.strip()}
+    return set()
+
+def noto_file(cps):
+    parts = [f"{int(p, 16):04x}" for p in cps.split("-") if p.upper() != "FE0F"]
+    return "emoji_u" + "_".join(parts) + ".png"
+
+def cell(cps, name, done, noto):
     if cps in done:
         return f'<img src="{quote(done[cps].as_posix())}" width="28" height="28" align="top" title="{name}">'
+    nf = noto_file(cps)
+    if nf in noto:
+        src = (f"https://images.weserv.nl/?url=raw.githubusercontent.com"
+               f"%2Fgooglefonts%2Fnoto-emoji%2Fmain%2Fpng%2F72%2F{nf}"
+               f"&amp;w=56&amp;h=56&amp;fit=contain&amp;bg={NOTO_BG}")
+        return f'<img src="{src}" width="28" height="28" align="top" title="{name}">'
     return f'<img src="assets/placeholder.svg" width="28" height="28" align="top" title="{name}">'
 
-def render(groups, done):
+def render(groups, done, noto):
     total = sum(len(v) for sg in groups.values() for v in sg.values())
     made = sum(1 for sg in groups.values() for v in sg.values() for cps, _ in v if cps in done)
     out = [f"**Overall: {made}/{total} emoji ({round(100*made/total)}%)**\n"]
@@ -50,7 +67,7 @@ def render(groups, done):
         for i, (cps, name) in enumerate(g_all):
             if i and i % PER_ROW == 0:
                 out.append("</tr><tr>")
-            out.append(f'<td align="center" valign="middle" height="42">{cell(cps, name, done)}</td>')
+            out.append(f'<td align="center" valign="middle" height="42">{cell(cps, name, done, noto)}</td>')
         out.append("</tr></table>\n</details>\n")
     return "\n".join(out)
 
@@ -62,4 +79,4 @@ def write_readme(block):
     README_PATH.write_text(text, encoding="utf-8")
 
 if __name__ == "__main__":
-    write_readme(render(parse(fetch()), done_map()))
+    write_readme(render(parse(fetch()), done_map(), load_noto()))
