@@ -4061,290 +4061,290 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 <td align="center" height="42"><img src="n/1f3f3_200d_1f308.png" width="28" height="28" align="top"></td>
 <td align="center" height="42"><img src="n/1f3f3_200d_26a7.png" width="28" height="28" align="top"></td>
 <td align="center" height="42"><img src="n/1f3f4_200d_2620.png" width="28" height="28" align="top"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ascension Island"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Andorra"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: United Arab Emirates"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Afghanistan"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1eb.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Antigua & Barbuda"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Anguilla"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Albania"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Armenia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Angola"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Antarctica"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Argentina"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: American Samoa"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Austria"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Australia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Aruba"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Åland Islands"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1fd.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Azerbaijan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bosnia & Herzegovina"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Barbados"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bangladesh"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Belgium"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Burkina Faso"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bulgaria"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bahrain"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Burundi"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Benin"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Barthélemy"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bermuda"></td>
+<td align="center" height="42"><img src="n/1f1e6_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1e7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ef.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f2.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Brunei"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bolivia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Caribbean Netherlands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Brazil"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bahamas"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bhutan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Bouvet Island"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Botswana"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Belarus"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Belize"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Canada"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cocos (Keeling) Islands"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e7_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1e8.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Congo - Kinshasa"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Central African Republic"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Congo - Brazzaville"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Switzerland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Côte d’Ivoire"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cook Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Chile"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cameroon"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: China"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Colombia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Clipperton Island"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sark"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f6.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Costa Rica"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cuba"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cape Verde"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Curaçao"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Christmas Island"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cyprus"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Czechia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Germany"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Diego Garcia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Djibouti"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Denmark"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Dominica"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1fd.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e8_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1ef.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1f2.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Dominican Republic"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Algeria"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ceuta & Melilla"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ecuador"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Estonia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Egypt"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Western Sahara"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Eritrea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Spain"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ethiopia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: European Union"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Finland"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1e9_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ea_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1ee.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Fiji"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Falkland Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Micronesia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Faroe Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: France"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Gabon"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: United Kingdom"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Grenada"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Georgia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: French Guiana"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guernsey"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ghana"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1ef.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1eb_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1e7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1ed.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Gibraltar"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Greenland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Gambia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guinea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guadeloupe"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Equatorial Guinea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Greece"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: South Georgia & South Sandwich Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guatemala"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guam"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guinea-Bissau"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Guyana"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ec_1f1fe.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Hong Kong SAR China"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Heard & McDonald Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Honduras"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Croatia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Haiti"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Hungary"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Canary Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Indonesia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ireland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Israel"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Isle of Man"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: India"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ed_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f3.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: British Indian Ocean Territory"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Iraq"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Iran"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Iceland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Italy"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Jersey"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Jamaica"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Jordan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Japan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kenya"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kyrgyzstan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cambodia"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ee_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ef_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ef_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ef_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ef_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1ed.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kiribati"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Comoros"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Kitts & Nevis"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: North Korea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: South Korea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kuwait"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Cayman Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kazakhstan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Laos"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Lebanon"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Lucia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Liechtenstein"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f0_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1e7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1ee.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sri Lanka"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Liberia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Lesotho"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Lithuania"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Luxembourg"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Latvia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Libya"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Morocco"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Monaco"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Moldova"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Montenegro"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Martin"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f1_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1eb.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Madagascar"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Marshall Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: North Macedonia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mali"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Myanmar (Burma)"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mongolia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Macao SAR China"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Northern Mariana Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Martinique"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mauritania"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Montserrat"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Malta"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1f9.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mauritius"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Maldives"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Malawi"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mexico"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Malaysia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mozambique"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Namibia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: New Caledonia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Niger"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Norfolk Island"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Nigeria"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Nicaragua"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1fd.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f2_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1ee.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Netherlands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Norway"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Nepal"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Nauru"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Niue"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: New Zealand"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Oman"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Panama"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Peru"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: French Polynesia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Papua New Guinea"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Philippines"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1f5.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f3_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f4_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1ed.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Pakistan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Poland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Pierre & Miquelon"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Pitcairn Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Puerto Rico"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Palestinian Territories"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Portugal"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Palau"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Paraguay"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Qatar"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Réunion"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Romania"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f5_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f6_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f7_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f7_1f1f4.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Serbia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Russia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Rwanda"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Saudi Arabia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Solomon Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Seychelles"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sudan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sweden"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Singapore"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Helena"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Slovenia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Svalbard & Jan Mayen"></td>
+<td align="center" height="42"><img src="n/1f1f7_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f7_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f7_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1e7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ef.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Slovakia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sierra Leone"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: San Marino"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Senegal"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Somalia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Suriname"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: South Sudan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: São Tomé & Príncipe"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: El Salvador"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Sint Maarten"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Syria"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Eswatini"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f4.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1fd.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f8_1f1ff.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tristan da Cunha"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Turks & Caicos Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Chad"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: French Southern Territories"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Togo"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Thailand"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tajikistan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tokelau"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Timor-Leste"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Turkmenistan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tunisia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tonga"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1e9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1ed.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1ef.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f1.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f4.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Türkiye"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Trinidad & Tobago"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tuvalu"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Taiwan"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Tanzania"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Ukraine"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Uganda"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: U.S. Outlying Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: United Nations"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: United States"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Uruguay"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Uzbekistan"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f7.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1f9.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1fb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1f9_1f1ff.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1fe.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fa_1f1ff.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Vatican City"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: St. Vincent & Grenadines"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Venezuela"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: British Virgin Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: U.S. Virgin Islands"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Vietnam"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Vanuatu"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Wallis & Futuna"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Samoa"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Kosovo"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Yemen"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Mayotte"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1e8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1ec.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1ee.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1f3.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fb_1f1fa.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fc_1f1eb.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fc_1f1f8.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fd_1f1f0.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fe_1f1ea.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1fe_1f1f9.png" width="28" height="28" align="top"></td>
 </tr><tr>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: South Africa"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Zambia"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Zimbabwe"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: England"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Scotland"></td>
-<td align="center" height="42"><img src="assets/placeholder.svg" width="28" height="28" align="top" title="flag: Wales"></td>
+<td align="center" height="42"><img src="n/1f1ff_1f1e6.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ff_1f1f2.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f1ff_1f1fc.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f3f4_e0067_e0062_e0065_e006e_e0067_e007f.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f3f4_e0067_e0062_e0073_e0063_e0074_e007f.png" width="28" height="28" align="top"></td>
+<td align="center" height="42"><img src="n/1f3f4_e0067_e0062_e0077_e006c_e0073_e007f.png" width="28" height="28" align="top"></td>
 </tr></table>
 </details>
 
