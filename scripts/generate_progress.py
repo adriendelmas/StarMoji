@@ -50,7 +50,7 @@ def render(groups, done):
         for i, (cps, name) in enumerate(g_all):
             if i and i % PER_ROW == 0:
                 out.append("</tr><tr>")
-            out.append(f'<td align="center" valign="middle">{cell(cps, name, done)}</td>')
+            out.append(f'<td align="center" valign="middle" height="42">{cell(cps, name, done)}</td>')
         out.append("</tr></table>\n</details>\n")
     return "\n".join(out)
 
