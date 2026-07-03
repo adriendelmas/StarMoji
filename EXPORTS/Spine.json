@@ -1,0 +1,24 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"flushed-face","bone":"root","attachment":"flushed-face"},
+	{"name":"slightly-smiling-face","bone":"root","attachment":"slightly-smiling-face"},
+	{"name":"upside-down-face","bone":"root","attachment":"upside-down-face"},
+	{"name":"grinning-face","bone":"root","attachment":"grinning-face"},
+	{"name":"beaming-face-with-smiling-eyes","bone":"root","attachment":"beaming-face-with-smiling-eyes"},
+	{"name":"grinning-face-with-smiling-eyes","bone":"root","attachment":"grinning-face-with-smiling-eyes"},
+	{"name":"grinning-face-with-big-eyes","bone":"root","attachment":"grinning-face-with-big-eyes"}
+],
+"skins":{
+	"default":{
+		"flushed-face":{"flushed-face":{"x":,"y":,"width":,"height":}},
+		"slightly-smiling-face":{"slightly-smiling-face":{"x":,"y":,"width":,"height":}},
+		"upside-down-face":{"upside-down-face":{"x":,"y":,"width":,"height":}},
+		"grinning-face":{"grinning-face":{"x":,"y":,"width":,"height":}},
+		"beaming-face-with-smiling-eyes":{"beaming-face-with-smiling-eyes":{"x":,"y":,"width":,"height":}},
+		"grinning-face-with-smiling-eyes":{"grinning-face-with-smiling-eyes":{"x":,"y":,"width":,"height":}},
+		"grinning-face-with-big-eyes":{"grinning-face-with-big-eyes":{"x":,"y":,"width":,"height":}}
+	}
+},
+"animations":{"animation":{}}
+}
