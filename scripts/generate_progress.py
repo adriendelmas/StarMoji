@@ -35,8 +35,8 @@ def done_map():
 
 def cell(cps, name, done):
     if cps in done:
-        return f'<img src="{quote(done[cps].as_posix())}" width="28" title="{name}">'
-    return f'<img src="assets/placeholder.svg" width="28" title="{name}">'
+        return f'<img src="{quote(done[cps].as_posix())}" width="28" height="28" title="{name}">'
+    return f'<img src="assets/placeholder.svg" width="28" height="28" title="{name}">'
 
 def render(groups, done):
     total = sum(len(v) for sg in groups.values() for v in sg.values())
@@ -50,7 +50,7 @@ def render(groups, done):
         for i, (cps, name) in enumerate(g_all):
             if i and i % PER_ROW == 0:
                 out.append("</tr><tr>")
-            out.append(f"<td>{cell(cps, name, done)}</td>")
+            out.append(f'<td align="center" valign="middle">{cell(cps, name, done)}</td>')
         out.append("</tr></table>\n</details>\n")
     return "\n".join(out)
 
