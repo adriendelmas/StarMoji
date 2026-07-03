@@ -23,9 +23,9 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 ## Progress
 
 <!-- PROGRESS:START -->
-**Overall: 28/3944 emoji (1%)**
+**Overall: 29/3944 emoji (1%)**
 
-<details><summary><b>Smileys & Emotion</b> — 28/171 (16%)</summary>
+<details><summary><b>Smileys & Emotion</b> — 29/171 (17%)</summary>
 
 <table><tr>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F600.svg" width="28" align="top" title="grinning face"></td>
@@ -45,7 +45,7 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F607.svg" width="28" align="top" title="smiling face with halo"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F970.svg" width="28" align="top" title="smiling face with hearts"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F60D.svg" width="28" align="top" title="smiling face with heart-eyes"></td>
-<td><img src="n/1f929.png" width="28" align="top" title="star-struck"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F929.svg" width="28" align="top" title="star-struck"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F618.svg" width="28" align="top" title="face blowing a kiss"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/1F617.svg" width="28" align="top" title="kissing face"></td>
 <td><img src="sources/svg/Smileys%20%26%20Emotion/face-affection/263A-FE0F.svg" width="28" align="top" title="smiling face"></td>
