@@ -3,7 +3,8 @@ import urllib.request
 from pathlib import Path
 from collections import defaultdict
 
-EMOJI_TEST_URL = "https://unicode.org/Public/emoji/17.0/emoji-test.txt"
+UNICODE_VERSION = "17.0.0"
+EMOJI_TEST_URL = f"https://unicode.org/Public/{UNICODE_VERSION}/emoji/emoji-test.txt"
 SVG_DIR = Path("sources/svg")
 README_PATH = Path("README.md")
 START, END = "<!-- PROGRESS:START -->", "<!-- PROGRESS:END -->"
@@ -28,12 +29,12 @@ def parse(text):
                 groups[group][subgroup].append((cps, m.group(3).strip()))
     return groups
 
-def done_set():
-    return {p.stem.upper() for p in SVG_DIR.glob("*.svg")}
+def done_map():
+    return {p.stem.upper(): p for p in SVG_DIR.rglob("*.svg")}
 
 def cell(cps, name, done):
     if cps in done:
-        return f'<img src="sources/svg/{cps}.svg" width="28" title="{name}">'
+        return f'<img src="{done[cps].as_posix()}" width="28" title="{name}">'
     return f'<span title="{name}" style="opacity:.25">⬜</span>'
 
 def render(groups, done):
@@ -60,4 +61,4 @@ def write_readme(block):
     README_PATH.write_text(text, encoding="utf-8")
 
 if __name__ == "__main__":
-    write_readme(render(parse(fetch()), done_set()))
+    write_readme(render(parse(fetch()), done_map()))
