@@ -19,7 +19,7 @@ UNICODE_VERSION = "17.0.0"
 EMOJI_TEST_URL = f"https://unicode.org/Public/{UNICODE_VERSION}/emoji/emoji-test.txt"
 NOTO_PNG_URL = "https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/72/emoji_u{}.png"
 OUT_DIR = Path("n")
-SIZE = 56
+SIZE = 36
 OPACITY = 0.25
 
 def all_codepoints():

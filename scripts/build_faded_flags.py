@@ -19,7 +19,7 @@ FLAGS_URL = ("https://raw.githubusercontent.com/googlefonts/noto-emoji/main/"
              "third_party/region-flags/waved-svg/{}")
 LIST_URL = "https://api.github.com/repos/googlefonts/noto-emoji/git/trees/main?recursive=1"
 OUT_DIR = Path("n")
-SIZE = 56
+SIZE = 36
 OPACITY = 0.25
 
 def list_flag_files():
