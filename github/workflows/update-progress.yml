@@ -1,0 +1,15 @@
+name: Update progress table
+on:
+  push:
+    paths:
+      - "sources/svg/**"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - run: python scripts/generate_progress.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update emoji progress table"
