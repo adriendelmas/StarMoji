@@ -35,11 +35,11 @@ def done_map():
 
 def cell(cps, name, done):
     if cps in done:
-        return f'<img src="{quote(done[cps].as_posix())}" width="28" height="28" align="top" title="{name}">'
+        return f'<img src="{quote(done[cps].as_posix())}" width="28" align="top" title="{name}">'
     short = "_".join(f"{int(p, 16):04x}" for p in cps.split("-") if p.upper() != "FE0F")
     if (Path("n") / f"{short}.png").exists():
-        return f'<img src="n/{short}.png" width="28" height="28" align="top">'
-    return f'<img src="assets/placeholder.svg" width="28" height="28" align="top" title="{name}">'
+        return f'<img src="n/{short}.png" width="28" align="top" title="{name}">'
+    return f'<img src="assets/placeholder.svg" width="28" align="top" title="{name}">'
 
 def render(groups, done):
     total = sum(len(v) for sg in groups.values() for v in sg.values())
@@ -53,7 +53,7 @@ def render(groups, done):
         for i, (cps, name) in enumerate(g_all):
             if i and i % PER_ROW == 0:
                 out.append("</tr><tr>")
-            out.append(f'<td align="center" height="42">{cell(cps, name, done)}</td>')
+            out.append(f'<td>{cell(cps, name, done)}</td>')
         out.append("</tr></table>\n</details>\n")
     return "\n".join(out)
 
