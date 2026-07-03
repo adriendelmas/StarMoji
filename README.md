@@ -23,15 +23,15 @@ layers, and other reusable building blocks — as native Affinity (`.afdesign`) 
 ## Progress
 
 <!-- PROGRESS:START -->
-**Overall: 1/3944 emoji (0%)**
+**Overall: 2/3944 emoji (0%)**
 
-<details><summary><b>Smileys & Emotion</b> — 1/171 (1%)</summary>
+<details><summary><b>Smileys & Emotion</b> — 2/171 (1%)</summary>
 
 <table><tr>
 <td><img src="n/1f600.png" width="28" align="top" title="grinning face"></td>
 <td><img src="n/1f603.png" width="28" align="top" title="grinning face with big eyes"></td>
 <td><img src="n/1f604.png" width="28" align="top" title="grinning face with smiling eyes"></td>
-<td><img src="n/1f601.png" width="28" align="top" title="beaming face with smiling eyes"></td>
+<td><img src="sources/svg/Smileys%20%26%20Emotion/face-smiling/1F601.svg" width="28" align="top" title="beaming face with smiling eyes"></td>
 <td><img src="n/1f606.png" width="28" align="top" title="grinning squinting face"></td>
 <td><img src="n/1f605.png" width="28" align="top" title="grinning face with sweat"></td>
 <td><img src="n/1f923.png" width="28" align="top" title="rolling on the floor laughing"></td>
