@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 1150 1150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1,0,0,1,-5175,75)">
-        <g id="grinning-face-with-sweat" serif:id="grinning face with sweat" transform="matrix(1,0,0,1,5250,0)">
-            <rect x="0" y="0" width="1000" height="1000" style="fill:none;"/>
-            <clipPath id="_clip1">
-                <rect x="0" y="0" width="1000" height="1000"/>
-            </clipPath>
-            <g clip-path="url(#_clip1)">
-                <g id="FACE">
-                    <g transform="matrix(1.004147,0,0,1.004147,-2.073365,-2.073365)">
-                        <circle cx="500" cy="500" r="398.348" style="fill:rgb(255,201,0);"/>
-                    </g>
-                    <g transform="matrix(1,-0,-0,1,-75,-75)">
-                        <use xlink:href="#_Image2" x="170.619" y="160.619" width="810px" height="496px"/>
-                    </g>
-                    <g transform="matrix(1.004147,0,0,1.004147,-2.073365,-2.073365)">
-                        <g transform="matrix(0.99587,-0,-0,0.99587,-72.625476,-72.625476)">
-                            <use xlink:href="#_Image3" x="175" y="175" width="800px" height="800px"/>
-                        </g>
-                    </g>
-                </g>
-                <g id="MOUTH" transform="matrix(1,-0,-0,1,-75,-75)">
-                    <use xlink:href="#_Image4" x="313.626" y="406.45" width="534px" height="476px"/>
-                </g>
-                <g id="DROP">
-                    <g transform="matrix(1,-0,-0,1,-75,-75)">
-                        <use xlink:href="#_Image5" x="734.896" y="205.618" width="264px" height="378px"/>
-                    </g>
-                </g>
-            </g>
+    <rect id="grinning-face-with-sweat" serif:id="grinning face with sweat" x="75" y="75" width="1000" height="1000" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="75" y="75" width="1000" height="1000"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="FACE">
+            <circle cx="575" cy="575" r="400" style="fill:rgb(255,201,0);"/>
+            <use xlink:href="#_Image2" x="170.619" y="160.619" width="810px" height="496px"/>
+            <use xlink:href="#_Image3" x="175" y="175" width="800px" height="800px"/>
+        </g>
+        <use id="MOUTH" xlink:href="#_Image4" x="313.626" y="406.45" width="534px" height="476px"/>
+        <g id="DROP">
+            <use xlink:href="#_Image5" x="734.896" y="205.618" width="264px" height="378px"/>
         </g>
     </g>
     <defs>
